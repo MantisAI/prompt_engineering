@@ -1,0 +1,717 @@
+{
+    "prompt_template": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"{text_A}\" similar to sentence \"{text_B}\" ?\nResponse:",
+    "data": [
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A group of boys in a yard is playing and a man is standing in the background\" similar to sentence \"The young boys are playing outdoors and the man is smiling nearby\" ?\nResponse:",
+            "result": " similar\n\nIs the sentence \"There is a",
+            "pred": 1,
+            "label": 1,
+            "time": 1.863699197769165
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A group of children is playing in the house and there is no man standing in the background\" similar to sentence \"The young boys are playing outdoors and the man is smiling nearby\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.6225621700286865
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A brown dog is attacking another animal in front of the tall man in pants\" similar to sentence \"A brown dog is attacking another animal in front of the man in pants\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.6426823139190674
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A brown dog is attacking another animal in front of the man in pants\" similar to sentence \"A brown dog is helping another animal in front of the man in pants\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.6220283508300781
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two dogs are wrestling and hugging\" similar to sentence \"There is no dog wrestling and hugging\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.795945167541504
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A brown dog is attacking another animal in front of the man in pants\" similar to sentence \"There is no dog wrestling and hugging\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3866291046142578
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two dogs are wrestling and hugging\" similar to sentence \"A brown dog is attacking another animal in front of the tall man in pants\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.5738670825958252
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two dogs are wrestling and hugging\" similar to sentence \"A brown dog is helping another animal in front of the man in pants\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3812170028686523
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A person in a black jacket is doing tricks on a motorbike\" similar to sentence \"A man in a black jacket is doing tricks on a motorbike\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.6032328605651855
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"There is no man in a black jacket doing tricks on a motorbike\" similar to sentence \"A person in a black jacket is doing tricks on a motorbike\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4108378887176514
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A person in a black jacket is doing tricks on a motorbike\" similar to sentence \"A person on a black motorbike is doing tricks with a jacket\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3802399635314941
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A skilled person is riding a bicycle on one wheel\" similar to sentence \"A person is riding the bicycle on one wheel\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A group",
+            "pred": 0,
+            "label": 1,
+            "time": 1.7698962688446045
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Nobody is riding the bicycle on one wheel\" similar to sentence \"A person is riding the bicycle on one wheel\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.8037745952606201
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A person is riding the bicycle on one wheel\" similar to sentence \"There is no man in a black jacket doing tricks on a motorbike\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3908758163452148
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A person is riding the bicycle on one wheel\" similar to sentence \"A person in a black jacket is doing tricks on a motorbike\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.5455005168914795
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A man with a jersey is dunking the ball at a basketball game\" similar to sentence \"There is no man dunking the ball at a basketball game\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.596940279006958
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"The game of basketball consists of a ball being dunked by a man with a jersey\" similar to sentence \"A man with a jersey is dunking the ball at a basketball game\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"The man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.5684490203857422
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A man who is playing dunks the basketball into the net and a crowd is in background\" similar to sentence \"The player is dunking the basketball into the net and a crowd is in background\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.6346282958984375
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"The player is missing the basket and a crowd is in background\" similar to sentence \"The player is dunking the basketball into the net and a crowd is in background\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"The player",
+            "pred": 0,
+            "label": 1,
+            "time": 1.6472678184509277
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A man with a jersey is dunking the ball at a basketball game\" similar to sentence \"The player is missing the basket and a crowd is in background\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.432544231414795
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"The player is dunking the basketball into the net and a crowd is in background\" similar to sentence \"The ball is being dunked by a man with a jersey at a basketball game\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"The man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4101922512054443
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"There is no man dunking the ball at a basketball game\" similar to sentence \"The player is dunking the basketball into the net and a crowd is in background\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.53944730758667
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"The game of basketball consists of a ball being dunked by a man with a jersey\" similar to sentence \"The player is dunking the basketball into the net and a crowd is in background\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"The man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.5448524951934814
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two people are kickboxing and spectators are watching\" similar to sentence \"Two people are fighting and spectators are watching\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3765318393707275
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two spectators are kickboxing and some people are watching\" similar to sentence \"Two people are kickboxing and spectators are watching\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.581305980682373
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two people are kickboxing and spectators are watching\" similar to sentence \"Two young women are sparring in a kickboxing fight\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.6055846214294434
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two women are sparring in a kickboxing match\" similar to sentence \"Two people are fighting and spectators are watching\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3953359127044678
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two spectators are kickboxing and some people are watching\" similar to sentence \"Two women are sparring in a kickboxing match\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3759455680847168
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two people are kickboxing and spectators are watching\" similar to sentence \"Two women are sparring in a kickboxing match\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4249110221862793
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Kids in red shirts are playing in the leaves\" similar to sentence \"Children in red shirts are playing in the leaves\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3749477863311768
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Children in red shirts are playing in the leaves\" similar to sentence \"Children in red shirts are sleeping in the leaves\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.382465124130249
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Children in red shirts are playing in the leaves\" similar to sentence \"Children covered by leaves are playing with red shirts\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.6427686214447021
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Three boys are jumping in the leaves\" similar to sentence \"Children in red shirts are playing in the leaves\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.5963845252990723
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Kids in red shirts are playing in the leaves\" similar to sentence \"Three kids are jumping in the leaves\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3937361240386963
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Children in red shirts are sleeping in the leaves\" similar to sentence \"Three kids are jumping in the leaves\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.408325433731079
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Children covered by leaves are playing with red shirts\" similar to sentence \"Three kids are jumping in the leaves\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4007086753845215
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two children are lying in the snow and are drawing angels\" similar to sentence \"Two children are lying in the snow and are making snow angels\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3880722522735596
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two children are lying in the snow and are making snow angels\" similar to sentence \"There is no child lying in the snow and making snow angels\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.392512559890747
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two people wearing snowsuits are on the ground making snow angels\" similar to sentence \"Two people in snowsuits are lying in the snow and making snow angels\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.391815185546875
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two people in snowsuits are lying in the snow and making snow angels\" similar to sentence \"Nobody in snowsuits is lying in the snow and making snow angels\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.5902035236358643
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two children are lying in the snow and are making snow angels\" similar to sentence \"Two people wearing snowsuits are on the ground making snow angels\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4240005016326904
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two children are lying in the snow and are making snow angels\" similar to sentence \"Nobody in snowsuits is lying in the snow and making snow angels\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.6409919261932373
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"There is no child lying in the snow and making snow angels\" similar to sentence \"Two people in snowsuits are lying in the snow and making snow angels\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3817064762115479
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A little girl is looking at a woman in costume\" similar to sentence \"A young girl is looking at a woman in costume\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A little",
+            "pred": 0,
+            "label": 1,
+            "time": 1.5935850143432617
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A little girl is looking at a woman in costume\" similar to sentence \"The little girl is looking at a man in costume\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3993515968322754
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A little girl is looking at a woman in costume\" similar to sentence \"A little girl in costume looks like a woman\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A little",
+            "pred": 0,
+            "label": 0,
+            "time": 1.6027257442474365
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Masked people are looking in the same direction in a forest\" similar to sentence \"A little girl is looking at a woman in costume\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3806588649749756
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A little girl is looking at a woman in costume\" similar to sentence \"People wearing costumes are gathering in a forest and are looking in the same direction\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.418229579925537
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A man is jumping into an empty swimming pool\" similar to sentence \"A man is jumping into an empty pool\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.5858981609344482
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A lone biker is jumping in the air\" similar to sentence \"A man is jumping into an empty swimming pool\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A group",
+            "pred": 0,
+            "label": 0,
+            "time": 1.6504151821136475
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A man is jumping into an empty pool\" similar to sentence \"A biker is jumping in the air, alone\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3867123126983643
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A man is jumping into an empty pool\" similar to sentence \"There is no biker jumping in the air\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3836421966552734
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Four girls are doing backbends and playing outdoors\" similar to sentence \"Four girls are doing backbends and playing indoors\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.377659797668457
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Four girls are doing backbends and playing in the garden\" similar to sentence \"Four children are doing backbends in the park\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.399460792541504
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Four girls are doing backbends and playing indoors\" similar to sentence \"Four children are doing backbends in the park\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3876621723175049
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Four kids are doing backbends in the park\" similar to sentence \"Four girls are doing backbends and playing outdoors\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.391662836074829
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Four girls are doing backbends and playing outdoors\" similar to sentence \"Four children are doing backbends in the park\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3728036880493164
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A player is throwing the ball\" similar to sentence \"A player is running with the ball\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.390873908996582
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two groups of people are playing football\" similar to sentence \"Two teams are competing in a football match\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.5985400676727295
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two teams are competing in a football match\" similar to sentence \"Two teams are competing in a baseball game\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3896491527557373
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two teams are competing in a football match\" similar to sentence \"Football is being played by two competing teams\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.435807466506958
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A player is running with the ball\" similar to sentence \"Football is being played by two competing teams\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3817219734191895
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Two teams are competing in a football match\" similar to sentence \"A man who is playing is running with the ball in his hands\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3793854713439941
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Five children are standing in front of a wooden hut\" similar to sentence \"Five children are standing in front of a hut made of wood\" ?\nResponse:",
+            "result": " similar\n\nIs the sentence \"There is a",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3779470920562744
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Five kids are standing close together and one kid has a gun\" similar to sentence \"Five kids are standing close together and one kid has a weapon\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.5874791145324707
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Five children are standing in front of a wooden hut\" similar to sentence \"Five kids are standing close together and one kid has a weapon\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3954579830169678
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Five children are standing in front of a hut made of wood\" similar to sentence \"Five kids are standing close together and one kid has a gun\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3813560009002686
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Five children are standing in front of a wooden hut\" similar to sentence \"Five kids are standing close together and one kid has a gun\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There are",
+            "pred": 0,
+            "label": 0,
+            "time": 1.6431167125701904
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A person is wearing a hat and is sitting on the grass\" similar to sentence \"There is no person wearing a hat and sitting on the grass\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.407486915588379
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A person is sitting in a field and is wearing a hat\" similar to sentence \"A man is sitting in a field\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.387587547302246
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A man is sitting in a field\" similar to sentence \"There is no person wearing a hat and sitting on the grass\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.4200446605682373
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"An old man is sitting in a field\" similar to sentence \"A person is wearing a hat and is sitting on the grass\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3880219459533691
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A person is wearing a hat and is sitting on the grass\" similar to sentence \"A man is running in a field\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 0,
+            "time": 1.448094367980957
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"This group of people is practicing water safety and wearing preservers\" similar to sentence \"Preservers are being worn by a group of people who are practicing water safety\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"This group",
+            "pred": 0,
+            "label": 1,
+            "time": 1.6195504665374756
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Nobody is practicing water safety and wearing preservers\" similar to sentence \"This group of people is practicing water safety and wearing preservers\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.443739891052246
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A group of friends are riding the current in a raft\" similar to sentence \"Preservers are being worn by a group of people who are practicing water safety\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3815042972564697
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Nobody is practicing water safety and wearing preservers\" similar to sentence \"A group of friends are riding the current in a raft\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.4764082431793213
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A group is not riding the current in a raft\" similar to sentence \"This group of people is practicing water safety and wearing preservers\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3865902423858643
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A deer is jumping over a fence\" similar to sentence \"A deer is jumping over the enclosure\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A deer",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4074370861053467
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A wild deer is jumping a fence\" similar to sentence \"A deer is jumping a fence\" ?\nResponse:",
+            "result": " similar\n\nIs the sentence \"A man is",
+            "pred": 1,
+            "label": 1,
+            "time": 1.4391701221466064
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A deer is jumping a fence\" similar to sentence \"There is no deer jumping fences\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A deer",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4089725017547607
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A wild deer is jumping a fence\" similar to sentence \"A deer is jumping over a fence\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4057090282440186
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"There is no deer jumping fences\" similar to sentence \"A deer is jumping over a fence\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.4047200679779053
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A deer is jumping over the enclosure\" similar to sentence \"A deer is jumping a fence\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A deer",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3972792625427246
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A deer is jumping a fence\" similar to sentence \"A deer isn't jumping over the fence\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3909509181976318
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A deer is jumping over a fence\" similar to sentence \"A deer is jumping a fence\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A deer",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3981709480285645
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"People are walking outside a building that has many murals on it\" similar to sentence \"People are walking outside the building that has several murals on it\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4008491039276123
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Several people are in front of a building which is covered by colors\" similar to sentence \"Several people are in front of a colorful building\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.428199291229248
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Several people are in front of a building which is covered by colors\" similar to sentence \"People are walking outside a building that has many murals on it\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4068727493286133
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"Several people are in front of a colorful building\" similar to sentence \"People are walking inside a building that has many murals on it\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 0,
+            "time": 1.3873634338378906
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"People are walking outside a building that has many murals on it\" similar to sentence \"Several people are in front of a colorful building\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"There is",
+            "pred": 0,
+            "label": 1,
+            "time": 1.643043041229248
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A boy is hitting a baseball\" similar to sentence \"A child is hitting a baseball\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A boy",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3935205936431885
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A child is hitting a baseball\" similar to sentence \"A child is missing a baseball\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A child",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4081742763519287
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A family is watching a little boy who is hitting a baseball\" similar to sentence \"A family is watching a boy who is hitting a baseball\" ?\nResponse:",
+            "result": " similar\n\nIs the sentence \"A man is",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3699164390563965
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A little boy is watching a family that is hitting a baseball\" similar to sentence \"A family is watching a little boy who is hitting a baseball\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.385328769683838
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A family is watching a boy who is hitting a baseball\" similar to sentence \"A child is hitting a baseball\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4356062412261963
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A little boy is watching a family that is hitting a baseball\" similar to sentence \"A child is hitting a baseball\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A little",
+            "pred": 0,
+            "label": 1,
+            "time": 1.432875156402588
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A family is watching a little boy who is hitting a baseball\" similar to sentence \"A boy is hitting a baseball\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.4297010898590088
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A family is watching a little boy who is hitting a baseball\" similar to sentence \"A child is hitting a baseball\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A man",
+            "pred": 0,
+            "label": 1,
+            "time": 1.3843564987182617
+        },
+        {
+            "prompt": "Is the sentence \"There is no boy playing outdoors and there is no man smiling\" similar to sentence \"A group of kids is playing in a yard and an old man is standing in the background\" ?\nResponse: not similar\n\nIs the sentence \"A large group of Asian people is eating at a restaurant\" similar to sentence \"A group of people from Asia is eating at a restaurant\" ?\nResponse:",
+            "result": " not similar\n\nIs the sentence \"A group",
+            "pred": 0,
+            "label": 1,
+            "time": 1.628495216369629
+        }
+    ],
+    "metrics": {
+        "p": 1.0,
+        "r": 0.06060606060606061,
+        "f1": 0.1142857142857143
+    },
+    "total_time": 147.40888905525208,
+    "task": "similarity",
+    "model_name": "gpt-neox-20b",
+    "prompt_name": "4",
+    "sample_size": 100,
+    "n_shot": 1,
+    "use_api": true
+}

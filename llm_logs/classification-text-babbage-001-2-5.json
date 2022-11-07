@@ -1,0 +1,617 @@
+{
+    "prompt_template": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: {text}\nLabel:",
+    "data": [
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: i am revolting.\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.6358437538146973
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Rin might ever appeared gloomy but to be a melodramatic person was not her thing.\\n\\nBut honestly, she missed her old friend. The special one.\nLabel:",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.26464295387268066
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: In need of a change! #restless\nLabel:",
+            "pred": "sad",
+            "label": "sadness",
+            "time": 0.2789785861968994
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user @user #cmbyn does screen  August 4 &amp; 6 at #miff\nLabel:",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.27395200729370117
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user Get Donovan out of your soccer booth. He's awful. He's bitter. He makes me want to mute the tv. #horrid\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2567100524902344
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user how can u have sold so many copies but ur game has so many fucking bugs and mad lag issues. Optimize ur shit soon.\nLabel:",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.25803637504577637
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Pressured. \ud83d\ude26\nLabel:",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.2503037452697754
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Yes #depression &amp; #anxiety are real but so is bein #grateful &amp; #happiness \\nI choose how i wanna live MY life not some disorder\nLabel:",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.25728869438171387
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: People who say nmu are the worst, something has to be going on, tell me I wanna know bout your life that's why I fucking asked, I care \ud83d\ude24\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.28998422622680664
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user The hatred from the Left ought to concern everyone----who wants a police state-the left, so than can spy on all of us.\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2439885139465332
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user #shocking loss of talented young man#prayers#pray for his family\nLabel:",
+            "pred": "sad",
+            "label": "sadness",
+            "time": 0.2587392330169678
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Its #amazing watching various news outlets showing mixed crowds of ppl watching #Eclipse with NO #racial tension.. #MSM can't hide this!\nLabel:",
+            "pred": "sad",
+            "label": "joy",
+            "time": 0.25052642822265625
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: That moment when people say you don't need medicine, it's mind over matter. You need to stop doing that. #bipolar\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.27889347076416016
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user @user Please. Don't insult Goths.\nLabel:",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.25414276123046875
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user What an F'ing liar\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.26163220405578613
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: May or may not have just pulled the legal card on these folks. #irritated\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.3043348789215088
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Me: 'I miss your personality,will it come back?' Him: 'I'm sorry.I'm me. You be you.' #Sad #depressed #longdistancerelationship\nLabel:",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.2503030300140381
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Comparing yourself to others is one of the root causes for feelings of unhappiness and depression.\nLabel:",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.2464160919189453
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user @user Americans do not spank their children, and they are a God fearing people who knows the biggest sin is hypocrisy.\nLabel:",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.2508974075317383
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: The only upside to being deathly ill this week is that I've gotten better at taking pills. #optimism\nLabel:",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.2513411045074463
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Favorite character who's name starts with the letter M?\\n #Prisonbreak5  #The100 #GreysAnatomy\nLabel:",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.24691319465637207
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: I'm so nervous I could puke + my body temp is rising ha ha ha ha ha\nLabel:",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.26254868507385254
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: I cannot see a rational way of bearing a grudge to him for that. I do not. Maybe because I do not live by Netflix and I do not care...\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.25963401794433594
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: And let the depression take the stage once more \ud83d\ude43\nLabel:",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.25840330123901367
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: I love swimming for the same reason I love meditating...the feeling of weightlessness.\nLabel:",
+            "pred": "happiness",
+            "label": "joy",
+            "time": 0.2769598960876465
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user Is it just me that thinks it looks boring?\nLabel:",
+            "pred": "sad",
+            "label": "sadness",
+            "time": 0.28518128395080566
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: ,, The solar eclipse was really cool.. #inspiring!\nLabel:",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.2769205570220947
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user Really??? I've had to hang up!\nLabel:",
+            "pred": "sad",
+            "label": "anger",
+            "time": 0.25679588317871094
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: When Jim Sheridan is standing next to you and you don't say A WORD!!! #facepalm #tonguetied\nLabel:",
+            "pred": "sad",
+            "label": "anger",
+            "time": 0.27038121223449707
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user -- can handle myself.\\n[Carl yelled back in fury, blood smeared across his face and clothes. Still holding onto his --\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.27951717376708984
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user @user there was a fair bit of raging folk last night... something to do with pension day?\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.3279380798339844
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user No #racism, no #hatred , no #sectarianism  ... Only yes to love\nLabel:",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.2512195110321045
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: sleep is and will always be one of the best remedies for a tired and weary soul\nLabel:",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.25797152519226074
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user where is my order? Placed on Monday via express delivery, yet no sign!!! #annoyed #hurryup Your customer service queues are #awful\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2892143726348877
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: yukwon no video do zico the world is shaking\nLabel:",
+            "pred": "sad",
+            "label": "sadness",
+            "time": 0.27641725540161133
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: BUT, I have offended so many people with the idea that conflicts and value judgments are separate that we need to have a talk.\nLabel:",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.28281378746032715
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user - spelled exactly how it makes you feel 'better eat land line'. Talking to my mom this week has been impossible. #goodservice #rage\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.27278852462768555
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user John, what do you make of DJT's silence? He would usually be foaming at the mouth right now. Maybe he's constipated.\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2647068500518799
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user happy birthday machaaaa \ud83c\udf88\ud83c\udf89\ud83c\udf8a stay awesome and murah rezeki selalu \ud83d\udc4d\ud83c\udffb\nLabel:",
+            "pred": "sad",
+            "label": "joy",
+            "time": 0.25626516342163086
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: When you should be working, but you're shopping amazon prime deals instead... \ud83d\ude26\nLabel:",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.2532389163970947
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Karma is real bitch \ud83d\udd95\ud83c\udffcyou can't just be mean and do horrid things without paying the price \ud83d\ude02\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.28238725662231445
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user @user Agree with @user or you are of a lower intelligence would be your message there then? #dreadful\nLabel:",
+            "pred": "sad",
+            "label": "anger",
+            "time": 0.28301453590393066
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user Rumor has you are #wellendowed #awesome! Truth is you are a #big \ud83d\ude32 #notsomuch so you know a bunch of #gaypeople #sowhat\nLabel:",
+            "pred": "sad",
+            "label": "anger",
+            "time": 0.344832181930542
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: IK to PMLN: 'Darling, I will haunt you in your nightmares, dressed like a dream.' BEST THING EVER. #GameOverNawaz\nLabel:",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.2566390037536621
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: OMG we're eating drinking in a restaurant and  so is a baby!!! Quell horror #YummyMummiesAU\nLabel:",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.25545597076416016
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: hello phy6 i'm stressing over u ayuku na??\u00bf \u2639\nLabel:",
+            "pred": "sad",
+            "label": "sadness",
+            "time": 0.24066758155822754
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: There are parts of you that wants the sadness. Find them out, ask them why\nLabel:",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.24153876304626465
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Are you always looking for quotes of your days? Then follow @user to learn more!\\n #quote  #doubleviz\nLabel:",
+            "pred": "sad",
+            "label": "optimism",
+            "time": 0.25270891189575195
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user huhu kak help me through all of this\nLabel:",
+            "pred": "sad",
+            "label": "sadness",
+            "time": 0.2428731918334961
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Let's start all over again.....\\n#feels #lover #happiness #loyalty #truth\nLabel:",
+            "pred": "happiness",
+            "label": "joy",
+            "time": 0.2650172710418701
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Earth's sixth mass extinction event under way, scientists warn **basically  caused by Islamic Muslim terrorism which Obama dem- rats back*\nLabel:",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.24482488632202148
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Some days I feel like I'm going to accomplish everything I've ever dreamed.  Today is not one of those days #nomotivation #rainyday #gloomy\nLabel:",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.2514340877532959
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: For every one concept I try to cram into my brain, I feel like I'm pushing out three. #panic\nLabel:",
+            "pred": "panic",
+            "label": "sadness",
+            "time": 0.2507646083831787
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: \u201cThe #optimist proclaims that we live in the best of all possible worlds; and the #pessimist fears this is true.\u201d ~ James Branch Cabell\nLabel:",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.25364184379577637
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Red Sox fans are #mad #onhere - it's almost like their All Star relief pitcher and 1st baseman both left with injuries in this game \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.271639347076416
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user - @user has occupied one full lane for toll collection permanently resulting in traffic snarl everyday on UP Link Road\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2396543025970459
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: I've never been happier. I'm laying awake as I watch @user sleep. Thanks for making me happy again, babe.\nLabel:",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.23309564590454102
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: #Overheard: 'I don't really like dogs.' I DON'T FEEL SAFE IN THIS PLACE. Clearly a hostile environment!  #bigly #covfefe #TrustNoOne\nLabel:",
+            "pred": "sad",
+            "label": "anger",
+            "time": 0.23606610298156738
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user Hahaaa! Was fuming with that \ud83d\ude1e\ud83d\ude02\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.27254605293273926
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user lel I already know the whole plot dont worry I would have warned you :D man... Cid tho... That bitch slapped Gabranths hand away\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2618129253387451
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Aw, bummer. @user (Maura Rankin) blocked me for calling her out as a #bully. Some people just #CantHandleTheTruth, can they?\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.26946020126342773
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user is the man\nLabel:",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.24509191513061523
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Gorkas is angrily unhinged, &amp;lecturing CNN on what?they should cover demanding they go after Hillary Clinton instead of Trump.\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2835047245025635
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Request MRI 2 years ago, Neuro only requested last year, I'm still waiting on appointment  #mssucks #healthcareFail\nLabel:",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.25829577445983887
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user @user a serious character flaw. Nowhere close to @user\nLabel:",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.24802899360656738
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: 'I have a problem with authority.'\\n\\n'Oh, you mean you hate being told what to do?'\\n\\n'No. Authority figures just terrify me.'\\n\\n#SocialAnxiety\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2782175540924072
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user Improve on the makeup dear to avoid reduction in viewership...\nLabel:",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.2394556999206543
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: omg i'm soooo fucking fuming\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2516486644744873
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Pages like AjPlus profit off our outrage... they serve no purpose other than to show us shit that pisses us off. Don't need that negativity\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.27642059326171875
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Trying my hardest not to curse people off. I look annoyed for a reason don't tell me to smile bitch!\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.26061511039733887
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user please get Sebstian Gorka off of my tv.  The whole trump admin. needs to stop deflecting by talking about Hillary.  #awful\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2505943775177002
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user I have at 7am so I have to get up around 5am to get ready! N also 7am classes are never pleasant \ud83d\ude2d\nLabel:",
+            "pred": "sad",
+            "label": "sadness",
+            "time": 0.24766778945922852
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user Couldn't have delivered without you @user - #inspiring #partnership #women\nLabel:",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.24562835693359375
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: \u201cLet us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\u201d\\nGalatians 6:9 NIV\nLabel:",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.2477424144744873
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: omg they said kyungsoo looked gloomy and his instant smile after that i'm melting\nLabel:",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.2487475872039795
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user agreed but it had tessie by dropkicks playing outside of gameplay.  #awful\nLabel:",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.23273944854736328
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user @user @user FYI speed trap on I-75/I-475 NB.Changes to 50 Mph . Slow down or receive a $120 ticket in mail! #angry\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2490096092224121
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: love to see them interacting \ud83d\ude38\ud83d\ude4f #itsbeensolong #laughing\nLabel:",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.24410581588745117
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user I don't know my mouth was burning the whole time\nLabel:",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.2670481204986572
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: A woman is sterilised because she is certain that she doesn't want children. What exactly is there to discuss? \ud83d\ude20 #LooseWomen\nLabel:",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.24339032173156738
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Not only was @user and @user responsible for the unnecessary outrage of this movie, but made the director @user look bad\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2837038040161133
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: This the way I rage, \\n\\non sum wopstar shit \u2b50\ufe0f\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.24066472053527832
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: #happy #birthday #day trip #great day #super nice weather #blue sky #good mood #fun #love #ice cream #lycklig #f\u00f6delsedag #\u00f6land\nLabel:",
+            "pred": "happy",
+            "label": "joy",
+            "time": 0.26644158363342285
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user Yeah funny and sexy \ud83d\ude0d\nLabel:",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.2680552005767822
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: #depression is a condition which will affect an estimated one in five of the population at some point in their lives\nLabel:",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.2631700038909912
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user I Feel sick reading this, when does it end? #dread #civil war? #sad\nLabel:",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.23790502548217773
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user \ud83d\ude02 He looked like a sea weed version of cousin IT from adams family and was reaaaally tall.\nLabel:",
+            "pred": "sad",
+            "label": "joy",
+            "time": 0.23566365242004395
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: how i drink two 40s and im still somewhat sober ?\nLabel:",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.23847460746765137
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Oh Canada \ud83c\udde8\ud83c\udde6 shouldn't be sung like that. #terrible #MLBTHESHOW17\nLabel:",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.26761293411254883
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Mima tremendous at bringing the noise.\nLabel:",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.23984003067016602
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user Lol nah u subscrib 4 R60/pm. N pay R3 each day thus anada R90/pm. Lol stream n use de app using ur data. #smiles\nLabel:",
+            "pred": "sad",
+            "label": "joy",
+            "time": 0.26313304901123047
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Damn twitter making everybody mad, it's hilarious \ud83d\ude02\nLabel:",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.3300752639770508
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: this #overcast #cloudy #rainy weather makes me #lazy #glum and #sad\nLabel:",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.25213050842285156
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: this person hasn't uploaded episode six or seven of the lodge and i'm\nLabel:",
+            "pred": "sad",
+            "label": "anger",
+            "time": 0.2749452590942383
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user That'll be Madrid throwing a huff over Morata and De Gea. Fuck them\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2731146812438965
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: I think #Saudis are responsible for most of the #islamic #terror in the world. Both with their #Wahhabism and by financing terrorists \u2026\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2819938659667969
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: \ud83d\udd1d #love #instagood #photooftheday @user #photoeveryday #cute #picture #beautiful #followme #happy #follow #fashion #pic #picoftheday\nLabel:",
+            "pred": "happy",
+            "label": "joy",
+            "time": 0.2516462802886963
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: Of course I've got a horrible cold and am breaking out 2 days before grad \ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\nLabel:",
+            "pred": "sad",
+            "label": "sadness",
+            "time": 0.25032711029052734
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user @user You are a man after God's heart and I am proud that you are my president.  #BlessedAndGrateful #awesomeness\nLabel:",
+            "pred": "happiness",
+            "label": "joy",
+            "time": 0.2469649314880371
+        },
+        {
+            "prompt": "Classify Text into one of 4 labels: anger,optimism,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: joy\n\nText: What makes you feel #joyful?\nLabel: joy\n\nText: @user @user if I catch you making tea with water boiled up to 100 degrees, there will be dire consequences\nLabel:",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2429184913635254
+        }
+    ],
+    "metrics": {
+        "p": 0.32287087912087914,
+        "r": 0.21615971396267417,
+        "f1": 0.25045062557432674
+    },
+    "total_time": 26.528536796569824,
+    "task": "classification",
+    "model_name": "text-babbage-001",
+    "prompt_name": "2",
+    "sample_size": 100,
+    "n_shot": 5,
+    "use_api": true
+}

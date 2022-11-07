@@ -1,0 +1,717 @@
+{
+    "prompt_template": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: {text}\nSentiment: <extra_id_0>",
+    "data": [
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: i am revolting.\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.4704766273498535
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Rin might ever appeared gloomy but to be a melodramatic person was not her thing.\\n\\nBut honestly, she missed her old friend. The special one.\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4786567687988281
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: In need of a change! #restless\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.4705510139465332
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user @user #cmbyn does screen  August 4 &amp; 6 at #miff\nSentiment: <extra_id_0>",
+            "result": "optimism Tweet",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.4748384952545166
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user Get Donovan out of your soccer booth. He's awful. He's bitter. He makes me want to mute the tv. #horrid\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4811873435974121
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user how can u have sold so many copies but ur game has so many fucking bugs and mad lag issues. Optimize ur shit soon.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4807469844818115
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Pressured. \ud83d\ude26\nSentiment: <extra_id_0>",
+            "result": "optimism Tweet",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.46995973587036133
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Yes #depression &amp; #anxiety are real but so is bein #grateful &amp; #happiness \\nI choose how i wanna live MY life not some disorder\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.47733211517333984
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: People who say nmu are the worst, something has to be going on, tell me I wanna know bout your life that's why I fucking asked, I care \ud83d\ude24\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.48145174980163574
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user The hatred from the Left ought to concern everyone----who wants a police state-the left, so than can spy on all of us.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47826242446899414
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user #shocking loss of talented young man#prayers#pray for his family\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.47379589080810547
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Its #amazing watching various news outlets showing mixed crowds of ppl watching #Eclipse with NO #racial tension.. #MSM can't hide this!\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.47875165939331055
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: That moment when people say you don't need medicine, it's mind over matter. You need to stop doing that. #bipolar\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4789607524871826
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user @user Please. Don't insult Goths.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4702143669128418
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user What an F'ing liar\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4721565246582031
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: May or may not have just pulled the legal card on these folks. #irritated\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47350192070007324
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Me: 'I miss your personality,will it come back?' Him: 'I'm sorry.I'm me. You be you.' #Sad #depressed #longdistancerelationship\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4808478355407715
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Comparing yourself to others is one of the root causes for feelings of unhappiness and depression.\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.4729924201965332
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user @user Americans do not spank their children, and they are a God fearing people who knows the biggest sin is hypocrisy.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.47850489616394043
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: The only upside to being deathly ill this week is that I've gotten better at taking pills. #optimism\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.4761934280395508
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Favorite character who's name starts with the letter M?\\n #Prisonbreak5  #The100 #GreysAnatomy\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.47871875762939453
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: I'm so nervous I could puke + my body temp is rising ha ha ha ha ha\nSentiment: <extra_id_0>",
+            "result": "optimism Tweet",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.47208738327026367
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: I cannot see a rational way of bearing a grudge to him for that. I do not. Maybe because I do not live by Netflix and I do not care...\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47943949699401855
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: And let the depression take the stage once more \ud83d\ude43\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4735534191131592
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: I love swimming for the same reason I love meditating...the feeling of weightlessness.\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.47382664680480957
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user Is it just me that thinks it looks boring?\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.47350525856018066
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: ,, The solar eclipse was really cool.. #inspiring!\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.4734504222869873
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user Really??? I've had to hang up!\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4714360237121582
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: When Jim Sheridan is standing next to you and you don't say A WORD!!! #facepalm #tonguetied\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4819662570953369
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user -- can handle myself.\\n[Carl yelled back in fury, blood smeared across his face and clothes. Still holding onto his --\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4790151119232178
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user @user there was a fair bit of raging folk last night... something to do with pension day?\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.47805190086364746
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user No #racism, no #hatred , no #sectarianism  ... Only yes to love\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.4771602153778076
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: sleep is and will always be one of the best remedies for a tired and weary soul\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.47680068016052246
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user where is my order? Placed on Monday via express delivery, yet no sign!!! #annoyed #hurryup Your customer service queues are #awful\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47899317741394043
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: yukwon no video do zico the world is shaking\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.47303152084350586
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: BUT, I have offended so many people with the idea that conflicts and value judgments are separate that we need to have a talk.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.4757678508758545
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user - spelled exactly how it makes you feel 'better eat land line'. Talking to my mom this week has been impossible. #goodservice #rage\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47983384132385254
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user John, what do you make of DJT's silence? He would usually be foaming at the mouth right now. Maybe he's constipated.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.478701114654541
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user happy birthday machaaaa \ud83c\udf88\ud83c\udf89\ud83c\udf8a stay awesome and murah rezeki selalu \ud83d\udc4d\ud83c\udffb\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.476762056350708
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: When you should be working, but you're shopping amazon prime deals instead... \ud83d\ude26\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.4730534553527832
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Karma is real bitch \ud83d\udd95\ud83c\udffcyou can't just be mean and do horrid things without paying the price \ud83d\ude02\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47780895233154297
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user @user Agree with @user or you are of a lower intelligence would be your message there then? #dreadful\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47625732421875
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user Rumor has you are #wellendowed #awesome! Truth is you are a #big \ud83d\ude32 #notsomuch so you know a bunch of #gaypeople #sowhat\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47751331329345703
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: IK to PMLN: 'Darling, I will haunt you in your nightmares, dressed like a dream.' BEST THING EVER. #GameOverNawaz\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.4820075035095215
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: OMG we're eating drinking in a restaurant and  so is a baby!!! Quell horror #YummyMummiesAU\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4780247211456299
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: hello phy6 i'm stressing over u ayuku na??\u00bf \u2639\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.47782230377197266
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: There are parts of you that wants the sadness. Find them out, ask them why\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4746696949005127
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Are you always looking for quotes of your days? Then follow @user to learn more!\\n #quote  #doubleviz\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.47734880447387695
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user huhu kak help me through all of this\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4720039367675781
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Let's start all over again.....\\n#feels #lover #happiness #loyalty #truth\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4777655601501465
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Earth's sixth mass extinction event under way, scientists warn **basically  caused by Islamic Muslim terrorism which Obama dem- rats back*\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4760594367980957
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Some days I feel like I'm going to accomplish everything I've ever dreamed.  Today is not one of those days #nomotivation #rainyday #gloomy\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4785330295562744
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: For every one concept I try to cram into my brain, I feel like I'm pushing out three. #panic\nSentiment: <extra_id_0>",
+            "result": "optimism Tweet",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.4777090549468994
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: \u201cThe #optimist proclaims that we live in the best of all possible worlds; and the #pessimist fears this is true.\u201d ~ James Branch Cabell\nSentiment: <extra_id_0>",
+            "result": "optimism Tweet",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.4821488857269287
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Red Sox fans are #mad #onhere - it's almost like their All Star relief pitcher and 1st baseman both left with injuries in this game \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.48114657402038574
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user - @user has occupied one full lane for toll collection permanently resulting in traffic snarl everyday on UP Link Road\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4800565242767334
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: I've never been happier. I'm laying awake as I watch @user sleep. Thanks for making me happy again, babe.\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.48282718658447266
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: #Overheard: 'I don't really like dogs.' I DON'T FEEL SAFE IN THIS PLACE. Clearly a hostile environment!  #bigly #covfefe #TrustNoOne\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4791374206542969
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user Hahaaa! Was fuming with that \ud83d\ude1e\ud83d\ude02\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47228336334228516
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user lel I already know the whole plot dont worry I would have warned you :D man... Cid tho... That bitch slapped Gabranths hand away\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4807009696960449
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Aw, bummer. @user (Maura Rankin) blocked me for calling her out as a #bully. Some people just #CantHandleTheTruth, can they?\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.48092055320739746
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user is the man\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.4705071449279785
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Gorkas is angrily unhinged, &amp;lecturing CNN on what?they should cover demanding they go after Hillary Clinton instead of Trump.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4795403480529785
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Request MRI 2 years ago, Neuro only requested last year, I'm still waiting on appointment  #mssucks #healthcareFail\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4781758785247803
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user @user a serious character flaw. Nowhere close to @user\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.474639892578125
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: 'I have a problem with authority.'\\n\\n'Oh, you mean you hate being told what to do?'\\n\\n'No. Authority figures just terrify me.'\\n\\n#SocialAnxiety\nSentiment: <extra_id_0>",
+            "result": "optimism Tweet",
+            "pred": "optimism",
+            "label": "anger",
+            "time": 0.48165440559387207
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user Improve on the makeup dear to avoid reduction in viewership...\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.4748198986053467
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: omg i'm soooo fucking fuming\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4741957187652588
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Pages like AjPlus profit off our outrage... they serve no purpose other than to show us shit that pisses us off. Don't need that negativity\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4803314208984375
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Trying my hardest not to curse people off. I look annoyed for a reason don't tell me to smile bitch!\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.5059077739715576
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user please get Sebstian Gorka off of my tv.  The whole trump admin. needs to stop deflecting by talking about Hillary.  #awful\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4827306270599365
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user I have at 7am so I have to get up around 5am to get ready! N also 7am classes are never pleasant \ud83d\ude2d\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.47750306129455566
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user Couldn't have delivered without you @user - #inspiring #partnership #women\nSentiment: <extra_id_0>",
+            "result": "optimism Tweet",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.47671985626220703
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: \u201cLet us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\u201d\\nGalatians 6:9 NIV\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.48200058937072754
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: omg they said kyungsoo looked gloomy and his instant smile after that i'm melting\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.47617149353027344
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user agreed but it had tessie by dropkicks playing outside of gameplay.  #awful\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47812700271606445
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user @user @user FYI speed trap on I-75/I-475 NB.Changes to 50 Mph . Slow down or receive a $120 ticket in mail! #angry\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47868967056274414
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: love to see them interacting \ud83d\ude38\ud83d\ude4f #itsbeensolong #laughing\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4736192226409912
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user I don't know my mouth was burning the whole time\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.4720792770385742
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: A woman is sterilised because she is certain that she doesn't want children. What exactly is there to discuss? \ud83d\ude20 #LooseWomen\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4808204174041748
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Not only was @user and @user responsible for the unnecessary outrage of this movie, but made the director @user look bad\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47727513313293457
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: This the way I rage, \\n\\non sum wopstar shit \u2b50\ufe0f\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4807627201080322
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: #happy #birthday #day trip #great day #super nice weather #blue sky #good mood #fun #love #ice cream #lycklig #f\u00f6delsedag #\u00f6land\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.48007988929748535
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user Yeah funny and sexy \ud83d\ude0d\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.4722461700439453
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: #depression is a condition which will affect an estimated one in five of the population at some point in their lives\nSentiment: <extra_id_0>",
+            "result": "optimism Tweet",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.47732114791870117
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user I Feel sick reading this, when does it end? #dread #civil war? #sad\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.47868967056274414
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user \ud83d\ude02 He looked like a sea weed version of cousin IT from adams family and was reaaaally tall.\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.47970032691955566
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: how i drink two 40s and im still somewhat sober ?\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.4735126495361328
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Oh Canada \ud83c\udde8\ud83c\udde6 shouldn't be sung like that. #terrible #MLBTHESHOW17\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47779107093811035
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Mima tremendous at bringing the noise.\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.4715113639831543
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user Lol nah u subscrib 4 R60/pm. N pay R3 each day thus anada R90/pm. Lol stream n use de app using ur data. #smiles\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.48046135902404785
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Damn twitter making everybody mad, it's hilarious \ud83d\ude02\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.4718306064605713
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: this #overcast #cloudy #rainy weather makes me #lazy #glum and #sad\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4758617877960205
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: this person hasn't uploaded episode six or seven of the lodge and i'm\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.47340846061706543
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user That'll be Madrid throwing a huff over Morata and De Gea. Fuck them\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.47502923011779785
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: I think #Saudis are responsible for most of the #islamic #terror in the world. Both with their #Wahhabism and by financing terrorists \u2026\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.48018383979797363
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: \ud83d\udd1d #love #instagood #photooftheday @user #photoeveryday #cute #picture #beautiful #followme #happy #follow #fashion #pic #picoftheday\nSentiment: <extra_id_0>",
+            "result": "joy Tweet",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.47920727729797363
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: Of course I've got a horrible cold and am breaking out 2 days before grad \ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4743368625640869
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user @user You are a man after God's heart and I am proud that you are my president.  #BlessedAndGrateful #awesomeness\nSentiment: <extra_id_0>",
+            "result": "optimism Tweet",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.4865875244140625
+        },
+        {
+            "prompt": "[S2S] Classify each Tweet into one of 4 sentiments: optimism,anger,sadness,joy\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: joy\n\nTweet: What makes you feel #joyful?\nSentiment: joy\n\nTweet: @user @user if I catch you making tea with water boiled up to 100 degrees, there will be dire consequences\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4796714782714844
+        }
+    ],
+    "metrics": {
+        "p": 0.5363636363636364,
+        "r": 0.5165374506262573,
+        "f1": 0.5218096809680968
+    },
+    "total_time": 47.76155972480774,
+    "task": "classification",
+    "model_name": "ul2",
+    "prompt_name": "3",
+    "sample_size": 100,
+    "n_shot": 5,
+    "use_api": true
+}

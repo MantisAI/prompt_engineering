@@ -1,0 +1,717 @@
+{
+    "prompt_template": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: {text}\nLabel: <extra_id_0>",
+    "data": [
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.39094042778015137
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.39574480056762695
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.39450716972351074
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: What makes you feel #joyful?\nLabel: <extra_id_0>",
+            "result": "#jo",
+            "pred": "#jo",
+            "label": "joy",
+            "time": 0.3841216564178467
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: i am revolting.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.39204931259155273
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Rin might ever appeared gloomy but to be a melodramatic person was not her thing.\\n\\nBut honestly, she missed her old friend. The special one.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.39756178855895996
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: In need of a change! #restless\nLabel: <extra_id_0>",
+            "result": "#de",
+            "pred": "#de",
+            "label": "sadness",
+            "time": 0.3808724880218506
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user #cmbyn does screen  August 4 &amp; 6 at #miff\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.39118003845214844
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Get Donovan out of your soccer booth. He's awful. He's bitter. He makes me want to mute the tv. #horrid\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.39891576766967773
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user how can u have sold so many copies but ur game has so many fucking bugs and mad lag issues. Optimize ur shit soon.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3966052532196045
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Pressured. \ud83d\ude26\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.38654327392578125
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Yes #depression &amp; #anxiety are real but so is bein #grateful &amp; #happiness \\nI choose how i wanna live MY life not some disorder\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.39976072311401367
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: People who say nmu are the worst, something has to be going on, tell me I wanna know bout your life that's why I fucking asked, I care \ud83d\ude24\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3968784809112549
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user The hatred from the Left ought to concern everyone----who wants a police state-the left, so than can spy on all of us.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3950631618499756
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user #shocking loss of talented young man#prayers#pray for his family\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.39061784744262695
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Its #amazing watching various news outlets showing mixed crowds of ppl watching #Eclipse with NO #racial tension.. #MSM can't hide this!\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.39766812324523926
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: That moment when people say you don't need medicine, it's mind over matter. You need to stop doing that. #bipolar\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.39272165298461914
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user Please. Don't insult Goths.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3943214416503906
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user What an F'ing liar\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.38605213165283203
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: May or may not have just pulled the legal card on these folks. #irritated\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.38865160942077637
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Me: 'I miss your personality,will it come back?' Him: 'I'm sorry.I'm me. You be you.' #Sad #depressed #longdistancerelationship\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.40184640884399414
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Comparing yourself to others is one of the root causes for feelings of unhappiness and depression.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.39145994186401367
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user Americans do not spank their children, and they are a God fearing people who knows the biggest sin is hypocrisy.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.393984317779541
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: The only upside to being deathly ill this week is that I've gotten better at taking pills. #optimism\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.3911623954772949
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Favorite character who's name starts with the letter M?\\n #Prisonbreak5  #The100 #GreysAnatomy\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.43831539154052734
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I'm so nervous I could puke + my body temp is rising ha ha ha ha ha\nLabel: <extra_id_0>",
+            "result": "anxiety Text",
+            "pred": "anxiety",
+            "label": "joy",
+            "time": 0.3887639045715332
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I cannot see a rational way of bearing a grudge to him for that. I do not. Maybe because I do not live by Netflix and I do not care...\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3959176540374756
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: And let the depression take the stage once more \ud83d\ude43\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.38527655601501465
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I love swimming for the same reason I love meditating...the feeling of weightlessness.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.39043760299682617
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Is it just me that thinks it looks boring?\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.386965274810791
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: ,, The solar eclipse was really cool.. #inspiring!\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.3910040855407715
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Really??? I've had to hang up!\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.38629770278930664
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: When Jim Sheridan is standing next to you and you don't say A WORD!!! #facepalm #tonguetied\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3908662796020508
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user -- can handle myself.\\n[Carl yelled back in fury, blood smeared across his face and clothes. Still holding onto his --\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.39576005935668945
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user there was a fair bit of raging folk last night... something to do with pension day?\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.39272308349609375
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user No #racism, no #hatred , no #sectarianism  ... Only yes to love\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.39209699630737305
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: sleep is and will always be one of the best remedies for a tired and weary soul\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.3910646438598633
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user where is my order? Placed on Monday via express delivery, yet no sign!!! #annoyed #hurryup Your customer service queues are #awful\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.39452409744262695
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: yukwon no video do zico the world is shaking\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.3873152732849121
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: BUT, I have offended so many people with the idea that conflicts and value judgments are separate that we need to have a talk.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.3954026699066162
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user - spelled exactly how it makes you feel 'better eat land line'. Talking to my mom this week has been impossible. #goodservice #rage\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.40221738815307617
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user John, what do you make of DJT's silence? He would usually be foaming at the mouth right now. Maybe he's constipated.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3956475257873535
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user happy birthday machaaaa \ud83c\udf88\ud83c\udf89\ud83c\udf8a stay awesome and murah rezeki selalu \ud83d\udc4d\ud83c\udffb\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4225180149078369
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: When you should be working, but you're shopping amazon prime deals instead... \ud83d\ude26\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.38857102394104004
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Karma is real bitch \ud83d\udd95\ud83c\udffcyou can't just be mean and do horrid things without paying the price \ud83d\ude02\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3933370113372803
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user Agree with @user or you are of a lower intelligence would be your message there then? #dreadful\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3959369659423828
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Rumor has you are #wellendowed #awesome! Truth is you are a #big \ud83d\ude32 #notsomuch so you know a bunch of #gaypeople #sowhat\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.39752793312072754
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: IK to PMLN: 'Darling, I will haunt you in your nightmares, dressed like a dream.' BEST THING EVER. #GameOverNawaz\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.3969724178314209
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: OMG we're eating drinking in a restaurant and  so is a baby!!! Quell horror #YummyMummiesAU\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.39743566513061523
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: hello phy6 i'm stressing over u ayuku na??\u00bf \u2639\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.39235591888427734
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: There are parts of you that wants the sadness. Find them out, ask them why\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.3908257484436035
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Are you always looking for quotes of your days? Then follow @user to learn more!\\n #quote  #doubleviz\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.3919944763183594
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user huhu kak help me through all of this\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.3872349262237549
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Let's start all over again.....\\n#feels #lover #happiness #loyalty #truth\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.39310312271118164
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Earth's sixth mass extinction event under way, scientists warn **basically  caused by Islamic Muslim terrorism which Obama dem- rats back*\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3941066265106201
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Some days I feel like I'm going to accomplish everything I've ever dreamed.  Today is not one of those days #nomotivation #rainyday #gloomy\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.3957247734069824
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: For every one concept I try to cram into my brain, I feel like I'm pushing out three. #panic\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.3927876949310303
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: \u201cThe #optimist proclaims that we live in the best of all possible worlds; and the #pessimist fears this is true.\u201d ~ James Branch Cabell\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.3986525535583496
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Red Sox fans are #mad #onhere - it's almost like their All Star relief pitcher and 1st baseman both left with injuries in this game \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.40348100662231445
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user - @user has occupied one full lane for toll collection permanently resulting in traffic snarl everyday on UP Link Road\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.39554429054260254
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I've never been happier. I'm laying awake as I watch @user sleep. Thanks for making me happy again, babe.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.39490199089050293
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #Overheard: 'I don't really like dogs.' I DON'T FEEL SAFE IN THIS PLACE. Clearly a hostile environment!  #bigly #covfefe #TrustNoOne\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.40175628662109375
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Hahaaa! Was fuming with that \ud83d\ude1e\ud83d\ude02\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3872661590576172
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user lel I already know the whole plot dont worry I would have warned you :D man... Cid tho... That bitch slapped Gabranths hand away\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.4005272388458252
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Aw, bummer. @user (Maura Rankin) blocked me for calling her out as a #bully. Some people just #CantHandleTheTruth, can they?\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.40140843391418457
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user is the man\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.3850979804992676
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Gorkas is angrily unhinged, &amp;lecturing CNN on what?they should cover demanding they go after Hillary Clinton instead of Trump.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3983592987060547
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Request MRI 2 years ago, Neuro only requested last year, I'm still waiting on appointment  #mssucks #healthcareFail\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3945894241333008
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user a serious character flaw. Nowhere close to @user\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3918302059173584
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: 'I have a problem with authority.'\\n\\n'Oh, you mean you hate being told what to do?'\\n\\n'No. Authority figures just terrify me.'\\n\\n#SocialAnxiety\nLabel: <extra_id_0>",
+            "result": "anxiety Text",
+            "pred": "anxiety",
+            "label": "anger",
+            "time": 0.45610761642456055
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Improve on the makeup dear to avoid reduction in viewership...\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.386446475982666
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: omg i'm soooo fucking fuming\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.3883671760559082
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Pages like AjPlus profit off our outrage... they serve no purpose other than to show us shit that pisses us off. Don't need that negativity\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4111618995666504
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Trying my hardest not to curse people off. I look annoyed for a reason don't tell me to smile bitch!\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.39603161811828613
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user please get Sebstian Gorka off of my tv.  The whole trump admin. needs to stop deflecting by talking about Hillary.  #awful\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.39926886558532715
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user I have at 7am so I have to get up around 5am to get ready! N also 7am classes are never pleasant \ud83d\ude2d\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.45696306228637695
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Couldn't have delivered without you @user - #inspiring #partnership #women\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.3914635181427002
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: \u201cLet us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\u201d\\nGalatians 6:9 NIV\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.39725160598754883
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: omg they said kyungsoo looked gloomy and his instant smile after that i'm melting\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.3939993381500244
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user agreed but it had tessie by dropkicks playing outside of gameplay.  #awful\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3928086757659912
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user @user FYI speed trap on I-75/I-475 NB.Changes to 50 Mph . Slow down or receive a $120 ticket in mail! #angry\nLabel: <extra_id_0>",
+            "result": "optimism Text",
+            "pred": "optimism",
+            "label": "anger",
+            "time": 0.3980240821838379
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: love to see them interacting \ud83d\ude38\ud83d\ude4f #itsbeensolong #laughing\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.3923928737640381
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user I don't know my mouth was burning the whole time\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.386852502822876
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: A woman is sterilised because she is certain that she doesn't want children. What exactly is there to discuss? \ud83d\ude20 #LooseWomen\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3967452049255371
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Not only was @user and @user responsible for the unnecessary outrage of this movie, but made the director @user look bad\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3920891284942627
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: This the way I rage, \\n\\non sum wopstar shit \u2b50\ufe0f\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.3888218402862549
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #happy #birthday #day trip #great day #super nice weather #blue sky #good mood #fun #love #ice cream #lycklig #f\u00f6delsedag #\u00f6land\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4083075523376465
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Yeah funny and sexy \ud83d\ude0d\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.38446474075317383
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #depression is a condition which will affect an estimated one in five of the population at some point in their lives\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.38965868949890137
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user I Feel sick reading this, when does it end? #dread #civil war? #sad\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.3930068016052246
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user \ud83d\ude02 He looked like a sea weed version of cousin IT from adams family and was reaaaally tall.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.39512181282043457
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: how i drink two 40s and im still somewhat sober ?\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.3902878761291504
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Oh Canada \ud83c\udde8\ud83c\udde6 shouldn't be sung like that. #terrible #MLBTHESHOW17\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.39369726181030273
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Mima tremendous at bringing the noise.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.3823106288909912
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Lol nah u subscrib 4 R60/pm. N pay R3 each day thus anada R90/pm. Lol stream n use de app using ur data. #smiles\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4007108211517334
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Damn twitter making everybody mad, it's hilarious \ud83d\ude02\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.3892068862915039
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: this #overcast #cloudy #rainy weather makes me #lazy #glum and #sad\nLabel: <extra_id_0>",
+            "result": "#de",
+            "pred": "#de",
+            "label": "sadness",
+            "time": 0.3898887634277344
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: this person hasn't uploaded episode six or seven of the lodge and i'm\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3918173313140869
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user That'll be Madrid throwing a huff over Morata and De Gea. Fuck them\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3914785385131836
+        },
+        {
+            "prompt": "[S2S] Classify into 4 labels: optimism,anger,joy,sadness\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I think #Saudis are responsible for most of the #islamic #terror in the world. Both with their #Wahhabism and by financing terrorists \u2026\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.3961904048919678
+        }
+    ],
+    "metrics": {
+        "p": 0.1403654485049834,
+        "r": 0.14246068455134134,
+        "f1": 0.08359347074943405
+    },
+    "total_time": 39.56602954864502,
+    "task": "classification",
+    "model_name": "ul2",
+    "prompt_name": "1",
+    "sample_size": 100,
+    "n_shot": 1,
+    "use_api": true
+}
