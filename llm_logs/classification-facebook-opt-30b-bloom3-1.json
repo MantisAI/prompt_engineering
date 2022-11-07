@@ -1,0 +1,617 @@
+{
+    "prompt_template": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n{text}\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+    "data": [
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7526805400848389
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nMy visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.7550716400146484
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "_____",
+            "label": "joy",
+            "time": 0.7532234191894531
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nWhat makes you feel #joyful?\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.6135492324829102
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\ni am revolting.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.6131048202514648
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nRin might ever appeared gloomy but to be a melodramatic person was not her thing.\\n\\nBut honestly, she missed her old friend. The special one.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.6908390522003174
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nIn need of a change! #restless\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.6130776405334473
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user @user #cmbyn does screen  August 4 &amp; 6 at #miff\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.6235945224761963
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user Get Donovan out of your soccer booth. He's awful. He's bitter. He makes me want to mute the tv. #horrid\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.753964900970459
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user how can u have sold so many copies but ur game has so many fucking bugs and mad lag issues. Optimize ur shit soon.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.7228817939758301
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nPressured. \ud83d\ude26\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "sadness",
+            "time": 0.612696647644043
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nYes #depression &amp; #anxiety are real but so is bein #grateful &amp; #happiness \\nI choose how i wanna live MY life not some disorder\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.7274386882781982
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nPeople who say nmu are the worst, something has to be going on, tell me I wanna know bout your life that's why I fucking asked, I care \ud83d\ude24\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7588052749633789
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user The hatred from the Left ought to concern everyone----who wants a police state-the left, so than can spy on all of us.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7567172050476074
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user #shocking loss of talented young man#prayers#pray for his family\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.6235885620117188
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nIts #amazing watching various news outlets showing mixed crowds of ppl watching #Eclipse with NO #racial tension.. #MSM can't hide this!\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.7547481060028076
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nThat moment when people say you don't need medicine, it's mind over matter. You need to stop doing that. #bipolar\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7557594776153564
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user @user Please. Don't insult Goths.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.6113591194152832
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user What an F'ing liar\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "anger",
+            "time": 0.6136548519134521
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nMay or may not have just pulled the legal card on these folks. #irritated\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.6225361824035645
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nMe: 'I miss your personality,will it come back?' Him: 'I'm sorry.I'm me. You be you.' #Sad #depressed #longdistancerelationship\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.7298195362091064
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nComparing yourself to others is one of the root causes for feelings of unhappiness and depression.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.6234405040740967
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user @user Americans do not spank their children, and they are a God fearing people who knows the biggest sin is hypocrisy.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "optimism",
+            "time": 0.7557744979858398
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nThe only upside to being deathly ill this week is that I've gotten better at taking pills. #optimism\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "sad",
+            "label": "optimism",
+            "time": 0.7534751892089844
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nFavorite character who's name starts with the letter M?\\n #Prisonbreak5  #The100 #GreysAnatomy\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "sad",
+            "label": "joy",
+            "time": 0.754751443862915
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nI'm so nervous I could puke + my body temp is rising ha ha ha ha ha\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.6244566440582275
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nI cannot see a rational way of bearing a grudge to him for that. I do not. Maybe because I do not live by Netflix and I do not care...\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7569260597229004
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nAnd let the depression take the stage once more \ud83d\ude43\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.6121659278869629
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nI love swimming for the same reason I love meditating...the feeling of weightlessness.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.6235561370849609
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user Is it just me that thinks it looks boring?\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "sadness",
+            "time": 0.6121678352355957
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n,, The solar eclipse was really cool.. #inspiring!\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.6149725914001465
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user Really??? I've had to hang up!\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.6131417751312256
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nWhen Jim Sheridan is standing next to you and you don't say A WORD!!! #facepalm #tonguetied\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7567787170410156
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user -- can handle myself.\\n[Carl yelled back in fury, blood smeared across his face and clothes. Still holding onto his --\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7547576427459717
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user @user there was a fair bit of raging folk last night... something to do with pension day?\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7513437271118164
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user No #racism, no #hatred , no #sectarianism  ... Only yes to love\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Which",
+            "label": "optimism",
+            "time": 0.752800464630127
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nsleep is and will always be one of the best remedies for a tired and weary soul\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "optimism",
+            "time": 0.6215822696685791
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user where is my order? Placed on Monday via express delivery, yet no sign!!! #annoyed #hurryup Your customer service queues are #awful\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7568914890289307
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nyukwon no video do zico the world is shaking\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.6140944957733154
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nBUT, I have offended so many people with the idea that conflicts and value judgments are separate that we need to have a talk.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "optimism",
+            "time": 0.7569842338562012
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user - spelled exactly how it makes you feel 'better eat land line'. Talking to my mom this week has been impossible. #goodservice #rage\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7574150562286377
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user John, what do you make of DJT's silence? He would usually be foaming at the mouth right now. Maybe he's constipated.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.755852460861206
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user happy birthday machaaaa \ud83c\udf88\ud83c\udf89\ud83c\udf8a stay awesome and murah rezeki selalu \ud83d\udc4d\ud83c\udffb\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.7570798397064209
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nWhen you should be working, but you're shopping amazon prime deals instead... \ud83d\ude26\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.6223917007446289
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nKarma is real bitch \ud83d\udd95\ud83c\udffcyou can't just be mean and do horrid things without paying the price \ud83d\ude02\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "anger",
+            "time": 0.7538127899169922
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user @user Agree with @user or you are of a lower intelligence would be your message there then? #dreadful\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7570610046386719
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user Rumor has you are #wellendowed #awesome! Truth is you are a #big \ud83d\ude32 #notsomuch so you know a bunch of #gaypeople #sowhat\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7292532920837402
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nIK to PMLN: 'Darling, I will haunt you in your nightmares, dressed like a dream.' BEST THING EVER. #GameOverNawaz\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "joy",
+            "time": 0.7558207511901855
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nOMG we're eating drinking in a restaurant and  so is a baby!!! Quell horror #YummyMummiesAU\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "anger",
+            "time": 0.753218412399292
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nhello phy6 i'm stressing over u ayuku na??\u00bf \u2639\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.6238446235656738
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nThere are parts of you that wants the sadness. Find them out, ask them why\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.6236715316772461
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nAre you always looking for quotes of your days? Then follow @user to learn more!\\n #quote  #doubleviz\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "optimism",
+            "time": 0.7558696269989014
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user huhu kak help me through all of this\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.6147081851959229
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nLet's start all over again.....\\n#feels #lover #happiness #loyalty #truth\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.7536795139312744
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nEarth's sixth mass extinction event under way, scientists warn **basically  caused by Islamic Muslim terrorism which Obama dem- rats back*\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7549667358398438
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nSome days I feel like I'm going to accomplish everything I've ever dreamed.  Today is not one of those days #nomotivation #rainyday #gloomy\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.726707935333252
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nFor every one concept I try to cram into my brain, I feel like I'm pushing out three. #panic\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.7535691261291504
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n\u201cThe #optimist proclaims that we live in the best of all possible worlds; and the #pessimist fears this is true.\u201d ~ James Branch Cabell\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "optimism",
+            "time": 0.6920452117919922
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nRed Sox fans are #mad #onhere - it's almost like their All Star relief pitcher and 1st baseman both left with injuries in this game \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7298378944396973
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user - @user has occupied one full lane for toll collection permanently resulting in traffic snarl everyday on UP Link Road\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "anger",
+            "time": 0.7517273426055908
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nI've never been happier. I'm laying awake as I watch @user sleep. Thanks for making me happy again, babe.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "joy",
+            "time": 0.7557759284973145
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n#Overheard: 'I don't really like dogs.' I DON'T FEEL SAFE IN THIS PLACE. Clearly a hostile environment!  #bigly #covfefe #TrustNoOne\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.736137866973877
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user Hahaaa! Was fuming with that \ud83d\ude1e\ud83d\ude02\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.615941047668457
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user lel I already know the whole plot dont worry I would have warned you :D man... Cid tho... That bitch slapped Gabranths hand away\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7578027248382568
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nAw, bummer. @user (Maura Rankin) blocked me for calling her out as a #bully. Some people just #CantHandleTheTruth, can they?\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "anger",
+            "time": 0.7270374298095703
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user is the man\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.6134390830993652
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nGorkas is angrily unhinged, &amp;lecturing CNN on what?they should cover demanding they go after Hillary Clinton instead of Trump.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "anger",
+            "time": 0.7558178901672363
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nRequest MRI 2 years ago, Neuro only requested last year, I'm still waiting on appointment  #mssucks #healthcareFail\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.754786491394043
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user @user a serious character flaw. Nowhere close to @user\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.6152381896972656
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n'I have a problem with authority.'\\n\\n'Oh, you mean you hate being told what to do?'\\n\\n'No. Authority figures just terrify me.'\\n\\n#SocialAnxiety\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7294881343841553
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user Improve on the makeup dear to avoid reduction in viewership...\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.613483190536499
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nomg i'm soooo fucking fuming\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.6142153739929199
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nPages like AjPlus profit off our outrage... they serve no purpose other than to show us shit that pisses us off. Don't need that negativity\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7553222179412842
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nTrying my hardest not to curse people off. I look annoyed for a reason don't tell me to smile bitch!\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.751788854598999
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user please get Sebstian Gorka off of my tv.  The whole trump admin. needs to stop deflecting by talking about Hillary.  #awful\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "anger",
+            "time": 0.7558577060699463
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user I have at 7am so I have to get up around 5am to get ready! N also 7am classes are never pleasant \ud83d\ude2d\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.754936933517456
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user Couldn't have delivered without you @user - #inspiring #partnership #women\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "optimism",
+            "time": 0.6235299110412598
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n\u201cLet us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\u201d\\nGalatians 6:9 NIV\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "optimism",
+            "time": 0.7285730838775635
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nomg they said kyungsoo looked gloomy and his instant smile after that i'm melting\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.621999979019165
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user agreed but it had tessie by dropkicks playing outside of gameplay.  #awful\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7501459121704102
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user @user @user FYI speed trap on I-75/I-475 NB.Changes to 50 Mph . Slow down or receive a $120 ticket in mail! #angry\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Which",
+            "label": "anger",
+            "time": 0.7298378944396973
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nlove to see them interacting \ud83d\ude38\ud83d\ude4f #itsbeensolong #laughing\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.6229968070983887
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user I don't know my mouth was burning the whole time\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.6137855052947998
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nA woman is sterilised because she is certain that she doesn't want children. What exactly is there to discuss? \ud83d\ude20 #LooseWomen\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7208554744720459
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nNot only was @user and @user responsible for the unnecessary outrage of this movie, but made the director @user look bad\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7541217803955078
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nThis the way I rage, \\n\\non sum wopstar shit \u2b50\ufe0f\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.6227037906646729
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n#happy #birthday #day trip #great day #super nice weather #blue sky #good mood #fun #love #ice cream #lycklig #f\u00f6delsedag #\u00f6land\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.7279801368713379
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user Yeah funny and sexy \ud83d\ude0d\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.6140501499176025
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n#depression is a condition which will affect an estimated one in five of the population at some point in their lives\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.7523701190948486
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user I Feel sick reading this, when does it end? #dread #civil war? #sad\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "sadness",
+            "time": 0.7543580532073975
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user \ud83d\ude02 He looked like a sea weed version of cousin IT from adams family and was reaaaally tall.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "joy",
+            "time": 0.7529492378234863
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nhow i drink two 40s and im still somewhat sober ?\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Which",
+            "label": "joy",
+            "time": 0.6147153377532959
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nOh Canada \ud83c\udde8\ud83c\udde6 shouldn't be sung like that. #terrible #MLBTHESHOW17\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7524783611297607
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nMima tremendous at bringing the noise.\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.6135003566741943
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user Lol nah u subscrib 4 R60/pm. N pay R3 each day thus anada R90/pm. Lol stream n use de app using ur data. #smiles\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.7287189960479736
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nDamn twitter making everybody mad, it's hilarious \ud83d\ude02\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "joy",
+            "time": 0.6149656772613525
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nthis #overcast #cloudy #rainy weather makes me #lazy #glum and #sad\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "Sadness",
+            "label": "sadness",
+            "time": 0.7521822452545166
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nthis person hasn't uploaded episode six or seven of the lodge and i'm\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.6146221160888672
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\n@user That'll be Madrid throwing a huff over Morata and De Gea. Fuck them\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.621330738067627
+        },
+        {
+            "prompt": "Which emotion is best represented by the following tweet?\n\n#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\nsadness\n\n\nWhich emotion is best represented by the following tweet?\n\nI think #Saudis are responsible for most of the #islamic #terror in the world. Both with their #Wahhabism and by financing terrorists \u2026\n\n\nPossible emotions: optimism,anger,sadness,joy\n\n|||\n\n",
+            "pred": "",
+            "label": "anger",
+            "time": 0.7594285011291504
+        }
+    ],
+    "metrics": {
+        "p": 0.05555555555555555,
+        "r": 0.00966183574879227,
+        "f1": 0.01646090534979424
+    },
+    "total_time": 69.79323840141296,
+    "task": "classification",
+    "model_name": "facebook-opt-30b",
+    "prompt_name": "bloom3",
+    "sample_size": 100,
+    "n_shot": 1,
+    "use_api": true
+}

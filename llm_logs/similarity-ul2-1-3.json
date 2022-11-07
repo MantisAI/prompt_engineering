@@ -1,0 +1,717 @@
+{
+    "prompt_template": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: {text_A}\nText B: {text_B}\nLabel: <extra_id_0>",
+    "data": [
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A brown dog is attacking another animal in front of the tall man in pants\nText B: A brown dog is attacking another animal in front of the man in pants\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no man in",
+            "pred": 1,
+            "label": 1,
+            "time": 1.22635817527771
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A brown dog is attacking another animal in front of the man in pants\nText B: A brown dog is helping another animal in front of the man in pants\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no dog attacking",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2226662635803223
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two dogs are wrestling and hugging\nText B: There is no dog wrestling and hugging\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is wrestling and hug",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2088415622711182
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A brown dog is attacking another animal in front of the man in pants\nText B: There is no dog wrestling and hugging\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no wrestling and",
+            "pred": 1,
+            "label": 0,
+            "time": 1.218489646911621
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two dogs are wrestling and hugging\nText B: A brown dog is attacking another animal in front of the tall man in pants\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no wrestling and",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2175180912017822
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two dogs are wrestling and hugging\nText B: A brown dog is helping another animal in front of the man in pants\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no wrestling and",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2195782661437988
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A person in a black jacket is doing tricks on a motorbike\nText B: A man in a black jacket is doing tricks on a motorbike\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no boy doing",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2254185676574707
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: There is no man in a black jacket doing tricks on a motorbike\nText B: A person in a black jacket is doing tricks on a motorbike\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no man doing",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2267580032348633
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A person in a black jacket is doing tricks on a motorbike\nText B: A person on a black motorbike is doing tricks with a jacket\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2244906425476074
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A skilled person is riding a bicycle on one wheel\nText B: A person is riding the bicycle on one wheel\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no boy riding",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2184433937072754
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Nobody is riding the bicycle on one wheel\nText B: A person is riding the bicycle on one wheel\nLabel: <extra_id_0>",
+            "result": "similar Text A: Nobody is riding the bicycle",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2176203727722168
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A person is riding the bicycle on one wheel\nText B: There is no man in a black jacket doing tricks on a motorbike\nLabel: <extra_id_0>",
+            "result": "similar The similarity of sentences is calculated by",
+            "pred": 1,
+            "label": 0,
+            "time": 1.223982334136963
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A person is riding the bicycle on one wheel\nText B: A person in a black jacket is doing tricks on a motorbike\nLabel: <extra_id_0>",
+            "result": "similar The similarity of sentences is calculated by",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2206165790557861
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A man with a jersey is dunking the ball at a basketball game\nText B: There is no man dunking the ball at a basketball game\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no man playing",
+            "pred": 1,
+            "label": 1,
+            "time": 1.222381830215454
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: The game of basketball consists of a ball being dunked by a man with a jersey\nText B: A man with a jersey is dunking the ball at a basketball game\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.242574691772461
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A man who is playing dunks the basketball into the net and a crowd is in background\nText B: The player is dunking the basketball into the net and a crowd is in background\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.239067792892456
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: The player is missing the basket and a crowd is in background\nText B: The player is dunking the basketball into the net and a crowd is in background\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no crowd in",
+            "pred": 1,
+            "label": 1,
+            "time": 1.229672908782959
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A man with a jersey is dunking the ball at a basketball game\nText B: The player is missing the basket and a crowd is in background\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2227537631988525
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: The player is dunking the basketball into the net and a crowd is in background\nText B: The ball is being dunked by a man with a jersey at a basketball game\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2308800220489502
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: There is no man dunking the ball at a basketball game\nText B: The player is dunking the basketball into the net and a crowd is in background\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no crowd in",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2300117015838623
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: The game of basketball consists of a ball being dunked by a man with a jersey\nText B: The player is dunking the basketball into the net and a crowd is in background\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2437682151794434
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two people are kickboxing and spectators are watching\nText B: Two people are fighting and spectators are watching\nLabel: <extra_id_0>",
+            "result": "similar Conclusion: The similarity of the two",
+            "pred": 1,
+            "label": 1,
+            "time": 1.219040870666504
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two spectators are kickboxing and some people are watching\nText B: Two people are kickboxing and spectators are watching\nLabel: <extra_id_0>",
+            "result": "similar Conclusion: The similarity of the two",
+            "pred": 1,
+            "label": 1,
+            "time": 1.224848747253418
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two people are kickboxing and spectators are watching\nText B: Two young women are sparring in a kickboxing fight\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the two sentences is",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2234611511230469
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two women are sparring in a kickboxing match\nText B: Two people are fighting and spectators are watching\nLabel: <extra_id_0>",
+            "result": "similar The above classification is not always correct.",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2181625366210938
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two spectators are kickboxing and some people are watching\nText B: Two women are sparring in a kickboxing match\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the two sentences is",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2166240215301514
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two people are kickboxing and spectators are watching\nText B: Two women are sparring in a kickboxing match\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the two sentences is",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2133207321166992
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Kids in red shirts are playing in the leaves\nText B: Children in red shirts are playing in the leaves\nLabel: <extra_id_0>",
+            "result": "similar.",
+            "pred": 1,
+            "label": 1,
+            "time": 0.5858719348907471
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Children in red shirts are playing in the leaves\nText B: Children in red shirts are sleeping in the leaves\nLabel: <extra_id_0>",
+            "result": "similar.",
+            "pred": 1,
+            "label": 1,
+            "time": 0.5878510475158691
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Children in red shirts are playing in the leaves\nText B: Children covered by leaves are playing with red shirts\nLabel: <extra_id_0>",
+            "result": "similar Text A: Children are playing in the",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2192552089691162
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Three boys are jumping in the leaves\nText B: Children in red shirts are playing in the leaves\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.217512607574463
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Kids in red shirts are playing in the leaves\nText B: Three kids are jumping in the leaves\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2155063152313232
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Children in red shirts are sleeping in the leaves\nText B: Three kids are jumping in the leaves\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2161285877227783
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Children covered by leaves are playing with red shirts\nText B: Three kids are jumping in the leaves\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.216703176498413
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two children are lying in the snow and are drawing angels\nText B: Two children are lying in the snow and are making snow angels\nLabel: <extra_id_0>",
+            "result": "similar.",
+            "pred": 1,
+            "label": 1,
+            "time": 0.5879268646240234
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two children are lying in the snow and are making snow angels\nText B: There is no child lying in the snow and making snow angels\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no child lying",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2230052947998047
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two people wearing snowsuits are on the ground making snow angels\nText B: Two people in snowsuits are lying in the snow and making snow angels\nLabel: <extra_id_0>",
+            "result": "similar.",
+            "pred": 1,
+            "label": 1,
+            "time": 0.5909523963928223
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two people in snowsuits are lying in the snow and making snow angels\nText B: Nobody in snowsuits is lying in the snow and making snow angels\nLabel: <extra_id_0>",
+            "result": "similar Text A: Nobody is lying in the",
+            "pred": 1,
+            "label": 1,
+            "time": 1.224200963973999
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two children are lying in the snow and are making snow angels\nText B: Two people wearing snowsuits are on the ground making snow angels\nLabel: <extra_id_0>",
+            "result": "similar.",
+            "pred": 1,
+            "label": 1,
+            "time": 0.5942525863647461
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two children are lying in the snow and are making snow angels\nText B: Nobody in snowsuits is lying in the snow and making snow angels\nLabel: <extra_id_0>",
+            "result": "similar Text A: Nobody is lying in the",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2246520519256592
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: There is no child lying in the snow and making snow angels\nText B: Two people in snowsuits are lying in the snow and making snow angels\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no child lying",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2235863208770752
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A little girl is looking at a woman in costume\nText B: A young girl is looking at a woman in costume\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 1,
+            "time": 1.219499111175537
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A little girl is looking at a woman in costume\nText B: The little girl is looking at a man in costume\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no man smiling",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2182698249816895
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A little girl is looking at a woman in costume\nText B: A little girl in costume looks like a woman\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no woman in",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2181682586669922
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Masked people are looking in the same direction in a forest\nText B: A little girl is looking at a woman in costume\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2223331928253174
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A little girl is looking at a woman in costume\nText B: People wearing costumes are gathering in a forest and are looking in the same direction\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2263574600219727
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A man is jumping into an empty swimming pool\nText B: A man is jumping into an empty pool\nLabel: <extra_id_0>",
+            "result": "similar 1. Classify sentence similarity with similar",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2162244319915771
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A lone biker is jumping in the air\nText B: A man is jumping into an empty swimming pool\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2187166213989258
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A man is jumping into an empty pool\nText B: A biker is jumping in the air, alone\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2191009521484375
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A man is jumping into an empty pool\nText B: There is no biker jumping in the air\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 0,
+            "time": 1.21738600730896
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Four girls are doing backbends and playing outdoors\nText B: Four girls are doing backbends and playing indoors\nLabel: <extra_id_0>",
+            "result": "similar.",
+            "pred": 1,
+            "label": 1,
+            "time": 0.5866878032684326
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Four girls are doing backbends and playing in the garden\nText B: Four children are doing backbends in the park\nLabel: <extra_id_0>",
+            "result": "similar.",
+            "pred": 1,
+            "label": 1,
+            "time": 0.5865035057067871
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Four girls are doing backbends and playing indoors\nText B: Four children are doing backbends in the park\nLabel: <extra_id_0>",
+            "result": "similar Conclusion: The sentences are similar. The",
+            "pred": 1,
+            "label": 1,
+            "time": 1.21690034866333
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Four kids are doing backbends in the park\nText B: Four girls are doing backbends and playing outdoors\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is 0.",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2156262397766113
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Four girls are doing backbends and playing outdoors\nText B: Four children are doing backbends in the park\nLabel: <extra_id_0>",
+            "result": "similar Conclusion: The sentences are similar. The",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2162864208221436
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A player is throwing the ball\nText B: A player is running with the ball\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is a ball",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2162115573883057
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two groups of people are playing football\nText B: Two teams are competing in a football match\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no boy playing",
+            "pred": 1,
+            "label": 1,
+            "time": 1.21528959274292
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two teams are competing in a football match\nText B: Two teams are competing in a baseball game\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no boy playing",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2129886150360107
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two teams are competing in a football match\nText B: Football is being played by two competing teams\nLabel: <extra_id_0>",
+            "result": "similar The above classification of sentence similarity is",
+            "pred": 1,
+            "label": 1,
+            "time": 1.214207410812378
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A player is running with the ball\nText B: Football is being played by two competing teams\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2158901691436768
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Two teams are competing in a football match\nText B: A man who is playing is running with the ball in his hands\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 0,
+            "time": 1.21635103225708
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Five children are standing in front of a wooden hut\nText B: Five children are standing in front of a hut made of wood\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 1,
+            "time": 1.223393201828003
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Five kids are standing close together and one kid has a gun\nText B: Five kids are standing close together and one kid has a weapon\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no kid with",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2246599197387695
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Five children are standing in front of a wooden hut\nText B: Five kids are standing close together and one kid has a weapon\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is 0.",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2225427627563477
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Five children are standing in front of a hut made of wood\nText B: Five kids are standing close together and one kid has a gun\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is 0.",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2231972217559814
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Five children are standing in front of a wooden hut\nText B: Five kids are standing close together and one kid has a gun\nLabel: <extra_id_0>",
+            "result": "similar The sentences are not similar. The sentences",
+            "pred": 0,
+            "label": 0,
+            "time": 1.227121353149414
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A person is wearing a hat and is sitting on the grass\nText B: There is no person wearing a hat and sitting on the grass\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is a person",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2259666919708252
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A person is sitting in a field and is wearing a hat\nText B: A man is sitting in a field\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no man sitting",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2219116687774658
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A man is sitting in a field\nText B: There is no person wearing a hat and sitting on the grass\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no man sitting",
+            "pred": 1,
+            "label": 0,
+            "time": 1.219414234161377
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: An old man is sitting in a field\nText B: A person is wearing a hat and is sitting on the grass\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2191259860992432
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A person is wearing a hat and is sitting on the grass\nText B: A man is running in a field\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no boy playing",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2186996936798096
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: This group of people is practicing water safety and wearing preservers\nText B: Preservers are being worn by a group of people who are practicing water safety\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2253355979919434
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Nobody is practicing water safety and wearing preservers\nText B: This group of people is practicing water safety and wearing preservers\nLabel: <extra_id_0>",
+            "result": "similar Text A: Nobody is practicing water safety",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2207934856414795
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A group of friends are riding the current in a raft\nText B: Preservers are being worn by a group of people who are practicing water safety\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2231361865997314
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Nobody is practicing water safety and wearing preservers\nText B: A group of friends are riding the current in a raft\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with not similar",
+            "pred": 0,
+            "label": 0,
+            "time": 1.2216334342956543
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A group is not riding the current in a raft\nText B: This group of people is practicing water safety and wearing preservers\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 0,
+            "time": 1.221860647201538
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A deer is jumping over a fence\nText B: A deer is jumping over the enclosure\nLabel: <extra_id_0>",
+            "result": "similar The output is a matrix of sentence",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2169899940490723
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A wild deer is jumping a fence\nText B: A deer is jumping a fence\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no boy jumping",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2156150341033936
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A deer is jumping a fence\nText B: There is no deer jumping fences\nLabel: <extra_id_0>",
+            "result": "similar Text A: There is no boy jumping",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2163307666778564
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A wild deer is jumping a fence\nText B: A deer is jumping over a fence\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2164936065673828
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: There is no deer jumping fences\nText B: A deer is jumping over a fence\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2151713371276855
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A deer is jumping over the enclosure\nText B: A deer is jumping a fence\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.218327283859253
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A deer is jumping a fence\nText B: A deer isn't jumping over the fence\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2173030376434326
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A deer is jumping over a fence\nText B: A deer is jumping a fence\nLabel: <extra_id_0>",
+            "result": "similar.",
+            "pred": 1,
+            "label": 1,
+            "time": 0.5888667106628418
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: People are walking outside a building that has many murals on it\nText B: People are walking outside the building that has several murals on it\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2232775688171387
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Several people are in front of a building which is covered by colors\nText B: Several people are in front of a colorful building\nLabel: <extra_id_0>",
+            "result": "similar.",
+            "pred": 1,
+            "label": 1,
+            "time": 0.5933728218078613
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Several people are in front of a building which is covered by colors\nText B: People are walking outside a building that has many murals on it\nLabel: <extra_id_0>",
+            "result": "similar Conclusion: The sentences are not similar.",
+            "pred": 0,
+            "label": 1,
+            "time": 1.22487211227417
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: Several people are in front of a colorful building\nText B: People are walking inside a building that has many murals on it\nLabel: <extra_id_0>",
+            "result": "similar Conclusion: The sentences are similar. The",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2227442264556885
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: People are walking outside a building that has many murals on it\nText B: Several people are in front of a colorful building\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2197327613830566
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A boy is hitting a baseball\nText B: A child is hitting a baseball\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2080297470092773
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A child is hitting a baseball\nText B: A child is missing a baseball\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2097113132476807
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A family is watching a little boy who is hitting a baseball\nText B: A family is watching a boy who is hitting a baseball\nLabel: <extra_id_0>",
+            "result": "similar The sentences are not similar. The sentences",
+            "pred": 0,
+            "label": 1,
+            "time": 1.2230181694030762
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A little boy is watching a family that is hitting a baseball\nText B: A family is watching a little boy who is hitting a baseball\nLabel: <extra_id_0>",
+            "result": "similar The sentences are not similar. The sentences",
+            "pred": 0,
+            "label": 1,
+            "time": 1.2248342037200928
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A family is watching a boy who is hitting a baseball\nText B: A child is hitting a baseball\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2179276943206787
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A little boy is watching a family that is hitting a baseball\nText B: A child is hitting a baseball\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.22084641456604
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A family is watching a little boy who is hitting a baseball\nText B: A boy is hitting a baseball\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2203519344329834
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A family is watching a little boy who is hitting a baseball\nText B: A child is hitting a baseball\nLabel: <extra_id_0>",
+            "result": "similar Classify sentence similarity with similar,",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2183053493499756
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A large group of Asian people is eating at a restaurant\nText B: A group of people from Asia is eating at a restaurant\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2212145328521729
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A large group of Asian people is eating at a restaurant\nText B: A small group of people is waiting to eat in a restaurant\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the two sentences is",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2231624126434326
+        },
+        {
+            "prompt": "[S2S] Classify sentence similarity with similar, not similar\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: similar\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nLabel: not similar\nText A: A large group of Asian people is eating at a restaurant\nText B: A group of people in a large Asian restaurant is eating\nLabel: <extra_id_0>",
+            "result": "similar The similarity of the sentences is determined",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2182550430297852
+        }
+    ],
+    "metrics": {
+        "p": 0.6526315789473685,
+        "r": 0.9538461538461539,
+        "f1": 0.7750000000000001
+    },
+    "total_time": 116.4266984462738,
+    "task": "similarity",
+    "model_name": "ul2",
+    "prompt_name": "1",
+    "sample_size": 100,
+    "n_shot": 3,
+    "use_api": true
+}

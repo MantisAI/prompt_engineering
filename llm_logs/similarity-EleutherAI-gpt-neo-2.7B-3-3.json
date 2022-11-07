@@ -1,0 +1,717 @@
+{
+    "prompt_template": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: {text_A}\nText B: {text_B}\nResponse:",
+    "data": [
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A brown dog is attacking another animal in front of the tall man in pants\nText B: A brown dog is attacking another animal in front of the man in pants\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.304901361465454
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A brown dog is attacking another animal in front of the man in pants\nText B: A brown dog is helping another animal in front of the man in pants\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3504908084869385
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two dogs are wrestling and hugging\nText B: There is no dog wrestling and hugging\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2812325954437256
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A brown dog is attacking another animal in front of the man in pants\nText B: There is no dog wrestling and hugging\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.3646981716156006
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two dogs are wrestling and hugging\nText B: A brown dog is attacking another animal in front of the tall man in pants\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.805938482284546
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two dogs are wrestling and hugging\nText B: A brown dog is helping another animal in front of the man in pants\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 2.0901145935058594
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A person in a black jacket is doing tricks on a motorbike\nText B: A man in a black jacket is doing tricks on a motorbike\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.287172794342041
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: There is no man in a black jacket doing tricks on a motorbike\nText B: A person in a black jacket is doing tricks on a motorbike\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2791106700897217
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A person in a black jacket is doing tricks on a motorbike\nText B: A person on a black motorbike is doing tricks with a jacket\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.338191270828247
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A skilled person is riding a bicycle on one wheel\nText B: A person is riding the bicycle on one wheel\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.0538723468780518
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Nobody is riding the bicycle on one wheel\nText B: A person is riding the bicycle on one wheel\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3165946006774902
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A person is riding the bicycle on one wheel\nText B: There is no man in a black jacket doing tricks on a motorbike\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 2.107160806655884
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A person is riding the bicycle on one wheel\nText B: A person in a black jacket is doing tricks on a motorbike\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2672624588012695
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A man with a jersey is dunking the ball at a basketball game\nText B: There is no man dunking the ball at a basketball game\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2834954261779785
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: The game of basketball consists of a ball being dunked by a man with a jersey\nText B: A man with a jersey is dunking the ball at a basketball game\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.312220811843872
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A man who is playing dunks the basketball into the net and a crowd is in background\nText B: The player is dunking the basketball into the net and a crowd is in background\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.286980152130127
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: The player is missing the basket and a crowd is in background\nText B: The player is dunking the basketball into the net and a crowd is in background\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.286236047744751
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A man with a jersey is dunking the ball at a basketball game\nText B: The player is missing the basket and a crowd is in background\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.301537275314331
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: The player is dunking the basketball into the net and a crowd is in background\nText B: The ball is being dunked by a man with a jersey at a basketball game\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3073132038116455
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: There is no man dunking the ball at a basketball game\nText B: The player is dunking the basketball into the net and a crowd is in background\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.3778133392333984
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: The game of basketball consists of a ball being dunked by a man with a jersey\nText B: The player is dunking the basketball into the net and a crowd is in background\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.155470848083496
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two people are kickboxing and spectators are watching\nText B: Two people are fighting and spectators are watching\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2807021141052246
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two spectators are kickboxing and some people are watching\nText B: Two people are kickboxing and spectators are watching\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3293919563293457
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two people are kickboxing and spectators are watching\nText B: Two young women are sparring in a kickboxing fight\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2627522945404053
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two women are sparring in a kickboxing match\nText B: Two people are fighting and spectators are watching\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.302652359008789
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two spectators are kickboxing and some people are watching\nText B: Two women are sparring in a kickboxing match\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.037686586380005
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two people are kickboxing and spectators are watching\nText B: Two women are sparring in a kickboxing match\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.0432209968566895
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Kids in red shirts are playing in the leaves\nText B: Children in red shirts are playing in the leaves\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.0119829177856445
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Children in red shirts are playing in the leaves\nText B: Children in red shirts are sleeping in the leaves\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2754151821136475
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Children in red shirts are playing in the leaves\nText B: Children covered by leaves are playing with red shirts\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2884585857391357
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Three boys are jumping in the leaves\nText B: Children in red shirts are playing in the leaves\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.358999490737915
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Kids in red shirts are playing in the leaves\nText B: Three kids are jumping in the leaves\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3134121894836426
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Children in red shirts are sleeping in the leaves\nText B: Three kids are jumping in the leaves\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2922794818878174
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Children covered by leaves are playing with red shirts\nText B: Three kids are jumping in the leaves\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3048555850982666
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two children are lying in the snow and are drawing angels\nText B: Two children are lying in the snow and are making snow angels\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.295973539352417
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two children are lying in the snow and are making snow angels\nText B: There is no child lying in the snow and making snow angels\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3192920684814453
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two people wearing snowsuits are on the ground making snow angels\nText B: Two people in snowsuits are lying in the snow and making snow angels\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.282454490661621
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two people in snowsuits are lying in the snow and making snow angels\nText B: Nobody in snowsuits is lying in the snow and making snow angels\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.8517019748687744
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two children are lying in the snow and are making snow angels\nText B: Two people wearing snowsuits are on the ground making snow angels\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2812318801879883
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two children are lying in the snow and are making snow angels\nText B: Nobody in snowsuits is lying in the snow and making snow angels\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.0645909309387207
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: There is no child lying in the snow and making snow angels\nText B: Two people in snowsuits are lying in the snow and making snow angels\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 2.084210157394409
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A little girl is looking at a woman in costume\nText B: A young girl is looking at a woman in costume\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.1042721271514893
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A little girl is looking at a woman in costume\nText B: The little girl is looking at a man in costume\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.1031949520111084
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A little girl is looking at a woman in costume\nText B: A little girl in costume looks like a woman\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.288949966430664
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Masked people are looking in the same direction in a forest\nText B: A little girl is looking at a woman in costume\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2759623527526855
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A little girl is looking at a woman in costume\nText B: People wearing costumes are gathering in a forest and are looking in the same direction\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.3258562088012695
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A man is jumping into an empty swimming pool\nText B: A man is jumping into an empty pool\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2996246814727783
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A lone biker is jumping in the air\nText B: A man is jumping into an empty swimming pool\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 2.1109867095947266
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A man is jumping into an empty pool\nText B: A biker is jumping in the air, alone\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.3629295825958252
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A man is jumping into an empty pool\nText B: There is no biker jumping in the air\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.3101425170898438
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Four girls are doing backbends and playing outdoors\nText B: Four girls are doing backbends and playing indoors\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3012821674346924
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Four girls are doing backbends and playing in the garden\nText B: Four children are doing backbends in the park\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.291520357131958
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Four girls are doing backbends and playing indoors\nText B: Four children are doing backbends in the park\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3264212608337402
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Four kids are doing backbends in the park\nText B: Four girls are doing backbends and playing outdoors\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2605655193328857
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Four girls are doing backbends and playing outdoors\nText B: Four children are doing backbends in the park\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.291438102722168
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A player is throwing the ball\nText B: A player is running with the ball\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2566168308258057
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two groups of people are playing football\nText B: Two teams are competing in a football match\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.1969990730285645
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two teams are competing in a football match\nText B: Two teams are competing in a baseball game\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3295445442199707
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two teams are competing in a football match\nText B: Football is being played by two competing teams\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.1182851791381836
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A player is running with the ball\nText B: Football is being played by two competing teams\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2707602977752686
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Two teams are competing in a football match\nText B: A man who is playing is running with the ball in his hands\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2959651947021484
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Five children are standing in front of a wooden hut\nText B: Five children are standing in front of a hut made of wood\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.368879795074463
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Five kids are standing close together and one kid has a gun\nText B: Five kids are standing close together and one kid has a weapon\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.309274673461914
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Five children are standing in front of a wooden hut\nText B: Five kids are standing close together and one kid has a weapon\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2868494987487793
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Five children are standing in front of a hut made of wood\nText B: Five kids are standing close together and one kid has a gun\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.3316755294799805
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Five children are standing in front of a wooden hut\nText B: Five kids are standing close together and one kid has a gun\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 2.0001869201660156
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A person is wearing a hat and is sitting on the grass\nText B: There is no person wearing a hat and sitting on the grass\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.3284099102020264
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A person is sitting in a field and is wearing a hat\nText B: A man is sitting in a field\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.360140085220337
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A man is sitting in a field\nText B: There is no person wearing a hat and sitting on the grass\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.3022539615631104
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: An old man is sitting in a field\nText B: A person is wearing a hat and is sitting on the grass\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2843451499938965
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A person is wearing a hat and is sitting on the grass\nText B: A man is running in a field\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.9126362800598145
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: This group of people is practicing water safety and wearing preservers\nText B: Preservers are being worn by a group of people who are practicing water safety\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.322268009185791
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Nobody is practicing water safety and wearing preservers\nText B: This group of people is practicing water safety and wearing preservers\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2783615589141846
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A group of friends are riding the current in a raft\nText B: Preservers are being worn by a group of people who are practicing water safety\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.3019626140594482
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Nobody is practicing water safety and wearing preservers\nText B: A group of friends are riding the current in a raft\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2761330604553223
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A group is not riding the current in a raft\nText B: This group of people is practicing water safety and wearing preservers\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.291254997253418
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A deer is jumping over a fence\nText B: A deer is jumping over the enclosure\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3067002296447754
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A wild deer is jumping a fence\nText B: A deer is jumping a fence\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.282559871673584
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A deer is jumping a fence\nText B: There is no deer jumping fences\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.0696218013763428
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A wild deer is jumping a fence\nText B: A deer is jumping over a fence\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2925024032592773
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: There is no deer jumping fences\nText B: A deer is jumping over a fence\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.3183619976043701
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A deer is jumping over the enclosure\nText B: A deer is jumping a fence\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.270132303237915
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A deer is jumping a fence\nText B: A deer isn't jumping over the fence\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.1283349990844727
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A deer is jumping over a fence\nText B: A deer is jumping a fence\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2809278964996338
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: People are walking outside a building that has many murals on it\nText B: People are walking outside the building that has several murals on it\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3070588111877441
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Several people are in front of a building which is covered by colors\nText B: Several people are in front of a colorful building\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.056675434112549
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Several people are in front of a building which is covered by colors\nText B: People are walking outside a building that has many murals on it\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.10952091217041
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: Several people are in front of a colorful building\nText B: People are walking inside a building that has many murals on it\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.3027124404907227
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: People are walking outside a building that has many murals on it\nText B: Several people are in front of a colorful building\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.355156660079956
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A boy is hitting a baseball\nText B: A child is hitting a baseball\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.019033193588257
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A child is hitting a baseball\nText B: A child is missing a baseball\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.279186487197876
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A family is watching a little boy who is hitting a baseball\nText B: A family is watching a boy who is hitting a baseball\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3181324005126953
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A little boy is watching a family that is hitting a baseball\nText B: A family is watching a little boy who is hitting a baseball\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3406004905700684
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A family is watching a boy who is hitting a baseball\nText B: A child is hitting a baseball\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2790005207061768
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A little boy is watching a family that is hitting a baseball\nText B: A child is hitting a baseball\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 2.0821642875671387
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A family is watching a little boy who is hitting a baseball\nText B: A boy is hitting a baseball\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3128085136413574
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A family is watching a little boy who is hitting a baseball\nText B: A child is hitting a baseball\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.3137187957763672
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A large group of Asian people is eating at a restaurant\nText B: A group of people from Asia is eating at a restaurant\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2743816375732422
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A large group of Asian people is eating at a restaurant\nText B: A small group of people is waiting to eat in a restaurant\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.310279130935669
+        },
+        {
+            "prompt": "Decide if two texts are similar. If similar respond with 'similar', if not 'not similar'\n\nText A: There is no boy playing outdoors and there is no man smiling\nText B: A group of kids is playing in a yard and an old man is standing in the background\nResponse: not similar\n\nText A: A group of boys in a yard is playing and a man is standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: similar\n\nText A: A group of children is playing in the house and there is no man standing in the background\nText B: The young boys are playing outdoors and the man is smiling nearby\nResponse: not similar\n\nText A: A large group of Asian people is eating at a restaurant\nText B: A group of people in a large Asian restaurant is eating\nResponse:",
+            "result": "",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2818481922149658
+        }
+    ],
+    "metrics": {
+        "p": 0.65,
+        "r": 1.0,
+        "f1": 0.787878787878788
+    },
+    "total_time": 148.43715357780457,
+    "task": "similarity",
+    "model_name": "EleutherAI/gpt-neo-2.7B",
+    "prompt_name": "3",
+    "sample_size": 100,
+    "n_shot": 3,
+    "use_api": true
+}

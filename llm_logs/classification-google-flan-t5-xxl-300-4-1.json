@@ -1,0 +1,2117 @@
+{
+    "prompt_template": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"{text}\"\"\"\nSentiment:",
+    "data": [
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1722097396850586
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17181611061096191
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17832255363464355
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"What makes you feel #joyful?\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1716480255126953
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"i am revolting.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17102265357971191
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Rin might ever appeared gloomy but to be a melodramatic person was not her thing.\\n\\nBut honestly, she missed her old friend. The special one.\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1916053295135498
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"In need of a change! #restless\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17104005813598633
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user #cmbyn does screen  August 4 &amp; 6 at #miff\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.17079973220825195
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Get Donovan out of your soccer booth. He's awful. He's bitter. He makes me want to mute the tv. #horrid\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19482803344726562
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user how can u have sold so many copies but ur game has so many fucking bugs and mad lag issues. Optimize ur shit soon.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19926691055297852
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Pressured. \ud83d\ude26\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1725931167602539
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Yes #depression &amp; #anxiety are real but so is bein #grateful &amp; #happiness \\nI choose how i wanna live MY life not some disorder\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.19336557388305664
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"People who say nmu are the worst, something has to be going on, tell me I wanna know bout your life that's why I fucking asked, I care \ud83d\ude24\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1915135383605957
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user The hatred from the Left ought to concern everyone----who wants a police state-the left, so than can spy on all of us.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17956829071044922
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user #shocking loss of talented young man#prayers#pray for his family\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17143797874450684
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Its #amazing watching various news outlets showing mixed crowds of ppl watching #Eclipse with NO #racial tension.. #MSM can't hide this!\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.19201016426086426
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"That moment when people say you don't need medicine, it's mind over matter. You need to stop doing that. #bipolar\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1716606616973877
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user Please. Don't insult Goths.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17098760604858398
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user What an F'ing liar\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1708385944366455
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"May or may not have just pulled the legal card on these folks. #irritated\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17818284034729004
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Me: 'I miss your personality,will it come back?' Him: 'I'm sorry.I'm me. You be you.' #Sad #depressed #longdistancerelationship\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.19286227226257324
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Comparing yourself to others is one of the root causes for feelings of unhappiness and depression.\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.18241477012634277
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user Americans do not spank their children, and they are a God fearing people who knows the biggest sin is hypocrisy.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.18400907516479492
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"The only upside to being deathly ill this week is that I've gotten better at taking pills. #optimism\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.17115235328674316
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Favorite character who's name starts with the letter M?\\n #Prisonbreak5  #The100 #GreysAnatomy\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17278122901916504
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I'm so nervous I could puke + my body temp is rising ha ha ha ha ha\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1717078685760498
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I cannot see a rational way of bearing a grudge to him for that. I do not. Maybe because I do not live by Netflix and I do not care...\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1719205379486084
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"And let the depression take the stage once more \ud83d\ude43\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17059779167175293
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I love swimming for the same reason I love meditating...the feeling of weightlessness.\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1705479621887207
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Is it just me that thinks it looks boring?\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17132186889648438
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\",, The solar eclipse was really cool.. #inspiring!\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17218637466430664
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Really??? I've had to hang up!\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17273235321044922
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"When Jim Sheridan is standing next to you and you don't say A WORD!!! #facepalm #tonguetied\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17212677001953125
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user -- can handle myself.\\n[Carl yelled back in fury, blood smeared across his face and clothes. Still holding onto his --\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1904304027557373
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user there was a fair bit of raging folk last night... something to do with pension day?\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1818528175354004
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user No #racism, no #hatred , no #sectarianism  ... Only yes to love\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.18390727043151855
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"sleep is and will always be one of the best remedies for a tired and weary soul\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.18114519119262695
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user where is my order? Placed on Monday via express delivery, yet no sign!!! #annoyed #hurryup Your customer service queues are #awful\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1718149185180664
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"yukwon no video do zico the world is shaking\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.17038941383361816
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"BUT, I have offended so many people with the idea that conflicts and value judgments are separate that we need to have a talk.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.17077183723449707
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user - spelled exactly how it makes you feel 'better eat land line'. Talking to my mom this week has been impossible. #goodservice #rage\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19072675704956055
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user John, what do you make of DJT's silence? He would usually be foaming at the mouth right now. Maybe he's constipated.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1713268756866455
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user happy birthday machaaaa \ud83c\udf88\ud83c\udf89\ud83c\udf8a stay awesome and murah rezeki selalu \ud83d\udc4d\ud83c\udffb\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17772769927978516
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"When you should be working, but you're shopping amazon prime deals instead... \ud83d\ude26\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.16995596885681152
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Karma is real bitch \ud83d\udd95\ud83c\udffcyou can't just be mean and do horrid things without paying the price \ud83d\ude02\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1706404685974121
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user Agree with @user or you are of a lower intelligence would be your message there then? #dreadful\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17054104804992676
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Rumor has you are #wellendowed #awesome! Truth is you are a #big \ud83d\ude32 #notsomuch so you know a bunch of #gaypeople #sowhat\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.19066762924194336
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"IK to PMLN: 'Darling, I will haunt you in your nightmares, dressed like a dream.' BEST THING EVER. #GameOverNawaz\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1926884651184082
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"OMG we're eating drinking in a restaurant and  so is a baby!!! Quell horror #YummyMummiesAU\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.17835187911987305
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"hello phy6 i'm stressing over u ayuku na??\u00bf \u2639\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1703810691833496
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"There are parts of you that wants the sadness. Find them out, ask them why\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.169661283493042
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Are you always looking for quotes of your days? Then follow @user to learn more!\\n #quote  #doubleviz\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.17061352729797363
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user huhu kak help me through all of this\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16979193687438965
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Let's start all over again.....\\n#feels #lover #happiness #loyalty #truth\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17037415504455566
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Earth's sixth mass extinction event under way, scientists warn **basically  caused by Islamic Muslim terrorism which Obama dem- rats back*\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1743762493133545
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Some days I feel like I'm going to accomplish everything I've ever dreamed.  Today is not one of those days #nomotivation #rainyday #gloomy\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.19004082679748535
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"For every one concept I try to cram into my brain, I feel like I'm pushing out three. #panic\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17001914978027344
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"\u201cThe #optimist proclaims that we live in the best of all possible worlds; and the #pessimist fears this is true.\u201d ~ James Branch Cabell\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.19044923782348633
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Red Sox fans are #mad #onhere - it's almost like their All Star relief pitcher and 1st baseman both left with injuries in this game \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19037389755249023
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user - @user has occupied one full lane for toll collection permanently resulting in traffic snarl everyday on UP Link Road\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18996667861938477
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I've never been happier. I'm laying awake as I watch @user sleep. Thanks for making me happy again, babe.\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.18293118476867676
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#Overheard: 'I don't really like dogs.' I DON'T FEEL SAFE IN THIS PLACE. Clearly a hostile environment!  #bigly #covfefe #TrustNoOne\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1864168643951416
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Hahaaa! Was fuming with that \ud83d\ude1e\ud83d\ude02\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16986846923828125
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user lel I already know the whole plot dont worry I would have warned you :D man... Cid tho... That bitch slapped Gabranths hand away\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19082379341125488
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Aw, bummer. @user (Maura Rankin) blocked me for calling her out as a #bully. Some people just #CantHandleTheTruth, can they?\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.1910388469696045
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user is the man\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1777958869934082
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Gorkas is angrily unhinged, &amp;lecturing CNN on what?they should cover demanding they go after Hillary Clinton instead of Trump.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17102527618408203
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Request MRI 2 years ago, Neuro only requested last year, I'm still waiting on appointment  #mssucks #healthcareFail\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17023754119873047
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user a serious character flaw. Nowhere close to @user\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16984272003173828
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"'I have a problem with authority.'\\n\\n'Oh, you mean you hate being told what to do?'\\n\\n'No. Authority figures just terrify me.'\\n\\n#SocialAnxiety\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.18701744079589844
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Improve on the makeup dear to avoid reduction in viewership...\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.17131376266479492
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"omg i'm soooo fucking fuming\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1706833839416504
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Pages like AjPlus profit off our outrage... they serve no purpose other than to show us shit that pisses us off. Don't need that negativity\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1957838535308838
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Trying my hardest not to curse people off. I look annoyed for a reason don't tell me to smile bitch!\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17146515846252441
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user please get Sebstian Gorka off of my tv.  The whole trump admin. needs to stop deflecting by talking about Hillary.  #awful\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19179296493530273
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user I have at 7am so I have to get up around 5am to get ready! N also 7am classes are never pleasant \ud83d\ude2d\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17186856269836426
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Couldn't have delivered without you @user - #inspiring #partnership #women\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.1817026138305664
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"\u201cLet us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\u201d\\nGalatians 6:9 NIV\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.19226527214050293
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"omg they said kyungsoo looked gloomy and his instant smile after that i'm melting\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.171905517578125
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user agreed but it had tessie by dropkicks playing outside of gameplay.  #awful\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17154645919799805
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user @user FYI speed trap on I-75/I-475 NB.Changes to 50 Mph . Slow down or receive a $120 ticket in mail! #angry\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19214272499084473
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"love to see them interacting \ud83d\ude38\ud83d\ude4f #itsbeensolong #laughing\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17090225219726562
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user I don't know my mouth was burning the whole time\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17802119255065918
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"A woman is sterilised because she is certain that she doesn't want children. What exactly is there to discuss? \ud83d\ude20 #LooseWomen\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17175817489624023
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Not only was @user and @user responsible for the unnecessary outrage of this movie, but made the director @user look bad\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1816086769104004
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"This the way I rage, \\n\\non sum wopstar shit \u2b50\ufe0f\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18385052680969238
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#happy #birthday #day trip #great day #super nice weather #blue sky #good mood #fun #love #ice cream #lycklig #f\u00f6delsedag #\u00f6land\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.19182229042053223
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Yeah funny and sexy \ud83d\ude0d\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17212200164794922
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#depression is a condition which will affect an estimated one in five of the population at some point in their lives\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17126226425170898
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user I Feel sick reading this, when does it end? #dread #civil war? #sad\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1705913543701172
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user \ud83d\ude02 He looked like a sea weed version of cousin IT from adams family and was reaaaally tall.\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1710965633392334
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"how i drink two 40s and im still somewhat sober ?\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17068910598754883
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Oh Canada \ud83c\udde8\ud83c\udde6 shouldn't be sung like that. #terrible #MLBTHESHOW17\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17067408561706543
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Mima tremendous at bringing the noise.\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17191505432128906
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Lol nah u subscrib 4 R60/pm. N pay R3 each day thus anada R90/pm. Lol stream n use de app using ur data. #smiles\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1938323974609375
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Damn twitter making everybody mad, it's hilarious \ud83d\ude02\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.17037057876586914
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"this #overcast #cloudy #rainy weather makes me #lazy #glum and #sad\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17060041427612305
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"this person hasn't uploaded episode six or seven of the lodge and i'm\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19025063514709473
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user That'll be Madrid throwing a huff over Morata and De Gea. Fuck them\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17726969718933105
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I think #Saudis are responsible for most of the #islamic #terror in the world. Both with their #Wahhabism and by financing terrorists \u2026\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.20042991638183594
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"\ud83d\udd1d #love #instagood #photooftheday @user #photoeveryday #cute #picture #beautiful #followme #happy #follow #fashion #pic #picoftheday\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.19218087196350098
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Of course I've got a horrible cold and am breaking out 2 days before grad \ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17087006568908691
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user You are a man after God's heart and I am proud that you are my president.  #BlessedAndGrateful #awesomeness\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1905205249786377
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user if I catch you making tea with water boiled up to 100 degrees, there will be dire consequences\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17060303688049316
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Wise you mean? \ud83d\ude05\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17031621932983398
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user big revenge guy\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17787909507751465
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Remain attached to God during your happiness and during your sadness.\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.1700127124786377
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Jen, awful funny how the tide has turned on this show! I am elated and amused! Goes from love fest to oh we have collusion!\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.19077420234680176
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Odd watching #Antifa extremists going full spectrum to become Fascists\\n\\n#Violence #Hate #angry #Clueless #YOUTH in mom's #basement come out\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18759632110595703
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#Work not to\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.178070068359375
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user I'm fuming that you're fuming \ud83d\ude44 #fuming\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19134020805358887
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user @user I bet he needed to take an anime break and drink a Zima after all the furious typing.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17222857475280762
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Exhausting for us. Imagine being so tightly wrapped that you're writing these 'think pieces' at such a furious rate. #medicated\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1711440086364746
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Haven't been on a holiday abroad in two years how depressing is that btw\u2639\ufe0f\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.171006441116333
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"sardonyx expresses herself through supporting the team with your incredible yo-yo skills and depression okay\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17085695266723633
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user OMG poor you! It happened to me last summer. I saw my under skin \ud83d\ude30\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17073774337768555
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"The patients were increasingly protected during heart attacks, chains have encouraged smoke, anger and hundreds of new hospitals.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.17197036743164062
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user you look shook! #afraid #shook #impeach #youaregoingdown\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17217254638671875
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Just added a copy of CANDIDE to my local Little Free Library &amp; a guy grabbed it literally 5 seconds later #optimism #BestOfAllPossibleWorlds\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.19193291664123535
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I feel so intimidated talking to chicken now that I know how pretty she is\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17007780075073242
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user (c) grew with resentment for herself and the world around her.\\n\\nHer spine tingled as she heard the incessant clicking of a (c)\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19137859344482422
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user are we in for Lemar even though wenger was very coy about him in his press conference\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.17093110084533691
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"My mother-in-law, in a fit of #rage, referred to someone as a 'yo-yo'.\\n#yoyo #motherinlaw #amirite #fitofrage\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.2025763988494873
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Maybe don't nom so many raging dicks, Donny!  Jeez, it's like teaching a baby to fly a jet!\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1721973419189453
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"You know your (numerous)meds have kicked in when you find stupid things highly amusing #BPDproblems #KeepTalkingMH  #mentalhealth\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.17131948471069336
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user believe it! you can start your temper tantrum now/\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17065048217773438
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Really?? Because music analyzes your screenshots with my microscope too??? I didn't think so #offended\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17152762413024902
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#LT a mom let her kid pay for the bus. The kid dropped the coins. I'm boiling in rage. My face may be straight bu my eyes say IMGONNAKILLYA\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1918168067932129
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Don't grieve over things so badly..\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.177199125289917
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user ballroom dancing class tomorrow, any advice for a first timer?\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.17084908485412598
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"you begin to irritate me, primitive\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1701946258544922
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user It's been a little Twitter saga lately. The tea thing is horrific, plus they never have fresh milk to put in it.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1716465950012207
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Just #snorted #laughing @user #outtakes @user @user #hilarious Best duo ever! @user\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17109179496765137
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"They say ur a prdct of ur surroundings. A bit intimidated by the crazy amazing ppl I met @ @user @user @user @user\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17199206352233887
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Three more shifts then I start the next part of my tutorship in response #enjoyingthelastfewdays #excited #nervous #newchallanges\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.1916184425354004
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"This nightmare is nearly over gang gang gang\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.19609975814819336
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user It's an evening for lying around doing feck all. Looks like an October evening down here #miserable\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17138671875
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Goddess, that poor girl \ud83d\ude41\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17034530639648438
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"i haven't had to speak maltese in over two years and now have relatives calling me about the trip and it's terrible \ud83d\ude43\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.17179489135742188
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user i know \ud83d\ude30\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.17246770858764648
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Cold sores are the worst. The second you smile or laugh, it's over. Blood everywhere\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17315363883972168
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Ganguly chose? It is Kohli's provocation which compelled Dada to pick that pretentious fuck.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17149090766906738
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user She is Right shld burn them alive \ud83d\ude21 it's even more better if they burn you with ur brothers \ud83d\ude20\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1722581386566162
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#unforgiveness lives in the #dark\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16978979110717773
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user shocked as well. but bc I cheer for another club in the swiss league\u2026\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.170989990234375
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user They give awful service and you haven't got back to my complaint yet. Can you guess the airline? #dontflyBA #annoyed\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1734156608581543
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user So are you saying there's a good chance that two teams might *gasp* finish last? One in the East and one in the West? #offended\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1732804775238037
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"We're in the bathroom and you perch on the sink,\\nI begin to infatuate, exasperate, resuscitate.\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.17174315452575684
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Scared to leave the routine but excited to break out the mould \ud83d\ude16 #scared #confused #happy #undecided #excited\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.18617892265319824
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Whatever you want to do, if you want to be #great at it, you have to #love it and be able to make sacrifices for it. #Quotes for you\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.19157886505126953
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"That became obvious with the Morata saga. The fucking bitter old cunt turned down 70m for that sideman.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17100763320922852
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Signs of Incipient Faggotry are the arsehole quivering and puckering.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17980170249938965
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"i'm nervous\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17025494575500488
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"'If you try to get rid of #fear and #anger without knowing their meaning, they will grow stronger and return.' \\n\u2015 Deepak Chopra\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17110157012939453
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user im sorry i voted jeans &lt;/3 u look banging who tf needs food anyway when ur a student existential dread feeds us\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1908557415008545
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Hey @user would it be safe to assume that this is the most disappointing #madden in years in your opinion?\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17101240158081055
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user Yes it is. I especially love the ramble chat love when they go off topic for like ten minutes. #awesomeness\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17148733139038086
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"this weather = my mood \u2614 #miserable\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17801117897033691
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Why do you send me a sales email suggesting that I am procrastinating 'asking out Derek from accounts'?  I am male.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17118263244628906
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user let that sink in\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.17027688026428223
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"She doesn't know how to smile! So be it! #pissed \ud83d\ude0f\ud83d\ude12\ud83d\ude20\ud83d\ude21\ud83d\ude24\ud83d\udc40\ud83d\udc44\ud83d\udc4a\ud83d\udc4e\ud83d\ude4d\ud83d\udc94\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18017864227294922
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Humble yourself in the sight of the LORD. If we have died in Christ, then how can we be offended? A dead person cannot feel anything, right?\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.18230772018432617
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Chiropractor time  #crackle #pop #chiropractor\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16868233680725098
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"u can get an oreo shake at burger king\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17951440811157227
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"It takes a smoke detector 4 months to stop beeping if you were wondering how #lazy I am. #lol #funny #Comedy #laughs #CrackMeUp #hilarious\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.18779802322387695
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Sir, what about 2G, 3G, 4G, Coalgate, scams Parliament Attack, Mumbai terror attacks despite intelligence input.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17165255546569824
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"watching that video and realizing that I've gotten uglier #depressed\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17118620872497559
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"fuckfuckfuck my hands are shaking\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17043066024780273
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"dark lucha truly is the best\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1705336570739746
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user yeah you have not been the perfect patient like I was #dread\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.17715811729431152
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I'm so sick of that 'I'm done w. My ex na we're never getting back together' crap so You can get back together in like a month \ud83d\ude02\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19144439697265625
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Come on blues #StateOfOrigin #Origin  #NSWBlues #nsw\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.171067476272583
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Happy birthday cuzzo many blessing\ud83d\ude4c\ud83c\udffe\ud83d\udcaa\ud83c\udffe\ud83c\uddf3\ud83c\uddec\ud83d\udcaf#KeepGrinding #blessed\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17090654373168945
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user don't #worry, froggy\\nit will SOON be TIME for #FROGFEARFRIDAY!\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.19580459594726562
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I'm legit in the worst mood ever. #annoyed #irritated\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18415546417236328
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I think that Nuclear weapon and Cyber weapon are big threats, but I think that the bigger threat is Scalar weapon ...\\n#scalar #threat\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "anger",
+            "time": 0.17210769653320312
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Watching #ScottishOpenHeroChallenge from last night... Smoke, flames, tense sound effects and lively commentary.. #boring #dull #shite \ud83d\ude48\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1920032501220703
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user @user watching the #totalsolareclipse on ur channels right now #amazing what's happening in the #usa\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1714332103729248
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"faint glimpse of the circling stars. Presently, as I went on, still gaining velocity, the palpitation of night and day merged into one\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17241859436035156
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user You made me laugh today when you told a caller to turn up the volume, that you weren't doing the #MarvinGaye thing #levity\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1911332607269287
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"'look at your face in a mirror... You are so fat and dark... You can't have lunch with us' #kids #meangirls #rude #insult\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19198274612426758
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I'm so angry\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1708965301513672
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"my name is sara, im 20 years old and i cant believe boiling an onion is making me cry\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17162823677062988
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Looking for good news today...not finding any on Twitter. Bummer. \ud83d\ude22 #depressing #badnews\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17135238647460938
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Jerrrrrr a woman is been stabbed in the face and now guys r arguing about her ass being real or not hehehee\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1907351016998291
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"AJ ends up being a terrible character, but no one in his family ever actually speaks to him. He witnesses so much and just gets sent away.\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1830434799194336
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Like you said, its all propaganda against #Israel. Palestinian adults and their Govt are full of #hatred. So sad to see\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.18549585342407227
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I hung up on my manager last night \ud83d\ude2d\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.17138457298278809
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Bro no you don't you'll be so dissapointed in me \ud83d\ude02 il let you read it next time you're down here tho \ud83d\udc81\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.19185185432434082
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user keep your head clear an focused. Do not let T intimidate you or use your children to silence you! Hate when a man does that!\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1718158721923828
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"If your only response to this current political crap show is 'but Hillary!!' Or 'but Obama!!' you need to start looking for a new argument.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17204809188842773
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Although I have a nice vulva, I choose not to intimidate other women with it.\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.18123817443847656
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"every time i think abt hobi crying i start crying\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1715078353881836
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Don't justify Terrorism as communal hatred. #AmarnathTerrorAttack is sheer Act of cowardice. Let's unite together against terrorism. Luv all\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.19249868392944336
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"God bless him in Hong Kong! #ex\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17101788520812988
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user The best of make up horror story...\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17103958129882812
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user Naming India Lynchistan is not provocation terror is a provication even when terror has no religion.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17189478874206543
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Why don't you try nominating qualified people; B.DeVos, T.Pruitt, R.Perry,etc...really? They are terrible!\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.20188570022583008
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#GameOfThones how can you top that next week #heartbreaking\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.19341135025024414
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"John 14:27\\nLet not your heart be troubled, neither let it be afraid. #peace #afraid\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1724076271057129
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user At least smile a little holy crap Twiggy.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17151880264282227
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"we will send video to proper agency ,state workers harass the public to fuel the ego of Scott Arniel  and trial court what the bleep #bully\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1721510887145996
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Your majority is 635 members of the public- believe me you have offended rather more than 635 voters!\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17070269584655762
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user no it was a selfie of him from seven months  ago look at the top left of the snap people\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1787874698638916
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Do you ever just get so excited that you're trying to sleep &amp; just can't even close you eyes\ud83d\ude01like I really need this catnap but #excitement\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.19164228439331055
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Fools! Little did you know that getting angry and trusting your instincts by walking right into my trap was a mistake!\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17118167877197266
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Just know USA, all Canadians don't agree with what Khadr's settlement and his unwillingness to take responsibility for his actions. #outrage\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17197847366333008
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"feeling like a grim reaper all day hehehe\\n9 days pa \ud83c\udfa9\u2709\ufe0f\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17154431343078613
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Ha, sadly not: just the undying respect of your peers, I'm afraid...\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17326998710632324
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Look at this little guy! He is connecting to his magical self.\ud83d\ude07\\nWhat do you do to keep life magical?\ud83c\udf08 @user #magical  #be\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.17306256294250488
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user The GOP controls the Senate. Blaming the Dems seems #sad.\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17064619064331055
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Life is too short to hide your feelings. Don't be afraid to say what you feel.\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.18318700790405273
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#Sleep is my #drug. My bed is my dealer. My #alarm is the #cops. #School is the #jail. #TeamFollowBack\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.1913607120513916
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Oh no, jumper on again, has it turned colder? \ud83d\ude1f Have a terrific day\ud83d\ude4b\ud83c\udffc\ud83c\udf38\ud83c\udf3c\ud83c\udf3b\ud83d\udc95\ud83d\udc95\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.17071962356567383
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"and every time i cry hard, fear blankets me\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1796426773071289
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"the thing about living near campus during the summer is that it's a ghost town but now everyone is back and im #annoyed\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1711592674255371
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"get u a goofy shorty w/ a big heart &amp; a anger problem..\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17113232612609863
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user sad day Danny \ud83d\ude13you have been and still are a true Leeds rhino you have been brilliant at the club I will miss you\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1710491180419922
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"The one most important thing we forget. That we need to denounce terrorism, not stoke communalism  #AmarnathTerrorAttack\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1717531681060791
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I fw @user he don't hesitate to speak his mind\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.1698741912841797
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Ah that's a neat idea, will check that out - might makes me more depressed about my slowness tho \ud83e\udd23\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17267894744873047
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Negative self-talk in #depression can extend to sleep, with catastrophic thinking about the impact of poor sleep fueling insomnia.\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17274808883666992
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Mentally suffered #iwanttodie #worthless #lifewithoutcolor  #pain #suicidal\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17064213752746582
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"So exhausted I could cry \ud83d\ude2d\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17895722389221191
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user @user You need a new tactic post-Trump/Brexit. Hurling that insult around no longer works I'm afraid.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18323516845703125
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#Thoughtoftheday: 'Perpetual optimism is a force multiplier.' - Colin Powell #quote #optimism #positivity\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.19036531448364258
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Part of #danielhive #insecure i got you\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.1799640655517578
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"If I were my own republic, I would declare war on patchouli incense.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16965460777282715
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"So, if you have a really tiny penis, get help, but please don't try to compensate on the road  #bigcar #tinypenis #roadrage\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19052362442016602
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"'Florian Picasso - Final Call' is raging at ShoutDRIVE!\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.1699361801147461
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"He is holding her so close, wrapped his hands around her shoulder, she is holding them and they're both smiling. I'm still living. \u263a\ufe0f\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17049098014831543
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"So apparently one of your bus drivers has a grudge against me @user I was passed while waiting for it to stop. Real service there..\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17075872421264648
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#YummyMummiesAU Are you serious! Breastfeeding should be illegal?! You breathing our air should be illegal, dumbass! #stupid\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17910408973693848
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"No offense to the girl next to me but dousing yourself with cheap cologne won't hide your rank smell\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16988587379455566
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"this one lady literally parked next to me and scared the shit out of me \ud83d\ude43\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16994380950927734
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Things that rage me: when I hear a man ask a woman if she thinks her skirt/dress is too short\\n\\n\ud83d\ude28\ud83d\ude35\ud83d\ude20\ud83d\ude21\ud83d\ude24 #shame #rage #Feminism #feminist\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1919841766357422
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Catching up on Greys, almost couldn't make it through two episodes because of how sad the storyline was. Two best/worst eps for me.\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.19279050827026367
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Support Qld and you'd never be #angry\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17049551010131836
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"The stupidest and weirdest thing people do. And what's more stupid than that? They upload it online. Oh my god. But good for laughter ah. \ud83e\udd23\ud83e\udd23\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.19022250175476074
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"oh how i just love love love glee doing billy joel's numbers!!!!\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17064380645751953
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Wonder how many times connor says fuck in press conference #lost count\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16997575759887695
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Every day I dread doing an 8 hour shift in retail \ud83d\ude42\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16956186294555664
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Psalm 2:12 Kiss the Son, lest He be angry, And you perish in the way, When His wrath is kindled but a little.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1716630458831787
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"So excited for the final 10 eps of @user So happy @user is back and @user returns, as well as @user \ud83d\ude04\u2764\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17218589782714844
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"that moment when you feel meaningless and just feeling like you cant do anything right =*( #foreveralone\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17162537574768066
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"One of those days. #Mentalhealth #Anxiety #agoraphobia #panic #depression #OCD\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1716625690460205
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"My neck still hurting though... \ud83d\ude25\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1696174144744873
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user I know it bothers me that u worry my love@zae200012 \ud83d\ude22\ud83d\ude22\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.16996121406555176
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user oh, that too! \ud83e\udd23\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17125320434570312
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"on the upside i saw a corgi puppy on the tube today. my shining light in the dark.\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.1970820426940918
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"When you miss a call from @user #devastated \ud83d\ude2d I'm trying not to #cry \ud83d\ude2d\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17263007164001465
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Be fuming if Sunderland sign Murphy like. He was crap when we first signed him and he's still crap now\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17182040214538574
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"The use of violence, threat of violence and intimidation just tag zany pf. Very good at it.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17137527465820312
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Think it lost its heart after the second version. Third was disappointing and haven't played the fourth yet\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17087674140930176
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user This is goin to be as good as rocky vs hogan #terrible #ohnowhatisyoudoingbaby\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17131471633911133
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user Hope to come #yay Do u have central accom list plse? (Lone gal trying to avoid taxis \ud83d\ude09) \ud83c\udff0 #History #joy\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1938002109527588
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Codes? Lyft codes? We got em! Use: OATH #Great deals are here for you now  #LOVEISLOVE\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.17389273643493652
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I'm sorry. Im much more interested in the #BachelorInParadise rose ceremony than whatever @user has. #seriously\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.17223501205444336
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Prepare to suffer the sting of Ghost Rider's power! Prepare to know the true meaning of hell!\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1712496280670166
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#AmarnathTerrorAttack @user @user cn u plz ans wt u r afrd of or wt stpng u to end #terrorism wn whol #India is stndng wth u\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.18949675559997559
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user i'm very happy glad or whatever the feelings i'm not into dramas\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17167353630065918
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user You. Sir are a alarmist unsubstantiated facts. And a idiot\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18257737159729004
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user it is indeed time 4 you 2 create the Ghost Filter \ud83d\udc7b please\ud83d\ude4f\ud83c\udffe#CanWeGetAGhostFilter ???  #snapchat #ghostfilter #retweet\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.1949460506439209
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Thousands of pickled dunder-headed anthracites ! #furious\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17080354690551758
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Usually the things you are most #afraid of are the most #worthwhile. #FACT #TeamFollowBack #rocktheretweet\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.17300057411193848
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user no air working in the 1sr carriage of the 18:03 from Victoria to Bognor. #boiling #southernfail\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1717991828918457
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user awe feels or que :,(\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17093229293823242
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"To be really knowledgeable and really petty is such a delight to behold.\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17168116569519043
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"An #angry #person may lose his/her objectivity, empathy, prudence or thoughtfulness and may cause harm to others.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17278528213500977
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Said it once and I'll probably say it again, anything more depressing than making your sandwiches for work the next day #cry\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1707935333251953
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Please, please do something about her! Where's Kayleigh, Jack, Jeff? Ugh. #awful #doctor?\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17131996154785156
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"They are burning not Muslims Economy,\\nThey are burning the Economy of Sri-Lanka\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17021489143371582
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Why  o they call it a happy mea. if it tastes like a whole lot like depression.\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17074799537658691
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Johnny doesn't seem like the suicidal type #suspicion #tcmparty\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17193937301635742
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Wow that last chick was a bit intense, poor Freddie was a bit unnerved lol #NinjaWarriorAU\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.18300509452819824
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"If I see one more Lakshmi EX enrage, I'm kill someone.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18508481979370117
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"filled with sophisticated glum\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16997194290161133
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"lonely is not being alone, it's the feeling that no one cares. #alone #depressed #anxiety\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17047953605651855
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"or just blame the gloomy weather\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17000865936279297
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I dreamt that my dog, Snoopy, came back to life. Man I miss that dog \ud83d\ude41\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17216205596923828
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"But DAMN the sight of them getting scared af makes me feeel SOOO BAD! Which they should feel afraid cause if their mom don't come n it them\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.19189691543579102
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user after you said an apple pie isn't naughty I really want Chris or  @user to say 'but a cream pie is' #naughymind #rage\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19060325622558594
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Sometimes in #life ....\\nSee the #statement itself #sounds so #temporary\\nNothing is permanent isn't it?\\nSo #never #worry let it go &amp; #moveon\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.1878821849822998
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"From the archives... Strikeforce Champ Ronda Rousey 301 #chirp #church #mayhemmiller #naked #rip #rondarousey #twitter\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.1911478042602539
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Tomorrow should be interesting if info is being released re away priority &amp; Canalside membership! #outrage #htafc\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17098450660705566
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user i cant wait for the day you release the album so that i can finally unleash my fury \\n\\ni hate this long ass hiatus ok afshdkflckakdbwi\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19705462455749512
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user yessss waiting for an epi is for the birds. it sucks. im waiting for walking dead new season\ud83d\ude29\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17285633087158203
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"#note8 #animated said pen. Amazing. Wife loves this one\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.19775700569152832
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user @user It ruins my frigging night each night at 9pm. Mrs loves it, i've been early to bed for a month.\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17142224311828613
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Ugh @user really do have the worst customer service!!!!!!! #astounded\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17042756080627441
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I'm fuming I wanted Hamez\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17002105712890625
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"My main concern are the children and his wife thats if she is still stuck with him and if she is, then she's strong af. Jeez \ud83d\ude1f\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1910707950592041
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user omg.  Who is this nan Hayworth person and where did she come from? Send her back!#sad #bad\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.17147064208984375
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Been there done that\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1703503131866455
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"i want to ruffle jungkook's hair.... this is so sad\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17083048820495605
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"Don't be afraid to ask questions! He's real &amp; there's always a revelation.\"\"\"\nSentiment:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.17112231254577637
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user Wow I've just spotted the cutest human being alive #blessed \ud83d\ude0d\"\"\"\nSentiment:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.18235421180725098
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"I've seen the innocence leave your eyes. I still mourn this death.\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17171072959899902
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"@user I coloured my hair bright red AND had a dodgy fringe. #dreadful #nophotos #thankgoodness #betterblonde\"\"\"\nSentiment:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.19037485122680664
+        },
+        {
+            "prompt": "Classify each Tweet into one of 4 sentiments: anger,sadness,joy,optimism\n\nTweet: \"\"\"#Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\"\"\"\nSentiment: sadness\n\nTweet: \"\"\"You couldn't mind me up more if you tried right now raging \ud83d\ude43\ud83d\ude20\"\"\"\nSentiment:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18135762214660645
+        }
+    ],
+    "metrics": {
+        "p": 0.783379465412072,
+        "r": 0.7789408168761403,
+        "f1": 0.780354722270483
+    },
+    "total_time": 53.32290863990784,
+    "task": "classification",
+    "model_name": "google/flan-t5-xxl",
+    "prompt_name": "4",
+    "sample_size": 300,
+    "n_shot": 1,
+    "use_api": true
+}

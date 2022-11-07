@@ -1,0 +1,717 @@
+{
+    "prompt_template": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: {text}\nLabel: <extra_id_0>",
+    "data": [
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.4573345184326172
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: What makes you feel #joyful?\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.45070338249206543
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: i am revolting.\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4519963264465332
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Rin might ever appeared gloomy but to be a melodramatic person was not her thing.\\n\\nBut honestly, she missed her old friend. The special one.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4434702396392822
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: In need of a change! #restless\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4538693428039551
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user @user #cmbyn does screen  August 4 &amp; 6 at #miff\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.4566957950592041
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Get Donovan out of your soccer booth. He's awful. He's bitter. He makes me want to mute the tv. #horrid\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.44432926177978516
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user how can u have sold so many copies but ur game has so many fucking bugs and mad lag issues. Optimize ur shit soon.\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.44252991676330566
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Pressured. \ud83d\ude26\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4501991271972656
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Yes #depression &amp; #anxiety are real but so is bein #grateful &amp; #happiness \\nI choose how i wanna live MY life not some disorder\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.46632909774780273
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: People who say nmu are the worst, something has to be going on, tell me I wanna know bout your life that's why I fucking asked, I care \ud83d\ude24\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.44420742988586426
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user The hatred from the Left ought to concern everyone----who wants a police state-the left, so than can spy on all of us.\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45913267135620117
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user #shocking loss of talented young man#prayers#pray for his family\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.454606294631958
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Its #amazing watching various news outlets showing mixed crowds of ppl watching #Eclipse with NO #racial tension.. #MSM can't hide this!\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.4470088481903076
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: That moment when people say you don't need medicine, it's mind over matter. You need to stop doing that. #bipolar\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.4570455551147461
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user @user Please. Don't insult Goths.\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4539973735809326
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user What an F'ing liar\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4522213935852051
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: May or may not have just pulled the legal card on these folks. #irritated\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45319485664367676
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Me: 'I miss your personality,will it come back?' Him: 'I'm sorry.I'm me. You be you.' #Sad #depressed #longdistancerelationship\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4671628475189209
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Comparing yourself to others is one of the root causes for feelings of unhappiness and depression.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4559924602508545
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user @user Americans do not spank their children, and they are a God fearing people who knows the biggest sin is hypocrisy.\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.4593677520751953
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: The only upside to being deathly ill this week is that I've gotten better at taking pills. #optimism\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.45728206634521484
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Favorite character who's name starts with the letter M?\\n #Prisonbreak5  #The100 #GreysAnatomy\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4582023620605469
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: I'm so nervous I could puke + my body temp is rising ha ha ha ha ha\nLabel: <extra_id_0>",
+            "result": "anxiety Text",
+            "pred": "anxiety",
+            "label": "joy",
+            "time": 0.4532606601715088
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: I cannot see a rational way of bearing a grudge to him for that. I do not. Maybe because I do not live by Netflix and I do not care...\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4415304660797119
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: And let the depression take the stage once more \ud83d\ude43\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.45205068588256836
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: I love swimming for the same reason I love meditating...the feeling of weightlessness.\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.45427513122558594
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Is it just me that thinks it looks boring?\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4554266929626465
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: ,, The solar eclipse was really cool.. #inspiring!\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.45355653762817383
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Really??? I've had to hang up!\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45271873474121094
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: When Jim Sheridan is standing next to you and you don't say A WORD!!! #facepalm #tonguetied\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45835328102111816
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user -- can handle myself.\\n[Carl yelled back in fury, blood smeared across his face and clothes. Still holding onto his --\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.44199490547180176
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user @user there was a fair bit of raging folk last night... something to do with pension day?\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4567241668701172
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user No #racism, no #hatred , no #sectarianism  ... Only yes to love\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.45732855796813965
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: sleep is and will always be one of the best remedies for a tired and weary soul\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.45389342308044434
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user where is my order? Placed on Monday via express delivery, yet no sign!!! #annoyed #hurryup Your customer service queues are #awful\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4407765865325928
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: yukwon no video do zico the world is shaking\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.45144009590148926
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: BUT, I have offended so many people with the idea that conflicts and value judgments are separate that we need to have a talk.\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.4567899703979492
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user - spelled exactly how it makes you feel 'better eat land line'. Talking to my mom this week has been impossible. #goodservice #rage\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.44329237937927246
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user John, what do you make of DJT's silence? He would usually be foaming at the mouth right now. Maybe he's constipated.\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.44011878967285156
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user happy birthday machaaaa \ud83c\udf88\ud83c\udf89\ud83c\udf8a stay awesome and murah rezeki selalu \ud83d\udc4d\ud83c\udffb\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.45661258697509766
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: When you should be working, but you're shopping amazon prime deals instead... \ud83d\ude26\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.4529566764831543
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Karma is real bitch \ud83d\udd95\ud83c\udffcyou can't just be mean and do horrid things without paying the price \ud83d\ude02\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45561647415161133
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user @user Agree with @user or you are of a lower intelligence would be your message there then? #dreadful\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4551093578338623
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Rumor has you are #wellendowed #awesome! Truth is you are a #big \ud83d\ude32 #notsomuch so you know a bunch of #gaypeople #sowhat\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4615819454193115
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: IK to PMLN: 'Darling, I will haunt you in your nightmares, dressed like a dream.' BEST THING EVER. #GameOverNawaz\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.4439835548400879
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: OMG we're eating drinking in a restaurant and  so is a baby!!! Quell horror #YummyMummiesAU\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45669078826904297
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: hello phy6 i'm stressing over u ayuku na??\u00bf \u2639\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4551684856414795
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: There are parts of you that wants the sadness. Find them out, ask them why\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.45493650436401367
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Are you always looking for quotes of your days? Then follow @user to learn more!\\n #quote  #doubleviz\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.456118106842041
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user huhu kak help me through all of this\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4541642665863037
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Let's start all over again.....\\n#feels #lover #happiness #loyalty #truth\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.4586303234100342
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Earth's sixth mass extinction event under way, scientists warn **basically  caused by Islamic Muslim terrorism which Obama dem- rats back*\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45778894424438477
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Some days I feel like I'm going to accomplish everything I've ever dreamed.  Today is not one of those days #nomotivation #rainyday #gloomy\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4429471492767334
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: For every one concept I try to cram into my brain, I feel like I'm pushing out three. #panic\nLabel: <extra_id_0>",
+            "result": "optimism Text",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.4570133686065674
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: \u201cThe #optimist proclaims that we live in the best of all possible worlds; and the #pessimist fears this is true.\u201d ~ James Branch Cabell\nLabel: <extra_id_0>",
+            "result": "optimism Text",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.44321227073669434
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Red Sox fans are #mad #onhere - it's almost like their All Star relief pitcher and 1st baseman both left with injuries in this game \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4429476261138916
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user - @user has occupied one full lane for toll collection permanently resulting in traffic snarl everyday on UP Link Road\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4595601558685303
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: I've never been happier. I'm laying awake as I watch @user sleep. Thanks for making me happy again, babe.\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.45917820930480957
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: #Overheard: 'I don't really like dogs.' I DON'T FEEL SAFE IN THIS PLACE. Clearly a hostile environment!  #bigly #covfefe #TrustNoOne\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4657778739929199
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Hahaaa! Was fuming with that \ud83d\ude1e\ud83d\ude02\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4533243179321289
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user lel I already know the whole plot dont worry I would have warned you :D man... Cid tho... That bitch slapped Gabranths hand away\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4442110061645508
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Aw, bummer. @user (Maura Rankin) blocked me for calling her out as a #bully. Some people just #CantHandleTheTruth, can they?\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.46476221084594727
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user is the man\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.451995849609375
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Gorkas is angrily unhinged, &amp;lecturing CNN on what?they should cover demanding they go after Hillary Clinton instead of Trump.\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45870089530944824
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Request MRI 2 years ago, Neuro only requested last year, I'm still waiting on appointment  #mssucks #healthcareFail\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4572734832763672
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user @user a serious character flaw. Nowhere close to @user\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4538259506225586
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: 'I have a problem with authority.'\\n\\n'Oh, you mean you hate being told what to do?'\\n\\n'No. Authority figures just terrify me.'\\n\\n#SocialAnxiety\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.46851301193237305
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Improve on the makeup dear to avoid reduction in viewership...\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.45386791229248047
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: omg i'm soooo fucking fuming\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45513033866882324
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Pages like AjPlus profit off our outrage... they serve no purpose other than to show us shit that pisses us off. Don't need that negativity\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.44295406341552734
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Trying my hardest not to curse people off. I look annoyed for a reason don't tell me to smile bitch!\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4565753936767578
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user please get Sebstian Gorka off of my tv.  The whole trump admin. needs to stop deflecting by talking about Hillary.  #awful\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4437744617462158
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user I have at 7am so I have to get up around 5am to get ready! N also 7am classes are never pleasant \ud83d\ude2d\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.4572141170501709
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Couldn't have delivered without you @user - #inspiring #partnership #women\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.45633578300476074
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: \u201cLet us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\u201d\\nGalatians 6:9 NIV\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.4430558681488037
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: omg they said kyungsoo looked gloomy and his instant smile after that i'm melting\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4568290710449219
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user agreed but it had tessie by dropkicks playing outside of gameplay.  #awful\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45747876167297363
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user @user @user FYI speed trap on I-75/I-475 NB.Changes to 50 Mph . Slow down or receive a $120 ticket in mail! #angry\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.46573543548583984
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: love to see them interacting \ud83d\ude38\ud83d\ude4f #itsbeensolong #laughing\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.45537590980529785
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user I don't know my mouth was burning the whole time\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.45417261123657227
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: A woman is sterilised because she is certain that she doesn't want children. What exactly is there to discuss? \ud83d\ude20 #LooseWomen\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4439380168914795
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Not only was @user and @user responsible for the unnecessary outrage of this movie, but made the director @user look bad\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4558577537536621
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: This the way I rage, \\n\\non sum wopstar shit \u2b50\ufe0f\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4562833309173584
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: #happy #birthday #day trip #great day #super nice weather #blue sky #good mood #fun #love #ice cream #lycklig #f\u00f6delsedag #\u00f6land\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.46673583984375
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Yeah funny and sexy \ud83d\ude0d\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.4521927833557129
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: #depression is a condition which will affect an estimated one in five of the population at some point in their lives\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.4565427303314209
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user I Feel sick reading this, when does it end? #dread #civil war? #sad\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.4563767910003662
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user \ud83d\ude02 He looked like a sea weed version of cousin IT from adams family and was reaaaally tall.\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4577033519744873
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: how i drink two 40s and im still somewhat sober ?\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4547593593597412
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Oh Canada \ud83c\udde8\ud83c\udde6 shouldn't be sung like that. #terrible #MLBTHESHOW17\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4566972255706787
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Mima tremendous at bringing the noise.\nLabel: <extra_id_0>",
+            "result": "joy Text",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.45228099822998047
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user Lol nah u subscrib 4 R60/pm. N pay R3 each day thus anada R90/pm. Lol stream n use de app using ur data. #smiles\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.4744873046875
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Damn twitter making everybody mad, it's hilarious \ud83d\ude02\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.45320582389831543
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: this #overcast #cloudy #rainy weather makes me #lazy #glum and #sad\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.456571102142334
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: this person hasn't uploaded episode six or seven of the lodge and i'm\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.45403289794921875
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: @user That'll be Madrid throwing a huff over Morata and De Gea. Fuck them\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45635414123535156
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: I think #Saudis are responsible for most of the #islamic #terror in the world. Both with their #Wahhabism and by financing terrorists \u2026\nLabel: <extra_id_0>",
+            "result": "anger Text",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4439718723297119
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: \ud83d\udd1d #love #instagood #photooftheday @user #photoeveryday #cute #picture #beautiful #followme #happy #follow #fashion #pic #picoftheday\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4669687747955322
+        },
+        {
+            "prompt": "[S2S] Classify Text into one of 4 labels: optimism,sadness,anger,joy\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\n\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel: anger\n\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel: sadness\n\nText: Of course I've got a horrible cold and am breaking out 2 days before grad \ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\nLabel: <extra_id_0>",
+            "result": "sadness Text",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.454911470413208
+        }
+    ],
+    "metrics": {
+        "p": 0.49214285714285716,
+        "r": 0.4131313131313131,
+        "f1": 0.4220727633835876
+    },
+    "total_time": 45.440340518951416,
+    "task": "classification",
+    "model_name": "ul2",
+    "prompt_name": "2",
+    "sample_size": 100,
+    "n_shot": 3,
+    "use_api": true
+}

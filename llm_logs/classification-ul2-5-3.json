@@ -1,0 +1,717 @@
+{
+    "prompt_template": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: {text}\nSentiment: <extra_id_0>",
+    "data": [
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.44390320777893066
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: What makes you feel #joyful?\nSentiment: <extra_id_0>",
+            "result": "#jo",
+            "pred": "#jo",
+            "label": "joy",
+            "time": 0.45461368560791016
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: i am revolting.\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.452531099319458
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Rin might ever appeared gloomy but to be a melodramatic person was not her thing.\\n\\nBut honestly, she missed her old friend. The special one.\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.46904897689819336
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: In need of a change! #restless\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.45722222328186035
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user @user #cmbyn does screen  August 4 &amp; 6 at #miff\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4600560665130615
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Get Donovan out of your soccer booth. He's awful. He's bitter. He makes me want to mute the tv. #horrid\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4682595729827881
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user how can u have sold so many copies but ur game has so many fucking bugs and mad lag issues. Optimize ur shit soon.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4674074649810791
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Pressured. \ud83d\ude26\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.455578088760376
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Yes #depression &amp; #anxiety are real but so is bein #grateful &amp; #happiness \\nI choose how i wanna live MY life not some disorder\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4707465171813965
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: People who say nmu are the worst, something has to be going on, tell me I wanna know bout your life that's why I fucking asked, I care \ud83d\ude24\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.4686269760131836
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user The hatred from the Left ought to concern everyone----who wants a police state-the left, so than can spy on all of us.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.465329647064209
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user #shocking loss of talented young man#prayers#pray for his family\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.45822834968566895
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Its #amazing watching various news outlets showing mixed crowds of ppl watching #Eclipse with NO #racial tension.. #MSM can't hide this!\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.4669930934906006
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: That moment when people say you don't need medicine, it's mind over matter. You need to stop doing that. #bipolar\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.4488394260406494
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user @user Please. Don't insult Goths.\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.45574021339416504
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user What an F'ing liar\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4591801166534424
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: May or may not have just pulled the legal card on these folks. #irritated\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4584987163543701
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Me: 'I miss your personality,will it come back?' Him: 'I'm sorry.I'm me. You be you.' #Sad #depressed #longdistancerelationship\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4700472354888916
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Comparing yourself to others is one of the root causes for feelings of unhappiness and depression.\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.45910191535949707
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user @user Americans do not spank their children, and they are a God fearing people who knows the biggest sin is hypocrisy.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.4647660255432129
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: The only upside to being deathly ill this week is that I've gotten better at taking pills. #optimism\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.4441211223602295
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Favorite character who's name starts with the letter M?\\n #Prisonbreak5  #The100 #GreysAnatomy\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.464357852935791
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: I'm so nervous I could puke + my body temp is rising ha ha ha ha ha\nSentiment: <extra_id_0>",
+            "result": "anxiety Tweet",
+            "pred": "anxiety",
+            "label": "joy",
+            "time": 0.45783066749572754
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: I cannot see a rational way of bearing a grudge to him for that. I do not. Maybe because I do not live by Netflix and I do not care...\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4685049057006836
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: And let the depression take the stage once more \ud83d\ude43\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4578816890716553
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: I love swimming for the same reason I love meditating...the feeling of weightlessness.\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.45890140533447266
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Is it just me that thinks it looks boring?\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.45955872535705566
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: ,, The solar eclipse was really cool.. #inspiring!\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4591541290283203
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Really??? I've had to hang up!\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4564664363861084
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: When Jim Sheridan is standing next to you and you don't say A WORD!!! #facepalm #tonguetied\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.44451284408569336
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user -- can handle myself.\\n[Carl yelled back in fury, blood smeared across his face and clothes. Still holding onto his --\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.46597743034362793
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user @user there was a fair bit of raging folk last night... something to do with pension day?\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.44332337379455566
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user No #racism, no #hatred , no #sectarianism  ... Only yes to love\nSentiment: <extra_id_0>",
+            "result": "#lov",
+            "pred": "#lov",
+            "label": "optimism",
+            "time": 0.44457507133483887
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: sleep is and will always be one of the best remedies for a tired and weary soul\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.4578115940093994
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user where is my order? Placed on Monday via express delivery, yet no sign!!! #annoyed #hurryup Your customer service queues are #awful\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4661993980407715
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: yukwon no video do zico the world is shaking\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.45567798614501953
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: BUT, I have offended so many people with the idea that conflicts and value judgments are separate that we need to have a talk.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.4433298110961914
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user - spelled exactly how it makes you feel 'better eat land line'. Talking to my mom this week has been impossible. #goodservice #rage\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4668700695037842
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user John, what do you make of DJT's silence? He would usually be foaming at the mouth right now. Maybe he's constipated.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4683680534362793
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user happy birthday machaaaa \ud83c\udf88\ud83c\udf89\ud83c\udf8a stay awesome and murah rezeki selalu \ud83d\udc4d\ud83c\udffb\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4443037509918213
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: When you should be working, but you're shopping amazon prime deals instead... \ud83d\ude26\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.4580354690551758
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Karma is real bitch \ud83d\udd95\ud83c\udffcyou can't just be mean and do horrid things without paying the price \ud83d\ude02\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.44181394577026367
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user @user Agree with @user or you are of a lower intelligence would be your message there then? #dreadful\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.4446990489959717
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Rumor has you are #wellendowed #awesome! Truth is you are a #big \ud83d\ude32 #notsomuch so you know a bunch of #gaypeople #sowhat\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4676651954650879
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: IK to PMLN: 'Darling, I will haunt you in your nightmares, dressed like a dream.' BEST THING EVER. #GameOverNawaz\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.4728579521179199
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: OMG we're eating drinking in a restaurant and  so is a baby!!! Quell horror #YummyMummiesAU\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.44406580924987793
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: hello phy6 i'm stressing over u ayuku na??\u00bf \u2639\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.44570469856262207
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: There are parts of you that wants the sadness. Find them out, ask them why\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.45792722702026367
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Are you always looking for quotes of your days? Then follow @user to learn more!\\n #quote  #doubleviz\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.4427824020385742
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user huhu kak help me through all of this\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.45495033264160156
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Let's start all over again.....\\n#feels #lover #happiness #loyalty #truth\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.44203662872314453
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Earth's sixth mass extinction event under way, scientists warn **basically  caused by Islamic Muslim terrorism which Obama dem- rats back*\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.44100356101989746
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Some days I feel like I'm going to accomplish everything I've ever dreamed.  Today is not one of those days #nomotivation #rainyday #gloomy\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4656033515930176
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: For every one concept I try to cram into my brain, I feel like I'm pushing out three. #panic\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4481480121612549
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: \u201cThe #optimist proclaims that we live in the best of all possible worlds; and the #pessimist fears this is true.\u201d ~ James Branch Cabell\nSentiment: <extra_id_0>",
+            "result": "optimism Tweet",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.4659419059753418
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Red Sox fans are #mad #onhere - it's almost like their All Star relief pitcher and 1st baseman both left with injuries in this game \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4687213897705078
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user - @user has occupied one full lane for toll collection permanently resulting in traffic snarl everyday on UP Link Road\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.464672327041626
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: I've never been happier. I'm laying awake as I watch @user sleep. Thanks for making me happy again, babe.\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4651305675506592
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: #Overheard: 'I don't really like dogs.' I DON'T FEEL SAFE IN THIS PLACE. Clearly a hostile environment!  #bigly #covfefe #TrustNoOne\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4699094295501709
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Hahaaa! Was fuming with that \ud83d\ude1e\ud83d\ude02\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4578557014465332
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user lel I already know the whole plot dont worry I would have warned you :D man... Cid tho... That bitch slapped Gabranths hand away\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.467012882232666
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Aw, bummer. @user (Maura Rankin) blocked me for calling her out as a #bully. Some people just #CantHandleTheTruth, can they?\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4682304859161377
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user is the man\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.4549846649169922
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Gorkas is angrily unhinged, &amp;lecturing CNN on what?they should cover demanding they go after Hillary Clinton instead of Trump.\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4648735523223877
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Request MRI 2 years ago, Neuro only requested last year, I'm still waiting on appointment  #mssucks #healthcareFail\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.4702901840209961
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user @user a serious character flaw. Nowhere close to @user\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4582960605621338
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: 'I have a problem with authority.'\\n\\n'Oh, you mean you hate being told what to do?'\\n\\n'No. Authority figures just terrify me.'\\n\\n#SocialAnxiety\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.47100305557250977
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Improve on the makeup dear to avoid reduction in viewership...\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.45637011528015137
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: omg i'm soooo fucking fuming\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4582087993621826
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Pages like AjPlus profit off our outrage... they serve no purpose other than to show us shit that pisses us off. Don't need that negativity\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.46589016914367676
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Trying my hardest not to curse people off. I look annoyed for a reason don't tell me to smile bitch!\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4427220821380615
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user please get Sebstian Gorka off of my tv.  The whole trump admin. needs to stop deflecting by talking about Hillary.  #awful\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.46795058250427246
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user I have at 7am so I have to get up around 5am to get ready! N also 7am classes are never pleasant \ud83d\ude2d\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.44352006912231445
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Couldn't have delivered without you @user - #inspiring #partnership #women\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.4440023899078369
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: \u201cLet us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\u201d\\nGalatians 6:9 NIV\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.46826624870300293
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: omg they said kyungsoo looked gloomy and his instant smile after that i'm melting\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.44609832763671875
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user agreed but it had tessie by dropkicks playing outside of gameplay.  #awful\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.4406616687774658
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user @user @user FYI speed trap on I-75/I-475 NB.Changes to 50 Mph . Slow down or receive a $120 ticket in mail! #angry\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4686243534088135
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: love to see them interacting \ud83d\ude38\ud83d\ude4f #itsbeensolong #laughing\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4574761390686035
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user I don't know my mouth was burning the whole time\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.45667505264282227
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: A woman is sterilised because she is certain that she doesn't want children. What exactly is there to discuss? \ud83d\ude20 #LooseWomen\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4676694869995117
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Not only was @user and @user responsible for the unnecessary outrage of this movie, but made the director @user look bad\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.44487619400024414
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: This the way I rage, \\n\\non sum wopstar shit \u2b50\ufe0f\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.4589834213256836
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: #happy #birthday #day trip #great day #super nice weather #blue sky #good mood #fun #love #ice cream #lycklig #f\u00f6delsedag #\u00f6land\nSentiment: <extra_id_0>",
+            "result": "optimism Tweet",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.46991896629333496
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Yeah funny and sexy \ud83d\ude0d\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4564363956451416
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: #depression is a condition which will affect an estimated one in five of the population at some point in their lives\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4433279037475586
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user I Feel sick reading this, when does it end? #dread #civil war? #sad\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4437727928161621
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user \ud83d\ude02 He looked like a sea weed version of cousin IT from adams family and was reaaaally tall.\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4642777442932129
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: how i drink two 40s and im still somewhat sober ?\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4561755657196045
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Oh Canada \ud83c\udde8\ud83c\udde6 shouldn't be sung like that. #terrible #MLBTHESHOW17\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.4420616626739502
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Mima tremendous at bringing the noise.\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.4558074474334717
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user Lol nah u subscrib 4 R60/pm. N pay R3 each day thus anada R90/pm. Lol stream n use de app using ur data. #smiles\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.47101783752441406
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Damn twitter making everybody mad, it's hilarious \ud83d\ude02\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.4565908908843994
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: this #overcast #cloudy #rainy weather makes me #lazy #glum and #sad\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.44388818740844727
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: this person hasn't uploaded episode six or seven of the lodge and i'm\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.4590034484863281
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: @user That'll be Madrid throwing a huff over Morata and De Gea. Fuck them\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.45128965377807617
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: I think #Saudis are responsible for most of the #islamic #terror in the world. Both with their #Wahhabism and by financing terrorists \u2026\nSentiment: <extra_id_0>",
+            "result": "anger Tweet",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.46713876724243164
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: \ud83d\udd1d #love #instagood #photooftheday @user #photoeveryday #cute #picture #beautiful #followme #happy #follow #fashion #pic #picoftheday\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "joy",
+            "time": 0.46956515312194824
+        },
+        {
+            "prompt": "[S2S] Sentiment classify each Tweet into one of these sentiments: optimism,joy,sadness,anger\n\nTweet: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nSentiment: sadness\n\nTweet: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nSentiment: anger\n\nTweet: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nSentiment: sadness\n\nTweet: Of course I've got a horrible cold and am breaking out 2 days before grad \ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\nSentiment: <extra_id_0>",
+            "result": "sadness Tweet",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.4583287239074707
+        }
+    ],
+    "metrics": {
+        "p": 0.24476713762428046,
+        "r": 0.25189786059351277,
+        "f1": 0.2131030548007465
+    },
+    "total_time": 45.803345680236816,
+    "task": "classification",
+    "model_name": "ul2",
+    "prompt_name": "5",
+    "sample_size": 100,
+    "n_shot": 3,
+    "use_api": true
+}

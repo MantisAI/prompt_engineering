@@ -1,0 +1,717 @@
+{
+    "prompt_template": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: {text_A}\nSentence 2: {text_B}\nLabel:",
+    "data": [
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A group of boys in a yard is playing and a man is standing in the background\nSentence 2: The young boys are playing outdoors and the man is smiling nearby\nLabel:",
+            "result": " similar\nSentence 1: The man is smiling and the boys",
+            "pred": 1,
+            "label": 1,
+            "time": 1.0270049571990967
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A group of children is playing in the house and there is no man standing in the background\nSentence 2: The young boys are playing outdoors and the man is smiling nearby\nLabel:",
+            "result": " similar\nSentence 1: Children playing outdoors and",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9232175350189209
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A brown dog is attacking another animal in front of the tall man in pants\nSentence 2: A brown dog is attacking another animal in front of the man in pants\nLabel:",
+            "result": " similar\nSentence 1: The dog's owner is getting",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9463329315185547
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A brown dog is attacking another animal in front of the man in pants\nSentence 2: A brown dog is helping another animal in front of the man in pants\nLabel:",
+            "result": " similar\nSentence 1: A girl is walking",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9760560989379883
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two dogs are wrestling and hugging\nSentence 2: There is no dog wrestling and hugging\nLabel:",
+            "result": " similar\nSentence 1: There is a man driving and",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9470739364624023
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A brown dog is attacking another animal in front of the man in pants\nSentence 2: There is no dog wrestling and hugging\nLabel:",
+            "result": " not similar\nSentence 1: The man is brushing",
+            "pred": 0,
+            "label": 0,
+            "time": 2.4851598739624023
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two dogs are wrestling and hugging\nSentence 2: A brown dog is attacking another animal in front of the tall man in pants\nLabel:",
+            "result": " similar\nSentence 1: A dog is sleeping",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9460606575012207
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two dogs are wrestling and hugging\nSentence 2: A brown dog is helping another animal in front of the man in pants\nLabel:",
+            "result": " similar\nSentence 1: Two dogs fight in a",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9098007678985596
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A person in a black jacket is doing tricks on a motorbike\nSentence 2: A man in a black jacket is doing tricks on a motorbike\nLabel:",
+            "result": " similar\n\nDecide if two sentences are similar or not similar",
+            "pred": 0,
+            "label": 1,
+            "time": 0.9649715423583984
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: There is no man in a black jacket doing tricks on a motorbike\nSentence 2: A person in a black jacket is doing tricks on a motorbike\nLabel:",
+            "result": " not similar\nSentence 1: There is nobody walking",
+            "pred": 0,
+            "label": 1,
+            "time": 0.982473611831665
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A person in a black jacket is doing tricks on a motorbike\nSentence 2: A person on a black motorbike is doing tricks with a jacket\nLabel:",
+            "result": " similar\nSentence 1: A car parked on the side of the road",
+            "pred": 1,
+            "label": 0,
+            "time": 1.033764362335205
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A skilled person is riding a bicycle on one wheel\nSentence 2: A person is riding the bicycle on one wheel\nLabel:",
+            "result": " similar\nSentence 1: It is cold in my bedroom",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9810898303985596
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Nobody is riding the bicycle on one wheel\nSentence 2: A person is riding the bicycle on one wheel\nLabel:",
+            "result": " similar\nSentence 1: Nobody is flying a",
+            "pred": 1,
+            "label": 1,
+            "time": 3.029477119445801
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A person is riding the bicycle on one wheel\nSentence 2: There is no man in a black jacket doing tricks on a motorbike\nLabel:",
+            "result": " not similar\nSentence 1: There is no cat licking",
+            "pred": 0,
+            "label": 0,
+            "time": 1.7726366519927979
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A person is riding the bicycle on one wheel\nSentence 2: A person in a black jacket is doing tricks on a motorbike\nLabel:",
+            "result": " similar\nSentence 1: There is no boy playing outdoors",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9862856864929199
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A man with a jersey is dunking the ball at a basketball game\nSentence 2: There is no man dunking the ball at a basketball game\nLabel:",
+            "result": " not similar\nSentence 1: A bird is",
+            "pred": 0,
+            "label": 1,
+            "time": 0.958367109298706
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: The game of basketball consists of a ball being dunked by a man with a jersey\nSentence 2: A man with a jersey is dunking the ball at a basketball game\nLabel:",
+            "result": " similar\nSentence 1: Linda is watching the Olympic",
+            "pred": 1,
+            "label": 1,
+            "time": 2.1403465270996094
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A man who is playing dunks the basketball into the net and a crowd is in background\nSentence 2: The player is dunking the basketball into the net and a crowd is in background\nLabel:",
+            "result": " similar\nSentence 1: No one scored a goal and",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9959795475006104
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: The player is missing the basket and a crowd is in background\nSentence 2: The player is dunking the basketball into the net and a crowd is in background\nLabel:",
+            "result": " similar\nSentence 1: A team is running with the ball",
+            "pred": 1,
+            "label": 1,
+            "time": 2.849670648574829
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A man with a jersey is dunking the ball at a basketball game\nSentence 2: The player is missing the basket and a crowd is in background\nLabel:",
+            "result": " similar\nSentence 1: Three people are playing chess",
+            "pred": 1,
+            "label": 0,
+            "time": 1.773186206817627
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: The player is dunking the basketball into the net and a crowd is in background\nSentence 2: The ball is being dunked by a man with a jersey at a basketball game\nLabel:",
+            "result": " similar\nSentence 1: The passenger is watching",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9533877372741699
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: There is no man dunking the ball at a basketball game\nSentence 2: The player is dunking the basketball into the net and a crowd is in background\nLabel:",
+            "result": " similar\nSentence 1: There is no other boy in a white",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9571876525878906
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: The game of basketball consists of a ball being dunked by a man with a jersey\nSentence 2: The player is dunking the basketball into the net and a crowd is in background\nLabel:",
+            "result": " similar\nSentence 1: The basketball is being dribble",
+            "pred": 1,
+            "label": 1,
+            "time": 5.672796249389648
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two people are kickboxing and spectators are watching\nSentence 2: Two people are fighting and spectators are watching\nLabel:",
+            "result": " similar\nSentence 1: A puppy is jumping",
+            "pred": 1,
+            "label": 1,
+            "time": 1.6608943939208984
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two spectators are kickboxing and some people are watching\nSentence 2: Two people are kickboxing and spectators are watching\nLabel:",
+            "result": " similar\nSentence 1: One girl is shopping",
+            "pred": 1,
+            "label": 1,
+            "time": 3.09613037109375
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two people are kickboxing and spectators are watching\nSentence 2: Two young women are sparring in a kickboxing fight\nLabel:",
+            "result": " similar\nSentence 1: Teenagers are playing a soccer",
+            "pred": 1,
+            "label": 1,
+            "time": 0.929232120513916
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two women are sparring in a kickboxing match\nSentence 2: Two people are fighting and spectators are watching\nLabel:",
+            "result": " similar\nSentence 1: Two children are playing with a toy",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9597339630126953
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two spectators are kickboxing and some people are watching\nSentence 2: Two women are sparring in a kickboxing match\nLabel:",
+            "result": " similar\n\nWhich of these sentences shows the correct grammar?\n",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9596507549285889
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two people are kickboxing and spectators are watching\nSentence 2: Two women are sparring in a kickboxing match\nLabel:",
+            "result": " similar\nSentence 1: Two women are showing four",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9382717609405518
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Kids in red shirts are playing in the leaves\nSentence 2: Children in red shirts are playing in the leaves\nLabel:",
+            "result": " similar\nSentence 1: Kids in red shirts are playing",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9864437580108643
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Children in red shirts are playing in the leaves\nSentence 2: Children in red shirts are sleeping in the leaves\nLabel:",
+            "result": " similar\nSentence 1: A young girl is standing in front of",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9927875995635986
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Children in red shirts are playing in the leaves\nSentence 2: Children covered by leaves are playing with red shirts\nLabel:",
+            "result": " similar\nSentence 1: There is nobody working and there is a",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9360928535461426
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Three boys are jumping in the leaves\nSentence 2: Children in red shirts are playing in the leaves\nLabel:",
+            "result": " similar\nSentence 1: Johnny and Teddy are",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9032385349273682
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Kids in red shirts are playing in the leaves\nSentence 2: Three kids are jumping in the leaves\nLabel:",
+            "result": " similar\nSentence 1: Kids in red and green shirts",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9722652435302734
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Children in red shirts are sleeping in the leaves\nSentence 2: Three kids are jumping in the leaves\nLabel:",
+            "result": " similar\nSentence 1: Ben is running with her friends",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9170572757720947
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Children covered by leaves are playing with red shirts\nSentence 2: Three kids are jumping in the leaves\nLabel:",
+            "result": " similar\nSentence 1: Five kids are playing in the backyard",
+            "pred": 1,
+            "label": 1,
+            "time": 3.264589309692383
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two children are lying in the snow and are drawing angels\nSentence 2: Two children are lying in the snow and are making snow angels\nLabel:",
+            "result": " similar\nSentence 1: Two children are building castles",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9573209285736084
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two children are lying in the snow and are making snow angels\nSentence 2: There is no child lying in the snow and making snow angels\nLabel:",
+            "result": " similar\nSentence 1: There is one boy and one girl",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9604740142822266
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two people wearing snowsuits are on the ground making snow angels\nSentence 2: Two people in snowsuits are lying in the snow and making snow angels\nLabel:",
+            "result": " similar\nSentence 1: Six people are sitting in front of a",
+            "pred": 1,
+            "label": 1,
+            "time": 2.2569663524627686
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two people in snowsuits are lying in the snow and making snow angels\nSentence 2: Nobody in snowsuits is lying in the snow and making snow angels\nLabel:",
+            "result": " similar\nSentence 1: Two students are comparing their",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9988737106323242
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two children are lying in the snow and are making snow angels\nSentence 2: Two people wearing snowsuits are on the ground making snow angels\nLabel:",
+            "result": " similar\n\nBy: chenxiao (",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9372525215148926
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two children are lying in the snow and are making snow angels\nSentence 2: Nobody in snowsuits is lying in the snow and making snow angels\nLabel:",
+            "result": " similar\nSentence 1: One dog is running and",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9332230091094971
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: There is no child lying in the snow and making snow angels\nSentence 2: Two people in snowsuits are lying in the snow and making snow angels\nLabel:",
+            "result": " similar\nSentence 1: There is a dog running and",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9388895034790039
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A little girl is looking at a woman in costume\nSentence 2: A young girl is looking at a woman in costume\nLabel:",
+            "result": " similar\n\nDecide if two sentences are similar or not similar",
+            "pred": 0,
+            "label": 1,
+            "time": 0.9055228233337402
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A little girl is looking at a woman in costume\nSentence 2: The little girl is looking at a man in costume\nLabel:",
+            "result": " similar\nSentence 1: There are three women wearing red",
+            "pred": 1,
+            "label": 1,
+            "time": 0.96932053565979
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A little girl is looking at a woman in costume\nSentence 2: A little girl in costume looks like a woman\nLabel:",
+            "result": " similar\nSentence 1: A man is reading the newspaper",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9062783718109131
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Masked people are looking in the same direction in a forest\nSentence 2: A little girl is looking at a woman in costume\nLabel:",
+            "result": " similar\nSentence 1: A woman is wearing an apron",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9332411289215088
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A little girl is looking at a woman in costume\nSentence 2: People wearing costumes are gathering in a forest and are looking in the same direction\nLabel:",
+            "result": " similar\nSentence 1: The is no one in the living room",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9510083198547363
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A man is jumping into an empty swimming pool\nSentence 2: A man is jumping into an empty pool\nLabel:",
+            "result": " similar\nSentence 1: An old woman is standing in front of",
+            "pred": 1,
+            "label": 1,
+            "time": 1.1264197826385498
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A lone biker is jumping in the air\nSentence 2: A man is jumping into an empty swimming pool\nLabel:",
+            "result": " similar\nSentence 1: A car parked in front of a",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9640402793884277
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A man is jumping into an empty pool\nSentence 2: A biker is jumping in the air, alone\nLabel:",
+            "result": " similar\nSentence 1: All the kids are playing happily",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9519851207733154
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A man is jumping into an empty pool\nSentence 2: There is no biker jumping in the air\nLabel:",
+            "result": " similar\nSentence 1: The boy is going down the stairs\n",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9490985870361328
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Four girls are doing backbends and playing outdoors\nSentence 2: Four girls are doing backbends and playing indoors\nLabel:",
+            "result": " similar\n\nSimilarities and differences\n\nAll",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9136943817138672
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Four girls are doing backbends and playing in the garden\nSentence 2: Four children are doing backbends in the park\nLabel:",
+            "result": " similar\nSentence 1: Tom is dancing in the park",
+            "pred": 1,
+            "label": 1,
+            "time": 0.964674711227417
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Four girls are doing backbends and playing indoors\nSentence 2: Four children are doing backbends in the park\nLabel:",
+            "result": " similar\nSentence 1: A lion is chasing",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9140994548797607
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Four kids are doing backbends in the park\nSentence 2: Four girls are doing backbends and playing outdoors\nLabel:",
+            "result": " similar\nSentence 1: The playground is full of kids",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9163401126861572
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Four girls are doing backbends and playing outdoors\nSentence 2: Four children are doing backbends in the park\nLabel:",
+            "result": " similar\n\nConclusion\n\nBefore computers, many people",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9548985958099365
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A player is throwing the ball\nSentence 2: A player is running with the ball\nLabel:",
+            "result": " similar\nSentence 1: A boy is playing in the sand",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9501821994781494
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two groups of people are playing football\nSentence 2: Two teams are competing in a football match\nLabel:",
+            "result": " similar\nSentence 1: A group of people is walking down the street",
+            "pred": 1,
+            "label": 1,
+            "time": 0.8911588191986084
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two teams are competing in a football match\nSentence 2: Two teams are competing in a baseball game\nLabel:",
+            "result": " similar\nSentence 1: The horse is on the cart",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9296069145202637
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two teams are competing in a football match\nSentence 2: Football is being played by two competing teams\nLabel:",
+            "result": " similar\nSentence 1: A boy is playing football",
+            "pred": 1,
+            "label": 1,
+            "time": 1.6965484619140625
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A player is running with the ball\nSentence 2: Football is being played by two competing teams\nLabel:",
+            "result": " similar\nSentence 1: Some people can run fast and others",
+            "pred": 1,
+            "label": 0,
+            "time": 1.2131879329681396
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Two teams are competing in a football match\nSentence 2: A man who is playing is running with the ball in his hands\nLabel:",
+            "result": " similar\nSentence 1: He arrived home yesterday and",
+            "pred": 1,
+            "label": 0,
+            "time": 3.040475845336914
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Five children are standing in front of a wooden hut\nSentence 2: Five children are standing in front of a hut made of wood\nLabel:",
+            "result": " similar\nSentence 1: A man is standing in front of a tree",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9732959270477295
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Five kids are standing close together and one kid has a gun\nSentence 2: Five kids are standing close together and one kid has a weapon\nLabel:",
+            "result": " similar\nSentence 1: There is a girl standing and",
+            "pred": 1,
+            "label": 1,
+            "time": 1.2591736316680908
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Five children are standing in front of a wooden hut\nSentence 2: Five kids are standing close together and one kid has a weapon\nLabel:",
+            "result": " similar\nSentence 1: Two children are playing a video game",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9864542484283447
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Five children are standing in front of a hut made of wood\nSentence 2: Five kids are standing close together and one kid has a gun\nLabel:",
+            "result": " similar\nSentence 1: There is an old lady and a young",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9922339916229248
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Five children are standing in front of a wooden hut\nSentence 2: Five kids are standing close together and one kid has a gun\nLabel:",
+            "result": " similar\nSentence 1: Boys are playing on the playground",
+            "pred": 1,
+            "label": 0,
+            "time": 0.906949520111084
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A person is wearing a hat and is sitting on the grass\nSentence 2: There is no person wearing a hat and sitting on the grass\nLabel:",
+            "result": " similar\nSentence 1: Some boys are playing in the alley",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9047765731811523
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A person is sitting in a field and is wearing a hat\nSentence 2: A man is sitting in a field\nLabel:",
+            "result": " similar\nSentence 1: A person is standing in a",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9113013744354248
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A man is sitting in a field\nSentence 2: There is no person wearing a hat and sitting on the grass\nLabel:",
+            "result": " not similar\nSentence 1: There is no child playing with",
+            "pred": 0,
+            "label": 0,
+            "time": 0.920935869216919
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: An old man is sitting in a field\nSentence 2: A person is wearing a hat and is sitting on the grass\nLabel:",
+            "result": " similar\nSentence 1: A group of children are playing with",
+            "pred": 1,
+            "label": 0,
+            "time": 1.0184195041656494
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A person is wearing a hat and is sitting on the grass\nSentence 2: A man is running in a field\nLabel:",
+            "result": " similar\nSentence 1: A woman is sitting on a chair and",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9111456871032715
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: This group of people is practicing water safety and wearing preservers\nSentence 2: Preservers are being worn by a group of people who are practicing water safety\nLabel:",
+            "result": " similar\nSentence 1: Most people who work in the field of psychiatry",
+            "pred": 1,
+            "label": 1,
+            "time": 1.0044093132019043
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Nobody is practicing water safety and wearing preservers\nSentence 2: This group of people is practicing water safety and wearing preservers\nLabel:",
+            "result": " not similar\nSentence 1: A man is sitting at a table",
+            "pred": 0,
+            "label": 0,
+            "time": 1.0056726932525635
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A group of friends are riding the current in a raft\nSentence 2: Preservers are being worn by a group of people who are practicing water safety\nLabel:",
+            "result": " similar\nSentence 1: Steve is a student and he is",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9662837982177734
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Nobody is practicing water safety and wearing preservers\nSentence 2: A group of friends are riding the current in a raft\nLabel:",
+            "result": " not similar\nSentence 1: Neither one of the girls",
+            "pred": 0,
+            "label": 0,
+            "time": 0.9730327129364014
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A group is not riding the current in a raft\nSentence 2: This group of people is practicing water safety and wearing preservers\nLabel:",
+            "result": " not similar\nSentence 1: There is no elephant in",
+            "pred": 0,
+            "label": 0,
+            "time": 4.026989459991455
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A deer is jumping over a fence\nSentence 2: A deer is jumping over the enclosure\nLabel:",
+            "result": " similar\nSentence 1: A group of children are playing",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9185619354248047
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A wild deer is jumping a fence\nSentence 2: A deer is jumping a fence\nLabel:",
+            "result": " similar\nSentence 1: John is drinking milk",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9273562431335449
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A deer is jumping a fence\nSentence 2: There is no deer jumping fences\nLabel:",
+            "result": " similar\nSentence 1: A bird is sitting on a",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9475822448730469
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A wild deer is jumping a fence\nSentence 2: A deer is jumping over a fence\nLabel:",
+            "result": " similar\nSentence 1: A cow is eating",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9535081386566162
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: There is no deer jumping fences\nSentence 2: A deer is jumping over a fence\nLabel:",
+            "result": " similar\nSentence 1: Someone is not sleeping\n",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9205591678619385
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A deer is jumping over the enclosure\nSentence 2: A deer is jumping a fence\nLabel:",
+            "result": " similar\nSentence 1: A deer is jumping",
+            "pred": 1,
+            "label": 1,
+            "time": 1.0073332786560059
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A deer is jumping a fence\nSentence 2: A deer isn't jumping over the fence\nLabel:",
+            "result": " similar\nSentence 1: The dog is barking loudly",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9265284538269043
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A deer is jumping over a fence\nSentence 2: A deer is jumping a fence\nLabel:",
+            "result": " similar\nSentence 1: Dogs are chasing a ball",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9997303485870361
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: People are walking outside a building that has many murals on it\nSentence 2: People are walking outside the building that has several murals on it\nLabel:",
+            "result": " similar\nSentence 1: A group of people is sitting on a",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9468915462493896
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Several people are in front of a building which is covered by colors\nSentence 2: Several people are in front of a colorful building\nLabel:",
+            "result": " similar\nSentence 1: A man standing at a bus stop",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9343643188476562
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Several people are in front of a building which is covered by colors\nSentence 2: People are walking outside a building that has many murals on it\nLabel:",
+            "result": " similar\nSentence 1: A student is walking outside",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9063715934753418
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: Several people are in front of a colorful building\nSentence 2: People are walking inside a building that has many murals on it\nLabel:",
+            "result": " similar\nSentence 1: A group of people is standing",
+            "pred": 1,
+            "label": 0,
+            "time": 0.9216392040252686
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: People are walking outside a building that has many murals on it\nSentence 2: Several people are in front of a colorful building\nLabel:",
+            "result": " similar\nSentence 1: There are many people standing near",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9510190486907959
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A boy is hitting a baseball\nSentence 2: A child is hitting a baseball\nLabel:",
+            "result": " similar\nSentence 1: A boy is jumping",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9581665992736816
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A child is hitting a baseball\nSentence 2: A child is missing a baseball\nLabel:",
+            "result": " similar\nSentence 1: The teacher is correcting a child",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9749205112457275
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A family is watching a little boy who is hitting a baseball\nSentence 2: A family is watching a boy who is hitting a baseball\nLabel:",
+            "result": " similar\nSentence 1: A man is riding a",
+            "pred": 1,
+            "label": 1,
+            "time": 1.180708646774292
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A little boy is watching a family that is hitting a baseball\nSentence 2: A family is watching a little boy who is hitting a baseball\nLabel:",
+            "result": " similar\nSentence 1: A man is walking across the street",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9597842693328857
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A family is watching a boy who is hitting a baseball\nSentence 2: A child is hitting a baseball\nLabel:",
+            "result": " similar\nSentence 1: A school is being constructed",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9357583522796631
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A little boy is watching a family that is hitting a baseball\nSentence 2: A child is hitting a baseball\nLabel:",
+            "result": " similar\nSentence 1: All the people where dressed up",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9554667472839355
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A family is watching a little boy who is hitting a baseball\nSentence 2: A boy is hitting a baseball\nLabel:",
+            "result": " similar\nSentence 1: An ant is",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9105260372161865
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A family is watching a little boy who is hitting a baseball\nSentence 2: A child is hitting a baseball\nLabel:",
+            "result": " similar\nSentence 1: My mom is talking to my dad",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9003987312316895
+        },
+        {
+            "prompt": "Decide if two sentences are similar or not similar\n\nSentence 1: There is no boy playing outdoors and there is no man smiling\nSentence 2: A group of kids is playing in a yard and an old man is standing in the background\nLabel: not similar\nSentence 1: A large group of Asian people is eating at a restaurant\nSentence 2: A group of people from Asia is eating at a restaurant\nLabel:",
+            "result": " similar\nSentence 1: A sports car is going fast and",
+            "pred": 1,
+            "label": 1,
+            "time": 0.9140982627868652
+        }
+    ],
+    "metrics": {
+        "p": 0.6888888888888889,
+        "r": 0.9393939393939394,
+        "f1": 0.7948717948717948
+    },
+    "total_time": 121.49963569641113,
+    "task": "similarity",
+    "model_name": "jurassic1-jumbo",
+    "prompt_name": "2",
+    "sample_size": 100,
+    "n_shot": 1,
+    "use_api": true
+}

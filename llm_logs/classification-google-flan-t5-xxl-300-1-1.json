@@ -1,0 +1,2117 @@
+{
+    "prompt_template": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: {text}\nLabel:",
+    "data": [
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Interesting choice of words... Are you confirming that governments fund #terrorism? Bit of an open door, but still...\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16893386840820312
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: My visit to hospital for care triggered #trauma from accident 20+yrs ago and image of my dead brother in it. Feeling symptoms of #depression\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17468953132629395
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Welcome to #MPSVT! We are delighted to have you! #grateful #MPSVT #relationships\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16853070259094238
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: What makes you feel #joyful?\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16691040992736816
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: i am revolting.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16651415824890137
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Rin might ever appeared gloomy but to be a melodramatic person was not her thing.\\n\\nBut honestly, she missed her old friend. The special one.\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16806530952453613
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: In need of a change! #restless\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1662607192993164
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user #cmbyn does screen  August 4 &amp; 6 at #miff\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.1739954948425293
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Get Donovan out of your soccer booth. He's awful. He's bitter. He makes me want to mute the tv. #horrid\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16896510124206543
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user how can u have sold so many copies but ur game has so many fucking bugs and mad lag issues. Optimize ur shit soon.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16829395294189453
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Pressured. \ud83d\ude26\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1671757698059082
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Yes #depression &amp; #anxiety are real but so is bein #grateful &amp; #happiness \\nI choose how i wanna live MY life not some disorder\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.17799115180969238
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: People who say nmu are the worst, something has to be going on, tell me I wanna know bout your life that's why I fucking asked, I care \ud83d\ude24\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18446040153503418
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user The hatred from the Left ought to concern everyone----who wants a police state-the left, so than can spy on all of us.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16962647438049316
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user #shocking loss of talented young man#prayers#pray for his family\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1674966812133789
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Its #amazing watching various news outlets showing mixed crowds of ppl watching #Eclipse with NO #racial tension.. #MSM can't hide this!\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.16810083389282227
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: That moment when people say you don't need medicine, it's mind over matter. You need to stop doing that. #bipolar\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.16834211349487305
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user Please. Don't insult Goths.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1640763282775879
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user What an F'ing liar\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16687798500061035
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: May or may not have just pulled the legal card on these folks. #irritated\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1751708984375
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Me: 'I miss your personality,will it come back?' Him: 'I'm sorry.I'm me. You be you.' #Sad #depressed #longdistancerelationship\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16942906379699707
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Comparing yourself to others is one of the root causes for feelings of unhappiness and depression.\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16812682151794434
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user Americans do not spank their children, and they are a God fearing people who knows the biggest sin is hypocrisy.\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.1685042381286621
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: The only upside to being deathly ill this week is that I've gotten better at taking pills. #optimism\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.16853022575378418
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Favorite character who's name starts with the letter M?\\n #Prisonbreak5  #The100 #GreysAnatomy\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1684887409210205
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I'm so nervous I could puke + my body temp is rising ha ha ha ha ha\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1862649917602539
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I cannot see a rational way of bearing a grudge to him for that. I do not. Maybe because I do not live by Netflix and I do not care...\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16866540908813477
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: And let the depression take the stage once more \ud83d\ude43\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1673262119293213
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I love swimming for the same reason I love meditating...the feeling of weightlessness.\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16823029518127441
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Is it just me that thinks it looks boring?\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16464877128601074
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: ,, The solar eclipse was really cool.. #inspiring!\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.17049813270568848
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Really??? I've had to hang up!\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1685483455657959
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: When Jim Sheridan is standing next to you and you don't say A WORD!!! #facepalm #tonguetied\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1685810089111328
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user -- can handle myself.\\n[Carl yelled back in fury, blood smeared across his face and clothes. Still holding onto his --\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16892766952514648
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user there was a fair bit of raging folk last night... something to do with pension day?\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16795849800109863
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user No #racism, no #hatred , no #sectarianism  ... Only yes to love\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.1684894561767578
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: sleep is and will always be one of the best remedies for a tired and weary soul\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.17069411277770996
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user where is my order? Placed on Monday via express delivery, yet no sign!!! #annoyed #hurryup Your customer service queues are #awful\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1734786033630371
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: yukwon no video do zico the world is shaking\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.1846323013305664
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: BUT, I have offended so many people with the idea that conflicts and value judgments are separate that we need to have a talk.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.16835737228393555
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user - spelled exactly how it makes you feel 'better eat land line'. Talking to my mom this week has been impossible. #goodservice #rage\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16840028762817383
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user John, what do you make of DJT's silence? He would usually be foaming at the mouth right now. Maybe he's constipated.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16907572746276855
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user happy birthday machaaaa \ud83c\udf88\ud83c\udf89\ud83c\udf8a stay awesome and murah rezeki selalu \ud83d\udc4d\ud83c\udffb\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1706068515777588
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: When you should be working, but you're shopping amazon prime deals instead... \ud83d\ude26\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.1696488857269287
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Karma is real bitch \ud83d\udd95\ud83c\udffcyou can't just be mean and do horrid things without paying the price \ud83d\ude02\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16887664794921875
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user Agree with @user or you are of a lower intelligence would be your message there then? #dreadful\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16895079612731934
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Rumor has you are #wellendowed #awesome! Truth is you are a #big \ud83d\ude32 #notsomuch so you know a bunch of #gaypeople #sowhat\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.16901040077209473
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: IK to PMLN: 'Darling, I will haunt you in your nightmares, dressed like a dream.' BEST THING EVER. #GameOverNawaz\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1687612533569336
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: OMG we're eating drinking in a restaurant and  so is a baby!!! Quell horror #YummyMummiesAU\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16977405548095703
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: hello phy6 i'm stressing over u ayuku na??\u00bf \u2639\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.169602632522583
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: There are parts of you that wants the sadness. Find them out, ask them why\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16967535018920898
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Are you always looking for quotes of your days? Then follow @user to learn more!\\n #quote  #doubleviz\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.1936323642730713
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user huhu kak help me through all of this\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16398954391479492
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Let's start all over again.....\\n#feels #lover #happiness #loyalty #truth\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.16797995567321777
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Earth's sixth mass extinction event under way, scientists warn **basically  caused by Islamic Muslim terrorism which Obama dem- rats back*\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16989707946777344
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Some days I feel like I'm going to accomplish everything I've ever dreamed.  Today is not one of those days #nomotivation #rainyday #gloomy\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1698169708251953
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: For every one concept I try to cram into my brain, I feel like I'm pushing out three. #panic\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16807889938354492
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: \u201cThe #optimist proclaims that we live in the best of all possible worlds; and the #pessimist fears this is true.\u201d ~ James Branch Cabell\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.16896486282348633
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Red Sox fans are #mad #onhere - it's almost like their All Star relief pitcher and 1st baseman both left with injuries in this game \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16834235191345215
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user - @user has occupied one full lane for toll collection permanently resulting in traffic snarl everyday on UP Link Road\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1686537265777588
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I've never been happier. I'm laying awake as I watch @user sleep. Thanks for making me happy again, babe.\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16820836067199707
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #Overheard: 'I don't really like dogs.' I DON'T FEEL SAFE IN THIS PLACE. Clearly a hostile environment!  #bigly #covfefe #TrustNoOne\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17256736755371094
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Hahaaa! Was fuming with that \ud83d\ude1e\ud83d\ude02\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1638014316558838
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user lel I already know the whole plot dont worry I would have warned you :D man... Cid tho... That bitch slapped Gabranths hand away\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16830801963806152
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Aw, bummer. @user (Maura Rankin) blocked me for calling her out as a #bully. Some people just #CantHandleTheTruth, can they?\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.19052648544311523
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user is the man\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.16856789588928223
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Gorkas is angrily unhinged, &amp;lecturing CNN on what?they should cover demanding they go after Hillary Clinton instead of Trump.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16948294639587402
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Request MRI 2 years ago, Neuro only requested last year, I'm still waiting on appointment  #mssucks #healthcareFail\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16989421844482422
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user a serious character flaw. Nowhere close to @user\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16825222969055176
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: 'I have a problem with authority.'\\n\\n'Oh, you mean you hate being told what to do?'\\n\\n'No. Authority figures just terrify me.'\\n\\n#SocialAnxiety\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.1699814796447754
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Improve on the makeup dear to avoid reduction in viewership...\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.1646108627319336
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: omg i'm soooo fucking fuming\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1684567928314209
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Pages like AjPlus profit off our outrage... they serve no purpose other than to show us shit that pisses us off. Don't need that negativity\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1702728271484375
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Trying my hardest not to curse people off. I look annoyed for a reason don't tell me to smile bitch!\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17133235931396484
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user please get Sebstian Gorka off of my tv.  The whole trump admin. needs to stop deflecting by talking about Hillary.  #awful\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17001771926879883
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user I have at 7am so I have to get up around 5am to get ready! N also 7am classes are never pleasant \ud83d\ude2d\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16940903663635254
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Couldn't have delivered without you @user - #inspiring #partnership #women\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.1692335605621338
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: \u201cLet us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\u201d\\nGalatians 6:9 NIV\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.1922140121459961
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: omg they said kyungsoo looked gloomy and his instant smile after that i'm melting\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17452502250671387
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user agreed but it had tessie by dropkicks playing outside of gameplay.  #awful\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17049121856689453
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user @user FYI speed trap on I-75/I-475 NB.Changes to 50 Mph . Slow down or receive a $120 ticket in mail! #angry\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16962766647338867
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: love to see them interacting \ud83d\ude38\ud83d\ude4f #itsbeensolong #laughing\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16906356811523438
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user I don't know my mouth was burning the whole time\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.1652379035949707
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: A woman is sterilised because she is certain that she doesn't want children. What exactly is there to discuss? \ud83d\ude20 #LooseWomen\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "anger",
+            "time": 0.17009878158569336
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Not only was @user and @user responsible for the unnecessary outrage of this movie, but made the director @user look bad\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1704697608947754
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: This the way I rage, \\n\\non sum wopstar shit \u2b50\ufe0f\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1705479621887207
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #happy #birthday #day trip #great day #super nice weather #blue sky #good mood #fun #love #ice cream #lycklig #f\u00f6delsedag #\u00f6land\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.16971540451049805
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Yeah funny and sexy \ud83d\ude0d\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16765260696411133
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #depression is a condition which will affect an estimated one in five of the population at some point in their lives\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16907167434692383
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user I Feel sick reading this, when does it end? #dread #civil war? #sad\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16912245750427246
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user \ud83d\ude02 He looked like a sea weed version of cousin IT from adams family and was reaaaally tall.\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1831221580505371
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: how i drink two 40s and im still somewhat sober ?\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.1760857105255127
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Oh Canada \ud83c\udde8\ud83c\udde6 shouldn't be sung like that. #terrible #MLBTHESHOW17\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1688385009765625
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Mima tremendous at bringing the noise.\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16780710220336914
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Lol nah u subscrib 4 R60/pm. N pay R3 each day thus anada R90/pm. Lol stream n use de app using ur data. #smiles\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16937899589538574
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Damn twitter making everybody mad, it's hilarious \ud83d\ude02\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.1651163101196289
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: this #overcast #cloudy #rainy weather makes me #lazy #glum and #sad\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17051911354064941
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: this person hasn't uploaded episode six or seven of the lodge and i'm\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1702272891998291
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user That'll be Madrid throwing a huff over Morata and De Gea. Fuck them\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1682908535003662
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I think #Saudis are responsible for most of the #islamic #terror in the world. Both with their #Wahhabism and by financing terrorists \u2026\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16969823837280273
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: \ud83d\udd1d #love #instagood #photooftheday @user #photoeveryday #cute #picture #beautiful #followme #happy #follow #fashion #pic #picoftheday\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.16963529586791992
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Of course I've got a horrible cold and am breaking out 2 days before grad \ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16861391067504883
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user You are a man after God's heart and I am proud that you are my president.  #BlessedAndGrateful #awesomeness\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1708667278289795
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user if I catch you making tea with water boiled up to 100 degrees, there will be dire consequences\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18088221549987793
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Wise you mean? \ud83d\ude05\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1771845817565918
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user big revenge guy\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1671438217163086
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Remain attached to God during your happiness and during your sadness.\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.1647202968597412
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Jen, awful funny how the tide has turned on this show! I am elated and amused! Goes from love fest to oh we have collusion!\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16852641105651855
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Odd watching #Antifa extremists going full spectrum to become Fascists\\n\\n#Violence #Hate #angry #Clueless #YOUTH in mom's #basement come out\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17048931121826172
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #Work not to\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.16825532913208008
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user I'm fuming that you're fuming \ud83d\ude44 #fuming\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16774368286132812
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user @user I bet he needed to take an anime break and drink a Zima after all the furious typing.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16827893257141113
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Exhausting for us. Imagine being so tightly wrapped that you're writing these 'think pieces' at such a furious rate. #medicated\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1680293083190918
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Haven't been on a holiday abroad in two years how depressing is that btw\u2639\ufe0f\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16782402992248535
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: sardonyx expresses herself through supporting the team with your incredible yo-yo skills and depression okay\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1688985824584961
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user OMG poor you! It happened to me last summer. I saw my under skin \ud83d\ude30\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1692349910736084
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: The patients were increasingly protected during heart attacks, chains have encouraged smoke, anger and hundreds of new hospitals.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.16751503944396973
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user you look shook! #afraid #shook #impeach #youaregoingdown\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18211793899536133
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Just added a copy of CANDIDE to my local Little Free Library &amp; a guy grabbed it literally 5 seconds later #optimism #BestOfAllPossibleWorlds\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.16847491264343262
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I feel so intimidated talking to chicken now that I know how pretty she is\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16691350936889648
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user (c) grew with resentment for herself and the world around her.\\n\\nHer spine tingled as she heard the incessant clicking of a (c)\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16974425315856934
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user are we in for Lemar even though wenger was very coy about him in his press conference\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.16869878768920898
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: My mother-in-law, in a fit of #rage, referred to someone as a 'yo-yo'.\\n#yoyo #motherinlaw #amirite #fitofrage\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16821527481079102
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Maybe don't nom so many raging dicks, Donny!  Jeez, it's like teaching a baby to fly a jet!\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.173234224319458
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: You know your (numerous)meds have kicked in when you find stupid things highly amusing #BPDproblems #KeepTalkingMH  #mentalhealth\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17181849479675293
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user believe it! you can start your temper tantrum now/\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16678667068481445
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Really?? Because music analyzes your screenshots with my microscope too??? I didn't think so #offended\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1735084056854248
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #LT a mom let her kid pay for the bus. The kid dropped the coins. I'm boiling in rage. My face may be straight bu my eyes say IMGONNAKILLYA\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17331552505493164
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Don't grieve over things so badly..\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1705784797668457
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user ballroom dancing class tomorrow, any advice for a first timer?\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.17089462280273438
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: you begin to irritate me, primitive\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18149876594543457
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user It's been a little Twitter saga lately. The tea thing is horrific, plus they never have fresh milk to put in it.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17214179039001465
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Just #snorted #laughing @user #outtakes @user @user #hilarious Best duo ever! @user\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17320466041564941
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: They say ur a prdct of ur surroundings. A bit intimidated by the crazy amazing ppl I met @ @user @user @user @user\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1722242832183838
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Three more shifts then I start the next part of my tutorship in response #enjoyingthelastfewdays #excited #nervous #newchallanges\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.1716163158416748
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: This nightmare is nearly over gang gang gang\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.17017030715942383
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user It's an evening for lying around doing feck all. Looks like an October evening down here #miserable\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17063093185424805
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Goddess, that poor girl \ud83d\ude41\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16982269287109375
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: i haven't had to speak maltese in over two years and now have relatives calling me about the trip and it's terrible \ud83d\ude43\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.17246031761169434
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user i know \ud83d\ude30\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.17047953605651855
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Cold sores are the worst. The second you smile or laugh, it's over. Blood everywhere\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17157554626464844
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Ganguly chose? It is Kohli's provocation which compelled Dada to pick that pretentious fuck.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1717517375946045
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user She is Right shld burn them alive \ud83d\ude21 it's even more better if they burn you with ur brothers \ud83d\ude20\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1798698902130127
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #unforgiveness lives in the #dark\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17986512184143066
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user shocked as well. but bc I cheer for another club in the swiss league\u2026\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "optimism",
+            "time": 0.17206072807312012
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user They give awful service and you haven't got back to my complaint yet. Can you guess the airline? #dontflyBA #annoyed\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17258882522583008
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user So are you saying there's a good chance that two teams might *gasp* finish last? One in the East and one in the West? #offended\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17083954811096191
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: We're in the bathroom and you perch on the sink,\\nI begin to infatuate, exasperate, resuscitate.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17089247703552246
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Scared to leave the routine but excited to break out the mould \ud83d\ude16 #scared #confused #happy #undecided #excited\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.17127752304077148
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Whatever you want to do, if you want to be #great at it, you have to #love it and be able to make sacrifices for it. #Quotes for you\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.17087650299072266
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: That became obvious with the Morata saga. The fucking bitter old cunt turned down 70m for that sideman.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17272710800170898
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Signs of Incipient Faggotry are the arsehole quivering and puckering.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17177581787109375
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: i'm nervous\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.169677734375
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: 'If you try to get rid of #fear and #anger without knowing their meaning, they will grow stronger and return.' \\n\u2015 Deepak Chopra\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17104744911193848
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user im sorry i voted jeans &lt;/3 u look banging who tf needs food anyway when ur a student existential dread feeds us\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17112159729003906
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Hey @user would it be safe to assume that this is the most disappointing #madden in years in your opinion?\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.17806744575500488
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user Yes it is. I especially love the ramble chat love when they go off topic for like ten minutes. #awesomeness\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.18355369567871094
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: this weather = my mood \u2614 #miserable\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16820001602172852
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Why do you send me a sales email suggesting that I am procrastinating 'asking out Derek from accounts'?  I am male.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16884946823120117
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user let that sink in\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "sadness",
+            "time": 0.16737604141235352
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: She doesn't know how to smile! So be it! #pissed \ud83d\ude0f\ud83d\ude12\ud83d\ude20\ud83d\ude21\ud83d\ude24\ud83d\udc40\ud83d\udc44\ud83d\udc4a\ud83d\udc4e\ud83d\ude4d\ud83d\udc94\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16918015480041504
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Humble yourself in the sight of the LORD. If we have died in Christ, then how can we be offended? A dead person cannot feel anything, right?\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.16864967346191406
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Chiropractor time  #crackle #pop #chiropractor\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16913461685180664
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: u can get an oreo shake at burger king\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16603994369506836
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: It takes a smoke detector 4 months to stop beeping if you were wondering how #lazy I am. #lol #funny #Comedy #laughs #CrackMeUp #hilarious\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17002439498901367
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Sir, what about 2G, 3G, 4G, Coalgate, scams Parliament Attack, Mumbai terror attacks despite intelligence input.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16914081573486328
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: watching that video and realizing that I've gotten uglier #depressed\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16831469535827637
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: fuckfuckfuck my hands are shaking\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16727256774902344
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: dark lucha truly is the best\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16902589797973633
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user yeah you have not been the perfect patient like I was #dread\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "anger",
+            "time": 0.18287086486816406
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I'm so sick of that 'I'm done w. My ex na we're never getting back together' crap so You can get back together in like a month \ud83d\ude02\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16930651664733887
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Come on blues #StateOfOrigin #Origin  #NSWBlues #nsw\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.16852474212646484
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Happy birthday cuzzo many blessing\ud83d\ude4c\ud83c\udffe\ud83d\udcaa\ud83c\udffe\ud83c\uddf3\ud83c\uddec\ud83d\udcaf#KeepGrinding #blessed\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16912317276000977
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user don't #worry, froggy\\nit will SOON be TIME for #FROGFEARFRIDAY!\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.16833734512329102
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I'm legit in the worst mood ever. #annoyed #irritated\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16980791091918945
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I think that Nuclear weapon and Cyber weapon are big threats, but I think that the bigger threat is Scalar weapon ...\\n#scalar #threat\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "anger",
+            "time": 0.1694808006286621
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Watching #ScottishOpenHeroChallenge from last night... Smoke, flames, tense sound effects and lively commentary.. #boring #dull #shite \ud83d\ude48\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16891694068908691
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user @user watching the #totalsolareclipse on ur channels right now #amazing what's happening in the #usa\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.1690673828125
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: faint glimpse of the circling stars. Presently, as I went on, still gaining velocity, the palpitation of night and day merged into one\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.16893529891967773
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user You made me laugh today when you told a caller to turn up the volume, that you weren't doing the #MarvinGaye thing #levity\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16853857040405273
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: 'look at your face in a mirror... You are so fat and dark... You can't have lunch with us' #kids #meangirls #rude #insult\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17087173461914062
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I'm so angry\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16829800605773926
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: my name is sara, im 20 years old and i cant believe boiling an onion is making me cry\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.18285512924194336
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Looking for good news today...not finding any on Twitter. Bummer. \ud83d\ude22 #depressing #badnews\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16829371452331543
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Jerrrrrr a woman is been stabbed in the face and now guys r arguing about her ass being real or not hehehee\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16871285438537598
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: AJ ends up being a terrible character, but no one in his family ever actually speaks to him. He witnesses so much and just gets sent away.\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16830682754516602
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Like you said, its all propaganda against #Israel. Palestinian adults and their Govt are full of #hatred. So sad to see\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17017030715942383
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I hung up on my manager last night \ud83d\ude2d\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.16816949844360352
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Bro no you don't you'll be so dissapointed in me \ud83d\ude02 il let you read it next time you're down here tho \ud83d\udc81\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.16850543022155762
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user keep your head clear an focused. Do not let T intimidate you or use your children to silence you! Hate when a man does that!\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16876578330993652
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: If your only response to this current political crap show is 'but Hillary!!' Or 'but Obama!!' you need to start looking for a new argument.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16836261749267578
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Although I have a nice vulva, I choose not to intimidate other women with it.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.16907668113708496
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: every time i think abt hobi crying i start crying\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16556811332702637
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Don't justify Terrorism as communal hatred. #AmarnathTerrorAttack is sheer Act of cowardice. Let's unite together against terrorism. Luv all\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "optimism",
+            "time": 0.17057275772094727
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: God bless him in Hong Kong! #ex\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16839957237243652
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user The best of make up horror story...\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1885089874267578
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user Naming India Lynchistan is not provocation terror is a provication even when terror has no religion.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16857171058654785
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Why don't you try nominating qualified people; B.DeVos, T.Pruitt, R.Perry,etc...really? They are terrible!\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16924381256103516
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #GameOfThones how can you top that next week #heartbreaking\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17019009590148926
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: John 14:27\\nLet not your heart be troubled, neither let it be afraid. #peace #afraid\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16922926902770996
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user At least smile a little holy crap Twiggy.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16428232192993164
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: we will send video to proper agency ,state workers harass the public to fuel the ego of Scott Arniel  and trial court what the bleep #bully\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16895198822021484
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Your majority is 635 members of the public- believe me you have offended rather more than 635 voters!\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1685183048248291
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user no it was a selfie of him from seven months  ago look at the top left of the snap people\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16913890838623047
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Do you ever just get so excited that you're trying to sleep &amp; just can't even close you eyes\ud83d\ude01like I really need this catnap but #excitement\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16985511779785156
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Fools! Little did you know that getting angry and trusting your instincts by walking right into my trap was a mistake!\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17039275169372559
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Just know USA, all Canadians don't agree with what Khadr's settlement and his unwillingness to take responsibility for his actions. #outrage\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16918540000915527
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: feeling like a grim reaper all day hehehe\\n9 days pa \ud83c\udfa9\u2709\ufe0f\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17000365257263184
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Ha, sadly not: just the undying respect of your peers, I'm afraid...\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.19238853454589844
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Look at this little guy! He is connecting to his magical self.\ud83d\ude07\\nWhat do you do to keep life magical?\ud83c\udf08 @user #magical  #be\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.16875910758972168
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user The GOP controls the Senate. Blaming the Dems seems #sad.\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17017126083374023
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Life is too short to hide your feelings. Don't be afraid to say what you feel.\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.1706681251525879
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #Sleep is my #drug. My bed is my dealer. My #alarm is the #cops. #School is the #jail. #TeamFollowBack\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.16901755332946777
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Oh no, jumper on again, has it turned colder? \ud83d\ude1f Have a terrific day\ud83d\ude4b\ud83c\udffc\ud83c\udf38\ud83c\udf3c\ud83c\udf3b\ud83d\udc95\ud83d\udc95\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.1697070598602295
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: and every time i cry hard, fear blankets me\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1683502197265625
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: the thing about living near campus during the summer is that it's a ghost town but now everyone is back and im #annoyed\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16893410682678223
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: get u a goofy shorty w/ a big heart &amp; a anger problem..\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17136764526367188
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user sad day Danny \ud83d\ude13you have been and still are a true Leeds rhino you have been brilliant at the club I will miss you\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.169935941696167
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: The one most important thing we forget. That we need to denounce terrorism, not stoke communalism  #AmarnathTerrorAttack\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1695573329925537
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I fw @user he don't hesitate to speak his mind\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "optimism",
+            "time": 0.16865777969360352
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Ah that's a neat idea, will check that out - might makes me more depressed about my slowness tho \ud83e\udd23\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16931581497192383
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Negative self-talk in #depression can extend to sleep, with catastrophic thinking about the impact of poor sleep fueling insomnia.\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.19174551963806152
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Mentally suffered #iwanttodie #worthless #lifewithoutcolor  #pain #suicidal\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1734931468963623
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: So exhausted I could cry \ud83d\ude2d\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16865754127502441
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user @user You need a new tactic post-Trump/Brexit. Hurling that insult around no longer works I'm afraid.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16928315162658691
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #Thoughtoftheday: 'Perpetual optimism is a force multiplier.' - Colin Powell #quote #optimism #positivity\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.16946148872375488
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Part of #danielhive #insecure i got you\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.168684720993042
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: If I were my own republic, I would declare war on patchouli incense.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1689319610595703
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: So, if you have a really tiny penis, get help, but please don't try to compensate on the road  #bigcar #tinypenis #roadrage\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17192840576171875
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: 'Florian Picasso - Final Call' is raging at ShoutDRIVE!\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "anger",
+            "time": 0.17024707794189453
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: He is holding her so close, wrapped his hands around her shoulder, she is holding them and they're both smiling. I'm still living. \u263a\ufe0f\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.1694188117980957
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: So apparently one of your bus drivers has a grudge against me @user I was passed while waiting for it to stop. Real service there..\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16969037055969238
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #YummyMummiesAU Are you serious! Breastfeeding should be illegal?! You breathing our air should be illegal, dumbass! #stupid\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16875767707824707
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: No offense to the girl next to me but dousing yourself with cheap cologne won't hide your rank smell\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16910195350646973
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: this one lady literally parked next to me and scared the shit out of me \ud83d\ude43\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.19353055953979492
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Things that rage me: when I hear a man ask a woman if she thinks her skirt/dress is too short\\n\\n\ud83d\ude28\ud83d\ude35\ud83d\ude20\ud83d\ude21\ud83d\ude24 #shame #rage #Feminism #feminist\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1830918788909912
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Catching up on Greys, almost couldn't make it through two episodes because of how sad the storyline was. Two best/worst eps for me.\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1781466007232666
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Support Qld and you'd never be #angry\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17404770851135254
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: The stupidest and weirdest thing people do. And what's more stupid than that? They upload it online. Oh my god. But good for laughter ah. \ud83e\udd23\ud83e\udd23\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17825698852539062
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: oh how i just love love love glee doing billy joel's numbers!!!!\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17711973190307617
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Wonder how many times connor says fuck in press conference #lost count\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18576884269714355
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Every day I dread doing an 8 hour shift in retail \ud83d\ude42\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17326593399047852
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Psalm 2:12 Kiss the Son, lest He be angry, And you perish in the way, When His wrath is kindled but a little.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17695140838623047
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: So excited for the final 10 eps of @user So happy @user is back and @user returns, as well as @user \ud83d\ude04\u2764\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17725110054016113
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: that moment when you feel meaningless and just feeling like you cant do anything right =*( #foreveralone\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1770308017730713
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: One of those days. #Mentalhealth #Anxiety #agoraphobia #panic #depression #OCD\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17671418190002441
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: My neck still hurting though... \ud83d\ude25\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1828162670135498
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user I know it bothers me that u worry my love@zae200012 \ud83d\ude22\ud83d\ude22\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.1815319061279297
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user oh, that too! \ud83e\udd23\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16457033157348633
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: on the upside i saw a corgi puppy on the tube today. my shining light in the dark.\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.16873645782470703
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: When you miss a call from @user #devastated \ud83d\ude2d I'm trying not to #cry \ud83d\ude2d\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16886043548583984
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Be fuming if Sunderland sign Murphy like. He was crap when we first signed him and he's still crap now\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17017793655395508
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: The use of violence, threat of violence and intimidation just tag zany pf. Very good at it.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17170023918151855
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Think it lost its heart after the second version. Third was disappointing and haven't played the fourth yet\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17054057121276855
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user This is goin to be as good as rocky vs hogan #terrible #ohnowhatisyoudoingbaby\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1705303192138672
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user Hope to come #yay Do u have central accom list plse? (Lone gal trying to avoid taxis \ud83d\ude09) \ud83c\udff0 #History #joy\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.17178106307983398
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Codes? Lyft codes? We got em! Use: OATH #Great deals are here for you now  #LOVEISLOVE\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "joy",
+            "time": 0.17053723335266113
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I'm sorry. Im much more interested in the #BachelorInParadise rose ceremony than whatever @user has. #seriously\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.17076396942138672
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Prepare to suffer the sting of Ghost Rider's power! Prepare to know the true meaning of hell!\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17198753356933594
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #AmarnathTerrorAttack @user @user cn u plz ans wt u r afrd of or wt stpng u to end #terrorism wn whol #India is stndng wth u\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.1953575611114502
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user i'm very happy glad or whatever the feelings i'm not into dramas\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.18481731414794922
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user You. Sir are a alarmist unsubstantiated facts. And a idiot\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16960835456848145
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user it is indeed time 4 you 2 create the Ghost Filter \ud83d\udc7b please\ud83d\ude4f\ud83c\udffe#CanWeGetAGhostFilter ???  #snapchat #ghostfilter #retweet\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.17103028297424316
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Thousands of pickled dunder-headed anthracites ! #furious\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16917634010314941
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Usually the things you are most #afraid of are the most #worthwhile. #FACT #TeamFollowBack #rocktheretweet\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.17743587493896484
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user no air working in the 1sr carriage of the 18:03 from Victoria to Bognor. #boiling #southernfail\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17013764381408691
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user awe feels or que :,(\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.16936993598937988
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: To be really knowledgeable and really petty is such a delight to behold.\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16941308975219727
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: An #angry #person may lose his/her objectivity, empathy, prudence or thoughtfulness and may cause harm to others.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17040801048278809
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Said it once and I'll probably say it again, anything more depressing than making your sandwiches for work the next day #cry\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17051053047180176
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Please, please do something about her! Where's Kayleigh, Jack, Jeff? Ugh. #awful #doctor?\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17213058471679688
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: They are burning not Muslims Economy,\\nThey are burning the Economy of Sri-Lanka\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17077350616455078
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Why  o they call it a happy mea. if it tastes like a whole lot like depression.\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.18021941184997559
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Johnny doesn't seem like the suicidal type #suspicion #tcmparty\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.18252325057983398
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Wow that last chick was a bit intense, poor Freddie was a bit unnerved lol #NinjaWarriorAU\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.16974139213562012
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: If I see one more Lakshmi EX enrage, I'm kill someone.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1697523593902588
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: filled with sophisticated glum\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17044663429260254
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: lonely is not being alone, it's the feeling that no one cares. #alone #depressed #anxiety\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1709299087524414
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: or just blame the gloomy weather\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1687777042388916
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I dreamt that my dog, Snoopy, came back to life. Man I miss that dog \ud83d\ude41\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.1700892448425293
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: But DAMN the sight of them getting scared af makes me feeel SOOO BAD! Which they should feel afraid cause if their mom don't come n it them\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.17107200622558594
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user after you said an apple pie isn't naughty I really want Chris or  @user to say 'but a cream pie is' #naughymind #rage\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17055559158325195
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Sometimes in #life ....\\nSee the #statement itself #sounds so #temporary\\nNothing is permanent isn't it?\\nSo #never #worry let it go &amp; #moveon\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.17292332649230957
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: From the archives... Strikeforce Champ Ronda Rousey 301 #chirp #church #mayhemmiller #naked #rip #rondarousey #twitter\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "sadness",
+            "time": 0.17186856269836426
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Tomorrow should be interesting if info is being released re away priority &amp; Canalside membership! #outrage #htafc\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.17061543464660645
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user i cant wait for the day you release the album so that i can finally unleash my fury \\n\\ni hate this long ass hiatus ok afshdkflckakdbwi\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1810016632080078
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user yessss waiting for an epi is for the birds. it sucks. im waiting for walking dead new season\ud83d\ude29\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18155550956726074
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: #note8 #animated said pen. Amazing. Wife loves this one\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1682591438293457
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user @user It ruins my frigging night each night at 9pm. Mrs loves it, i've been early to bed for a month.\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1710660457611084
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Ugh @user really do have the worst customer service!!!!!!! #astounded\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.1713395118713379
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I'm fuming I wanted Hamez\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.16950726509094238
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: My main concern are the children and his wife thats if she is still stuck with him and if she is, then she's strong af. Jeez \ud83d\ude1f\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "sadness",
+            "time": 0.17102646827697754
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user omg.  Who is this nan Hayworth person and where did she come from? Send her back!#sad #bad\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17070794105529785
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Been there done that\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.1688985824584961
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: i want to ruffle jungkook's hair.... this is so sad\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17190098762512207
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: Don't be afraid to ask questions! He's real &amp; there's always a revelation.\nLabel:",
+            "result": "optimism",
+            "pred": "optimism",
+            "label": "optimism",
+            "time": 0.17173433303833008
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user Wow I've just spotted the cutest human being alive #blessed \ud83d\ude0d\nLabel:",
+            "result": "joy",
+            "pred": "joy",
+            "label": "joy",
+            "time": 0.17009496688842773
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: I've seen the innocence leave your eyes. I still mourn this death.\nLabel:",
+            "result": "sadness",
+            "pred": "sadness",
+            "label": "sadness",
+            "time": 0.17051053047180176
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: @user I coloured my hair bright red AND had a dodgy fringe. #dreadful #nophotos #thankgoodness #betterblonde\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "joy",
+            "time": 0.18027234077453613
+        },
+        {
+            "prompt": "Classify into 4 labels: anger,sadness,joy,optimism\n\nText: #Deppression is real. Partners w/ #depressed people truly dont understand the depth in which they affect us. Add in #anxiety &amp;makes it worse\nLabel: sadness\nText: You couldn't mind me up more if you tried right now raging \ud83d\ude43\ud83d\ude20\nLabel:",
+            "result": "anger",
+            "pred": "anger",
+            "label": "anger",
+            "time": 0.18335771560668945
+        }
+    ],
+    "metrics": {
+        "p": 0.7404805639710134,
+        "r": 0.7522438175423249,
+        "f1": 0.7366809338521401
+    },
+    "total_time": 51.49243974685669,
+    "task": "classification",
+    "model_name": "google/flan-t5-xxl",
+    "prompt_name": "1",
+    "sample_size": 300,
+    "n_shot": 1,
+    "use_api": true
+}
